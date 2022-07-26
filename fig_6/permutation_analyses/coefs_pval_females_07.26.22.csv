@@ -1,0 +1,701 @@
+,coefs,pval
+0,Mode1_Main effect e2/2,0.001
+1,Mode2_Main effect e2/2,0.001
+2,Mode3_Main effect e2/2,0.001
+3,Mode4_Main effect e2/2,0.001
+4,Mode5_Main effect e2/2,0.001
+5,Mode6_Main effect e2/2,0.001
+6,Mode7_Main effect e2/2,0.001
+7,Mode8_Main effect e2/2,0.001
+8,Mode9_Main effect e2/2,0.001
+9,Mode10_Main effect e2/2,0.001
+10,Mode11_Main effect e2/2,0.001
+11,Mode12_Main effect e2/2,0.001
+12,Mode13_Main effect e2/2,0.001
+13,Mode14_Main effect e2/2,0.001
+14,Mode15_Main effect e2/2,0.001
+15,Mode16_Main effect e2/2,0.001
+16,Mode17_Main effect e2/2,0.0
+17,Mode18_Main effect e2/2,0.001
+18,Mode19_Main effect e2/2,0.001
+19,Mode20_Main effect e2/2,0.001
+20,Mode21_Main effect e2/2,0.001
+21,Mode22_Main effect e2/2,0.0
+22,Mode23_Main effect e2/2,0.001
+23,Mode24_Main effect e2/2,0.001
+24,Mode25_Main effect e2/2,0.001
+25,Mode26_Main effect e2/2,0.001
+26,Mode27_Main effect e2/2,0.001
+27,Mode28_Main effect e2/2,0.001
+28,Mode29_Main effect e2/2,0.001
+29,Mode30_Main effect e2/2,0.0
+30,Mode31_Main effect e2/2,0.0
+31,Mode32_Main effect e2/2,0.001
+32,Mode33_Main effect e2/2,0.001
+33,Mode34_Main effect e2/2,0.001
+34,Mode35_Main effect e2/2,0.0
+35,Mode36_Main effect e2/2,0.001
+36,Mode37_Main effect e2/2,0.0
+37,Mode38_Main effect e2/2,0.001
+38,Mode39_Main effect e2/2,0.0
+39,Mode40_Main effect e2/2,0.001
+40,Mode41_Main effect e2/2,0.0
+41,Mode42_Main effect e2/2,0.0
+42,Mode43_Main effect e2/2,0.001
+43,Mode44_Main effect e2/2,0.001
+44,Mode45_Main effect e2/2,0.0
+45,Mode46_Main effect e2/2,0.0
+46,Mode47_Main effect e2/2,0.0
+47,Mode48_Main effect e2/2,0.0
+48,Mode49_Main effect e2/2,0.0
+49,Mode50_Main effect e2/2,0.0
+50,Mode1_Main effect e2/3,0.0
+51,Mode2_Main effect e2/3,0.0
+52,Mode3_Main effect e2/3,0.0
+53,Mode4_Main effect e2/3,0.0
+54,Mode5_Main effect e2/3,0.0
+55,Mode6_Main effect e2/3,0.0
+56,Mode7_Main effect e2/3,0.0
+57,Mode8_Main effect e2/3,0.0
+58,Mode9_Main effect e2/3,0.0
+59,Mode10_Main effect e2/3,0.0
+60,Mode11_Main effect e2/3,0.0
+61,Mode12_Main effect e2/3,0.0
+62,Mode13_Main effect e2/3,0.0
+63,Mode14_Main effect e2/3,0.0
+64,Mode15_Main effect e2/3,0.0
+65,Mode16_Main effect e2/3,0.0
+66,Mode17_Main effect e2/3,0.0
+67,Mode18_Main effect e2/3,0.0
+68,Mode19_Main effect e2/3,0.0
+69,Mode20_Main effect e2/3,0.0
+70,Mode21_Main effect e2/3,0.0
+71,Mode22_Main effect e2/3,0.0
+72,Mode23_Main effect e2/3,0.0
+73,Mode24_Main effect e2/3,0.0
+74,Mode25_Main effect e2/3,0.0
+75,Mode26_Main effect e2/3,0.0
+76,Mode27_Main effect e2/3,0.0
+77,Mode28_Main effect e2/3,0.0
+78,Mode29_Main effect e2/3,0.0
+79,Mode30_Main effect e2/3,0.0
+80,Mode31_Main effect e2/3,0.0
+81,Mode32_Main effect e2/3,0.0
+82,Mode33_Main effect e2/3,0.0
+83,Mode34_Main effect e2/3,0.0
+84,Mode35_Main effect e2/3,0.0
+85,Mode36_Main effect e2/3,0.0
+86,Mode37_Main effect e2/3,0.0
+87,Mode38_Main effect e2/3,0.0
+88,Mode39_Main effect e2/3,0.0
+89,Mode40_Main effect e2/3,0.0
+90,Mode41_Main effect e2/3,0.0
+91,Mode42_Main effect e2/3,0.0
+92,Mode43_Main effect e2/3,0.0
+93,Mode44_Main effect e2/3,0.0
+94,Mode45_Main effect e2/3,0.0
+95,Mode46_Main effect e2/3,0.0
+96,Mode47_Main effect e2/3,0.0
+97,Mode48_Main effect e2/3,0.0
+98,Mode49_Main effect e2/3,0.0
+99,Mode50_Main effect e2/3,0.0
+100,Mode1_Main effect e3/3,0.0
+101,Mode2_Main effect e3/3,0.0
+102,Mode3_Main effect e3/3,0.0
+103,Mode4_Main effect e3/3,0.0
+104,Mode5_Main effect e3/3,0.0
+105,Mode6_Main effect e3/3,0.0
+106,Mode7_Main effect e3/3,0.0
+107,Mode8_Main effect e3/3,0.0
+108,Mode9_Main effect e3/3,0.0
+109,Mode10_Main effect e3/3,0.0
+110,Mode11_Main effect e3/3,0.0
+111,Mode12_Main effect e3/3,0.0
+112,Mode13_Main effect e3/3,0.0
+113,Mode14_Main effect e3/3,0.0
+114,Mode15_Main effect e3/3,0.0
+115,Mode16_Main effect e3/3,0.0
+116,Mode17_Main effect e3/3,0.0
+117,Mode18_Main effect e3/3,0.0
+118,Mode19_Main effect e3/3,0.0
+119,Mode20_Main effect e3/3,0.0
+120,Mode21_Main effect e3/3,0.0
+121,Mode22_Main effect e3/3,0.0
+122,Mode23_Main effect e3/3,0.0
+123,Mode24_Main effect e3/3,0.0
+124,Mode25_Main effect e3/3,0.0
+125,Mode26_Main effect e3/3,0.0
+126,Mode27_Main effect e3/3,0.0
+127,Mode28_Main effect e3/3,0.0
+128,Mode29_Main effect e3/3,0.0
+129,Mode30_Main effect e3/3,0.0
+130,Mode31_Main effect e3/3,0.0
+131,Mode32_Main effect e3/3,0.0
+132,Mode33_Main effect e3/3,0.0
+133,Mode34_Main effect e3/3,0.0
+134,Mode35_Main effect e3/3,0.0
+135,Mode36_Main effect e3/3,0.0
+136,Mode37_Main effect e3/3,0.0
+137,Mode38_Main effect e3/3,0.0
+138,Mode39_Main effect e3/3,0.0
+139,Mode40_Main effect e3/3,0.0
+140,Mode41_Main effect e3/3,0.0
+141,Mode42_Main effect e3/3,0.0
+142,Mode43_Main effect e3/3,0.0
+143,Mode44_Main effect e3/3,0.0
+144,Mode45_Main effect e3/3,0.0
+145,Mode46_Main effect e3/3,0.0
+146,Mode47_Main effect e3/3,0.0
+147,Mode48_Main effect e3/3,0.0
+148,Mode49_Main effect e3/3,0.0
+149,Mode50_Main effect e3/3,0.0
+150,Mode1_Main effect e2/4,0.007
+151,Mode2_Main effect e2/4,0.013
+152,Mode3_Main effect e2/4,0.011
+153,Mode4_Main effect e2/4,0.006
+154,Mode5_Main effect e2/4,0.007
+155,Mode6_Main effect e2/4,0.008
+156,Mode7_Main effect e2/4,0.007
+157,Mode8_Main effect e2/4,0.006
+158,Mode9_Main effect e2/4,0.007
+159,Mode10_Main effect e2/4,0.004
+160,Mode11_Main effect e2/4,0.007
+161,Mode12_Main effect e2/4,0.005
+162,Mode13_Main effect e2/4,0.007
+163,Mode14_Main effect e2/4,0.006
+164,Mode15_Main effect e2/4,0.008
+165,Mode16_Main effect e2/4,0.004
+166,Mode17_Main effect e2/4,0.007
+167,Mode18_Main effect e2/4,0.005
+168,Mode19_Main effect e2/4,0.002
+169,Mode20_Main effect e2/4,0.006
+170,Mode21_Main effect e2/4,0.007
+171,Mode22_Main effect e2/4,0.004
+172,Mode23_Main effect e2/4,0.008
+173,Mode24_Main effect e2/4,0.003
+174,Mode25_Main effect e2/4,0.006
+175,Mode26_Main effect e2/4,0.006
+176,Mode27_Main effect e2/4,0.013
+177,Mode28_Main effect e2/4,0.007
+178,Mode29_Main effect e2/4,0.004
+179,Mode30_Main effect e2/4,0.005
+180,Mode31_Main effect e2/4,0.006
+181,Mode32_Main effect e2/4,0.005
+182,Mode33_Main effect e2/4,0.006
+183,Mode34_Main effect e2/4,0.003
+184,Mode35_Main effect e2/4,0.005
+185,Mode36_Main effect e2/4,0.006
+186,Mode37_Main effect e2/4,0.004
+187,Mode38_Main effect e2/4,0.005
+188,Mode39_Main effect e2/4,0.01
+189,Mode40_Main effect e2/4,0.008
+190,Mode41_Main effect e2/4,0.004
+191,Mode42_Main effect e2/4,0.009
+192,Mode43_Main effect e2/4,0.004
+193,Mode44_Main effect e2/4,0.001
+194,Mode45_Main effect e2/4,0.004
+195,Mode46_Main effect e2/4,0.004
+196,Mode47_Main effect e2/4,0.004
+197,Mode48_Main effect e2/4,0.004
+198,Mode49_Main effect e2/4,0.004
+199,Mode50_Main effect e2/4,0.003
+200,Mode1_Main effect e3/4,0.0
+201,Mode2_Main effect e3/4,0.0
+202,Mode3_Main effect e3/4,0.0
+203,Mode4_Main effect e3/4,0.0
+204,Mode5_Main effect e3/4,0.0
+205,Mode6_Main effect e3/4,0.0
+206,Mode7_Main effect e3/4,0.0
+207,Mode8_Main effect e3/4,0.0
+208,Mode9_Main effect e3/4,0.0
+209,Mode10_Main effect e3/4,0.0
+210,Mode11_Main effect e3/4,0.0
+211,Mode12_Main effect e3/4,0.0
+212,Mode13_Main effect e3/4,0.0
+213,Mode14_Main effect e3/4,0.0
+214,Mode15_Main effect e3/4,0.0
+215,Mode16_Main effect e3/4,0.0
+216,Mode17_Main effect e3/4,0.0
+217,Mode18_Main effect e3/4,0.0
+218,Mode19_Main effect e3/4,0.0
+219,Mode20_Main effect e3/4,0.0
+220,Mode21_Main effect e3/4,0.0
+221,Mode22_Main effect e3/4,0.0
+222,Mode23_Main effect e3/4,0.0
+223,Mode24_Main effect e3/4,0.0
+224,Mode25_Main effect e3/4,0.0
+225,Mode26_Main effect e3/4,0.0
+226,Mode27_Main effect e3/4,0.0
+227,Mode28_Main effect e3/4,0.0
+228,Mode29_Main effect e3/4,0.0
+229,Mode30_Main effect e3/4,0.0
+230,Mode31_Main effect e3/4,0.0
+231,Mode32_Main effect e3/4,0.0
+232,Mode33_Main effect e3/4,0.0
+233,Mode34_Main effect e3/4,0.0
+234,Mode35_Main effect e3/4,0.0
+235,Mode36_Main effect e3/4,0.0
+236,Mode37_Main effect e3/4,0.0
+237,Mode38_Main effect e3/4,0.0
+238,Mode39_Main effect e3/4,0.0
+239,Mode40_Main effect e3/4,0.0
+240,Mode41_Main effect e3/4,0.0
+241,Mode42_Main effect e3/4,0.0
+242,Mode43_Main effect e3/4,0.0
+243,Mode44_Main effect e3/4,0.0
+244,Mode45_Main effect e3/4,0.0
+245,Mode46_Main effect e3/4,0.0
+246,Mode47_Main effect e3/4,0.0
+247,Mode48_Main effect e3/4,0.0
+248,Mode49_Main effect e3/4,0.0
+249,Mode50_Main effect e3/4,0.0
+250,Mode1_Main effect e4/4,0.0
+251,Mode2_Main effect e4/4,0.0
+252,Mode3_Main effect e4/4,0.0
+253,Mode4_Main effect e4/4,0.0
+254,Mode5_Main effect e4/4,0.0
+255,Mode6_Main effect e4/4,0.0
+256,Mode7_Main effect e4/4,0.0
+257,Mode8_Main effect e4/4,0.0
+258,Mode9_Main effect e4/4,0.0
+259,Mode10_Main effect e4/4,0.0
+260,Mode11_Main effect e4/4,0.0
+261,Mode12_Main effect e4/4,0.0
+262,Mode13_Main effect e4/4,0.0
+263,Mode14_Main effect e4/4,0.0
+264,Mode15_Main effect e4/4,0.0
+265,Mode16_Main effect e4/4,0.0
+266,Mode17_Main effect e4/4,0.0
+267,Mode18_Main effect e4/4,0.0
+268,Mode19_Main effect e4/4,0.0
+269,Mode20_Main effect e4/4,0.0
+270,Mode21_Main effect e4/4,0.0
+271,Mode22_Main effect e4/4,0.0
+272,Mode23_Main effect e4/4,0.0
+273,Mode24_Main effect e4/4,0.0
+274,Mode25_Main effect e4/4,0.0
+275,Mode26_Main effect e4/4,0.0
+276,Mode27_Main effect e4/4,0.0
+277,Mode28_Main effect e4/4,0.0
+278,Mode29_Main effect e4/4,0.0
+279,Mode30_Main effect e4/4,0.0
+280,Mode31_Main effect e4/4,0.0
+281,Mode32_Main effect e4/4,0.0
+282,Mode33_Main effect e4/4,0.0
+283,Mode34_Main effect e4/4,0.0
+284,Mode35_Main effect e4/4,0.0
+285,Mode36_Main effect e4/4,0.0
+286,Mode37_Main effect e4/4,0.0
+287,Mode38_Main effect e4/4,0.0
+288,Mode39_Main effect e4/4,0.0
+289,Mode40_Main effect e4/4,0.0
+290,Mode41_Main effect e4/4,0.0
+291,Mode42_Main effect e4/4,0.0
+292,Mode43_Main effect e4/4,0.0
+293,Mode44_Main effect e4/4,0.0
+294,Mode45_Main effect e4/4,0.0
+295,Mode46_Main effect e4/4,0.0
+296,Mode47_Main effect e4/4,0.0
+297,Mode48_Main effect e4/4,0.0
+298,Mode49_Main effect e4/4,0.0
+299,Mode50_Main effect e4/4,0.0
+300,Mode1_Main effect canonical variate,0.083
+301,Mode2_Main effect canonical variate,0.001
+302,Mode3_Main effect canonical variate,0.217
+303,Mode4_Main effect canonical variate,0.044
+304,Mode5_Main effect canonical variate,0.038
+305,Mode6_Main effect canonical variate,0.456
+306,Mode7_Main effect canonical variate,0.365
+307,Mode8_Main effect canonical variate,0.029
+308,Mode9_Main effect canonical variate,0.084
+309,Mode10_Main effect canonical variate,0.036
+310,Mode11_Main effect canonical variate,0.131
+311,Mode12_Main effect canonical variate,0.014
+312,Mode13_Main effect canonical variate,0.104
+313,Mode14_Main effect canonical variate,0.315
+314,Mode15_Main effect canonical variate,0.224
+315,Mode16_Main effect canonical variate,0.25
+316,Mode17_Main effect canonical variate,0.148
+317,Mode18_Main effect canonical variate,0.239
+318,Mode19_Main effect canonical variate,0.065
+319,Mode20_Main effect canonical variate,0.22
+320,Mode21_Main effect canonical variate,0.155
+321,Mode22_Main effect canonical variate,0.223
+322,Mode23_Main effect canonical variate,0.168
+323,Mode24_Main effect canonical variate,0.005
+324,Mode25_Main effect canonical variate,0.083
+325,Mode26_Main effect canonical variate,0.091
+326,Mode27_Main effect canonical variate,0.02
+327,Mode28_Main effect canonical variate,0.016
+328,Mode29_Main effect canonical variate,0.285
+329,Mode30_Main effect canonical variate,0.207
+330,Mode31_Main effect canonical variate,0.008
+331,Mode32_Main effect canonical variate,0.064
+332,Mode33_Main effect canonical variate,0.15
+333,Mode34_Main effect canonical variate,0.0
+334,Mode35_Main effect canonical variate,0.124
+335,Mode36_Main effect canonical variate,0.186
+336,Mode37_Main effect canonical variate,0.188
+337,Mode38_Main effect canonical variate,0.065
+338,Mode39_Main effect canonical variate,0.066
+339,Mode40_Main effect canonical variate,0.105
+340,Mode41_Main effect canonical variate,0.007
+341,Mode42_Main effect canonical variate,0.191
+342,Mode43_Main effect canonical variate,0.015
+343,Mode44_Main effect canonical variate,0.052
+344,Mode45_Main effect canonical variate,0.003
+345,Mode46_Main effect canonical variate,0.236
+346,Mode47_Main effect canonical variate,0.113
+347,Mode48_Main effect canonical variate,0.264
+348,Mode49_Main effect canonical variate,0.119
+349,Mode50_Main effect canonical variate,0.211
+350,Mode1_Canonical variate x e2/2,0.283
+351,Mode2_Canonical variate x e2/2,0.075
+352,Mode3_Canonical variate x e2/2,0.14
+353,Mode4_Canonical variate x e2/2,0.126
+354,Mode5_Canonical variate x e2/2,0.022
+355,Mode6_Canonical variate x e2/2,0.181
+356,Mode7_Canonical variate x e2/2,0.077
+357,Mode8_Canonical variate x e2/2,0.039
+358,Mode9_Canonical variate x e2/2,0.063
+359,Mode10_Canonical variate x e2/2,0.02
+360,Mode11_Canonical variate x e2/2,0.296
+361,Mode12_Canonical variate x e2/2,0.002
+362,Mode13_Canonical variate x e2/2,0.281
+363,Mode14_Canonical variate x e2/2,0.075
+364,Mode15_Canonical variate x e2/2,0.236
+365,Mode16_Canonical variate x e2/2,0.091
+366,Mode17_Canonical variate x e2/2,0.181
+367,Mode18_Canonical variate x e2/2,0.282
+368,Mode19_Canonical variate x e2/2,0.21
+369,Mode20_Canonical variate x e2/2,0.136
+370,Mode21_Canonical variate x e2/2,0.271
+371,Mode22_Canonical variate x e2/2,0.038
+372,Mode23_Canonical variate x e2/2,0.235
+373,Mode24_Canonical variate x e2/2,0.045
+374,Mode25_Canonical variate x e2/2,0.075
+375,Mode26_Canonical variate x e2/2,0.127
+376,Mode27_Canonical variate x e2/2,0.139
+377,Mode28_Canonical variate x e2/2,0.121
+378,Mode29_Canonical variate x e2/2,0.301
+379,Mode30_Canonical variate x e2/2,0.224
+380,Mode31_Canonical variate x e2/2,0.044
+381,Mode32_Canonical variate x e2/2,0.288
+382,Mode33_Canonical variate x e2/2,0.215
+383,Mode34_Canonical variate x e2/2,0.0
+384,Mode35_Canonical variate x e2/2,0.243
+385,Mode36_Canonical variate x e2/2,0.039
+386,Mode37_Canonical variate x e2/2,0.172
+387,Mode38_Canonical variate x e2/2,0.127
+388,Mode39_Canonical variate x e2/2,0.222
+389,Mode40_Canonical variate x e2/2,0.185
+390,Mode41_Canonical variate x e2/2,0.072
+391,Mode42_Canonical variate x e2/2,0.177
+392,Mode43_Canonical variate x e2/2,0.022
+393,Mode44_Canonical variate x e2/2,0.055
+394,Mode45_Canonical variate x e2/2,0.006
+395,Mode46_Canonical variate x e2/2,0.222
+396,Mode47_Canonical variate x e2/2,0.109
+397,Mode48_Canonical variate x e2/2,0.055
+398,Mode49_Canonical variate x e2/2,0.029
+399,Mode50_Canonical variate x e2/2,0.188
+400,Mode1_Canonical variate x e2/3,0.109
+401,Mode2_Canonical variate x e2/3,0.036
+402,Mode3_Canonical variate x e2/3,0.205
+403,Mode4_Canonical variate x e2/3,0.367
+404,Mode5_Canonical variate x e2/3,0.054
+405,Mode6_Canonical variate x e2/3,0.299
+406,Mode7_Canonical variate x e2/3,0.19
+407,Mode8_Canonical variate x e2/3,0.012
+408,Mode9_Canonical variate x e2/3,0.007
+409,Mode10_Canonical variate x e2/3,0.115
+410,Mode11_Canonical variate x e2/3,0.132
+411,Mode12_Canonical variate x e2/3,0.398
+412,Mode13_Canonical variate x e2/3,0.004
+413,Mode14_Canonical variate x e2/3,0.012
+414,Mode15_Canonical variate x e2/3,0.084
+415,Mode16_Canonical variate x e2/3,0.0
+416,Mode17_Canonical variate x e2/3,0.319
+417,Mode18_Canonical variate x e2/3,0.228
+418,Mode19_Canonical variate x e2/3,0.177
+419,Mode20_Canonical variate x e2/3,0.098
+420,Mode21_Canonical variate x e2/3,0.219
+421,Mode22_Canonical variate x e2/3,0.282
+422,Mode23_Canonical variate x e2/3,0.173
+423,Mode24_Canonical variate x e2/3,0.169
+424,Mode25_Canonical variate x e2/3,0.305
+425,Mode26_Canonical variate x e2/3,0.263
+426,Mode27_Canonical variate x e2/3,0.046
+427,Mode28_Canonical variate x e2/3,0.052
+428,Mode29_Canonical variate x e2/3,0.3
+429,Mode30_Canonical variate x e2/3,0.242
+430,Mode31_Canonical variate x e2/3,0.186
+431,Mode32_Canonical variate x e2/3,0.214
+432,Mode33_Canonical variate x e2/3,0.265
+433,Mode34_Canonical variate x e2/3,0.068
+434,Mode35_Canonical variate x e2/3,0.258
+435,Mode36_Canonical variate x e2/3,0.122
+436,Mode37_Canonical variate x e2/3,0.071
+437,Mode38_Canonical variate x e2/3,0.092
+438,Mode39_Canonical variate x e2/3,0.065
+439,Mode40_Canonical variate x e2/3,0.058
+440,Mode41_Canonical variate x e2/3,0.245
+441,Mode42_Canonical variate x e2/3,0.015
+442,Mode43_Canonical variate x e2/3,0.044
+443,Mode44_Canonical variate x e2/3,0.02
+444,Mode45_Canonical variate x e2/3,0.055
+445,Mode46_Canonical variate x e2/3,0.157
+446,Mode47_Canonical variate x e2/3,0.126
+447,Mode48_Canonical variate x e2/3,0.168
+448,Mode49_Canonical variate x e2/3,0.011
+449,Mode50_Canonical variate x e2/3,0.037
+450,Mode1_Canonical variate x e3/3,0.461
+451,Mode2_Canonical variate x e3/3,0.013
+452,Mode3_Canonical variate x e3/3,0.424
+453,Mode4_Canonical variate x e3/3,0.045
+454,Mode5_Canonical variate x e3/3,0.095
+455,Mode6_Canonical variate x e3/3,0.358
+456,Mode7_Canonical variate x e3/3,0.314
+457,Mode8_Canonical variate x e3/3,0.01
+458,Mode9_Canonical variate x e3/3,0.13
+459,Mode10_Canonical variate x e3/3,0.038
+460,Mode11_Canonical variate x e3/3,0.272
+461,Mode12_Canonical variate x e3/3,0.001
+462,Mode13_Canonical variate x e3/3,0.186
+463,Mode14_Canonical variate x e3/3,0.288
+464,Mode15_Canonical variate x e3/3,0.365
+465,Mode16_Canonical variate x e3/3,0.114
+466,Mode17_Canonical variate x e3/3,0.288
+467,Mode18_Canonical variate x e3/3,0.326
+468,Mode19_Canonical variate x e3/3,0.176
+469,Mode20_Canonical variate x e3/3,0.314
+470,Mode21_Canonical variate x e3/3,0.329
+471,Mode22_Canonical variate x e3/3,0.186
+472,Mode23_Canonical variate x e3/3,0.053
+473,Mode24_Canonical variate x e3/3,0.035
+474,Mode25_Canonical variate x e3/3,0.218
+475,Mode26_Canonical variate x e3/3,0.225
+476,Mode27_Canonical variate x e3/3,0.061
+477,Mode28_Canonical variate x e3/3,0.26
+478,Mode29_Canonical variate x e3/3,0.319
+479,Mode30_Canonical variate x e3/3,0.265
+480,Mode31_Canonical variate x e3/3,0.005
+481,Mode32_Canonical variate x e3/3,0.043
+482,Mode33_Canonical variate x e3/3,0.162
+483,Mode34_Canonical variate x e3/3,0.003
+484,Mode35_Canonical variate x e3/3,0.179
+485,Mode36_Canonical variate x e3/3,0.267
+486,Mode37_Canonical variate x e3/3,0.186
+487,Mode38_Canonical variate x e3/3,0.072
+488,Mode39_Canonical variate x e3/3,0.048
+489,Mode40_Canonical variate x e3/3,0.238
+490,Mode41_Canonical variate x e3/3,0.009
+491,Mode42_Canonical variate x e3/3,0.089
+492,Mode43_Canonical variate x e3/3,0.055
+493,Mode44_Canonical variate x e3/3,0.085
+494,Mode45_Canonical variate x e3/3,0.006
+495,Mode46_Canonical variate x e3/3,0.146
+496,Mode47_Canonical variate x e3/3,0.13
+497,Mode48_Canonical variate x e3/3,0.199
+498,Mode49_Canonical variate x e3/3,0.194
+499,Mode50_Canonical variate x e3/3,0.241
+500,Mode1_Canonical variate x e2/4,0.305
+501,Mode2_Canonical variate x e2/4,0.038
+502,Mode3_Canonical variate x e2/4,0.211
+503,Mode4_Canonical variate x e2/4,0.436
+504,Mode5_Canonical variate x e2/4,0.244
+505,Mode6_Canonical variate x e2/4,0.124
+506,Mode7_Canonical variate x e2/4,0.392
+507,Mode8_Canonical variate x e2/4,0.069
+508,Mode9_Canonical variate x e2/4,0.106
+509,Mode10_Canonical variate x e2/4,0.083
+510,Mode11_Canonical variate x e2/4,0.433
+511,Mode12_Canonical variate x e2/4,0.246
+512,Mode13_Canonical variate x e2/4,0.154
+513,Mode14_Canonical variate x e2/4,0.315
+514,Mode15_Canonical variate x e2/4,0.101
+515,Mode16_Canonical variate x e2/4,0.282
+516,Mode17_Canonical variate x e2/4,0.255
+517,Mode18_Canonical variate x e2/4,0.177
+518,Mode19_Canonical variate x e2/4,0.218
+519,Mode20_Canonical variate x e2/4,0.32
+520,Mode21_Canonical variate x e2/4,0.096
+521,Mode22_Canonical variate x e2/4,0.036
+522,Mode23_Canonical variate x e2/4,0.211
+523,Mode24_Canonical variate x e2/4,0.275
+524,Mode25_Canonical variate x e2/4,0.271
+525,Mode26_Canonical variate x e2/4,0.124
+526,Mode27_Canonical variate x e2/4,0.005
+527,Mode28_Canonical variate x e2/4,0.168
+528,Mode29_Canonical variate x e2/4,0.261
+529,Mode30_Canonical variate x e2/4,0.136
+530,Mode31_Canonical variate x e2/4,0.286
+531,Mode32_Canonical variate x e2/4,0.247
+532,Mode33_Canonical variate x e2/4,0.198
+533,Mode34_Canonical variate x e2/4,0.005
+534,Mode35_Canonical variate x e2/4,0.239
+535,Mode36_Canonical variate x e2/4,0.022
+536,Mode37_Canonical variate x e2/4,0.264
+537,Mode38_Canonical variate x e2/4,0.141
+538,Mode39_Canonical variate x e2/4,0.012
+539,Mode40_Canonical variate x e2/4,0.03
+540,Mode41_Canonical variate x e2/4,0.13
+541,Mode42_Canonical variate x e2/4,0.004
+542,Mode43_Canonical variate x e2/4,0.154
+543,Mode44_Canonical variate x e2/4,0.249
+544,Mode45_Canonical variate x e2/4,0.171
+545,Mode46_Canonical variate x e2/4,0.253
+546,Mode47_Canonical variate x e2/4,0.145
+547,Mode48_Canonical variate x e2/4,0.052
+548,Mode49_Canonical variate x e2/4,0.084
+549,Mode50_Canonical variate x e2/4,0.199
+550,Mode1_Canonical variate x e3/4,0.401
+551,Mode2_Canonical variate x e3/4,0.002
+552,Mode3_Canonical variate x e3/4,0.455
+553,Mode4_Canonical variate x e3/4,0.009
+554,Mode5_Canonical variate x e3/4,0.237
+555,Mode6_Canonical variate x e3/4,0.167
+556,Mode7_Canonical variate x e3/4,0.289
+557,Mode8_Canonical variate x e3/4,0.12
+558,Mode9_Canonical variate x e3/4,0.108
+559,Mode10_Canonical variate x e3/4,0.099
+560,Mode11_Canonical variate x e3/4,0.144
+561,Mode12_Canonical variate x e3/4,0.053
+562,Mode13_Canonical variate x e3/4,0.256
+563,Mode14_Canonical variate x e3/4,0.282
+564,Mode15_Canonical variate x e3/4,0.285
+565,Mode16_Canonical variate x e3/4,0.365
+566,Mode17_Canonical variate x e3/4,0.159
+567,Mode18_Canonical variate x e3/4,0.199
+568,Mode19_Canonical variate x e3/4,0.19
+569,Mode20_Canonical variate x e3/4,0.143
+570,Mode21_Canonical variate x e3/4,0.169
+571,Mode22_Canonical variate x e3/4,0.126
+572,Mode23_Canonical variate x e3/4,0.332
+573,Mode24_Canonical variate x e3/4,0.009
+574,Mode25_Canonical variate x e3/4,0.134
+575,Mode26_Canonical variate x e3/4,0.256
+576,Mode27_Canonical variate x e3/4,0.051
+577,Mode28_Canonical variate x e3/4,0.036
+578,Mode29_Canonical variate x e3/4,0.155
+579,Mode30_Canonical variate x e3/4,0.311
+580,Mode31_Canonical variate x e3/4,0.026
+581,Mode32_Canonical variate x e3/4,0.217
+582,Mode33_Canonical variate x e3/4,0.106
+583,Mode34_Canonical variate x e3/4,0.012
+584,Mode35_Canonical variate x e3/4,0.199
+585,Mode36_Canonical variate x e3/4,0.193
+586,Mode37_Canonical variate x e3/4,0.246
+587,Mode38_Canonical variate x e3/4,0.052
+588,Mode39_Canonical variate x e3/4,0.044
+589,Mode40_Canonical variate x e3/4,0.215
+590,Mode41_Canonical variate x e3/4,0.133
+591,Mode42_Canonical variate x e3/4,0.053
+592,Mode43_Canonical variate x e3/4,0.26
+593,Mode44_Canonical variate x e3/4,0.071
+594,Mode45_Canonical variate x e3/4,0.036
+595,Mode46_Canonical variate x e3/4,0.191
+596,Mode47_Canonical variate x e3/4,0.08
+597,Mode48_Canonical variate x e3/4,0.151
+598,Mode49_Canonical variate x e3/4,0.175
+599,Mode50_Canonical variate x e3/4,0.028
+600,Mode1_Canonical variate x e4/4,0.309
+601,Mode2_Canonical variate x e4/4,0.485
+602,Mode3_Canonical variate x e4/4,0.024
+603,Mode4_Canonical variate x e4/4,0.317
+604,Mode5_Canonical variate x e4/4,0.019
+605,Mode6_Canonical variate x e4/4,0.314
+606,Mode7_Canonical variate x e4/4,0.014
+607,Mode8_Canonical variate x e4/4,0.124
+608,Mode9_Canonical variate x e4/4,0.093
+609,Mode10_Canonical variate x e4/4,0.361
+610,Mode11_Canonical variate x e4/4,0.178
+611,Mode12_Canonical variate x e4/4,0.044
+612,Mode13_Canonical variate x e4/4,0.181
+613,Mode14_Canonical variate x e4/4,0.134
+614,Mode15_Canonical variate x e4/4,0.247
+615,Mode16_Canonical variate x e4/4,0.249
+616,Mode17_Canonical variate x e4/4,0.145
+617,Mode18_Canonical variate x e4/4,0.192
+618,Mode19_Canonical variate x e4/4,0.132
+619,Mode20_Canonical variate x e4/4,0.309
+620,Mode21_Canonical variate x e4/4,0.224
+621,Mode22_Canonical variate x e4/4,0.122
+622,Mode23_Canonical variate x e4/4,0.087
+623,Mode24_Canonical variate x e4/4,0.292
+624,Mode25_Canonical variate x e4/4,0.078
+625,Mode26_Canonical variate x e4/4,0.182
+626,Mode27_Canonical variate x e4/4,0.107
+627,Mode28_Canonical variate x e4/4,0.043
+628,Mode29_Canonical variate x e4/4,0.226
+629,Mode30_Canonical variate x e4/4,0.279
+630,Mode31_Canonical variate x e4/4,0.232
+631,Mode32_Canonical variate x e4/4,0.151
+632,Mode33_Canonical variate x e4/4,0.143
+633,Mode34_Canonical variate x e4/4,0.257
+634,Mode35_Canonical variate x e4/4,0.125
+635,Mode36_Canonical variate x e4/4,0.273
+636,Mode37_Canonical variate x e4/4,0.161
+637,Mode38_Canonical variate x e4/4,0.053
+638,Mode39_Canonical variate x e4/4,0.279
+639,Mode40_Canonical variate x e4/4,0.207
+640,Mode41_Canonical variate x e4/4,0.105
+641,Mode42_Canonical variate x e4/4,0.091
+642,Mode43_Canonical variate x e4/4,0.143
+643,Mode44_Canonical variate x e4/4,0.22
+644,Mode45_Canonical variate x e4/4,0.22
+645,Mode46_Canonical variate x e4/4,0.154
+646,Mode47_Canonical variate x e4/4,0.044
+647,Mode48_Canonical variate x e4/4,0.035
+648,Mode49_Canonical variate x e4/4,0.169
+649,Mode50_Canonical variate x e4/4,0.182
+650,Mode1_Age,0.0
+651,Mode2_Age,0.0
+652,Mode3_Age,0.0
+653,Mode4_Age,0.0
+654,Mode5_Age,0.0
+655,Mode6_Age,0.0
+656,Mode7_Age,0.0
+657,Mode8_Age,0.0
+658,Mode9_Age,0.0
+659,Mode10_Age,0.0
+660,Mode11_Age,0.0
+661,Mode12_Age,0.0
+662,Mode13_Age,0.0
+663,Mode14_Age,0.0
+664,Mode15_Age,0.0
+665,Mode16_Age,0.0
+666,Mode17_Age,0.0
+667,Mode18_Age,0.0
+668,Mode19_Age,0.0
+669,Mode20_Age,0.0
+670,Mode21_Age,0.0
+671,Mode22_Age,0.0
+672,Mode23_Age,0.0
+673,Mode24_Age,0.0
+674,Mode25_Age,0.0
+675,Mode26_Age,0.0
+676,Mode27_Age,0.0
+677,Mode28_Age,0.0
+678,Mode29_Age,0.0
+679,Mode30_Age,0.0
+680,Mode31_Age,0.0
+681,Mode32_Age,0.0
+682,Mode33_Age,0.0
+683,Mode34_Age,0.0
+684,Mode35_Age,0.0
+685,Mode36_Age,0.0
+686,Mode37_Age,0.0
+687,Mode38_Age,0.0
+688,Mode39_Age,0.0
+689,Mode40_Age,0.0
+690,Mode41_Age,0.0
+691,Mode42_Age,0.0
+692,Mode43_Age,0.0
+693,Mode44_Age,0.0
+694,Mode45_Age,0.0
+695,Mode46_Age,0.0
+696,Mode47_Age,0.0
+697,Mode48_Age,0.0
+698,Mode49_Age,0.0
+699,Mode50_Age,0.0
