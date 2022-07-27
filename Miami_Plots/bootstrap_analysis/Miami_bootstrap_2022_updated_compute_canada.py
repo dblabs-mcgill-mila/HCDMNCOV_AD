@@ -216,15 +216,14 @@ for j in tqdm(range(0,1000)):
         x = np.array([rand_m.T[i], rand_m.T[i+25]]).T
         y = y_m
         
-        log_model = LinearRegression().fit(x, y)  
-        #log_model.predict(x)
-        odds_mode = pd.DataFrame(log_model.predict(x), columns=[f'Probability_Mode_{i+1}'])
-        odds_mode_fh = odds_mode[[f'Probability_Mode_{i+1}']]
-        odds_mode_fh['eid'] = eid_m
-        odds_mode_fh = odds_mode_fh.sort_values([f'Probability_Mode_{i+1}'],ascending=True) 
+        model = LinearRegression().fit(x, y)  
+        pred_mode = pd.DataFrame(model.predict(x), columns=[f'Probability_Mode_{i+1}'])
+        pred_mode_fh = pred_mode[[f'Probability_Mode_{i+1}']]
+        pred_mode_fh['eid'] = eid_m
+        pred_mode_fh = pred_mode_fh.sort_values([f'Probability_Mode_{i+1}'],ascending=True) 
 
-        min_5 = odds_mode_fh.loc[odds_mode_fh[f'Probability_Mode_{i+1}'] < np.percentile(odds_mode_fh[f'Probability_Mode_{i+1}'],5)]
-        max_5 = odds_mode_fh.loc[odds_mode_fh[f'Probability_Mode_{i+1}'] > np.percentile(odds_mode_fh[f'Probability_Mode_{i+1}'],95)]
+        min_5 = pred_mode_fh.loc[pred_mode_fh[f'Probability_Mode_{i+1}'] < np.percentile(pred_mode_fh[f'Probability_Mode_{i+1}'],5)]
+        max_5 = pred_mode_fh.loc[pred_mode_fh[f'Probability_Mode_{i+1}'] > np.percentile(pred_mode_fh[f'Probability_Mode_{i+1}'],95)]
         extremes_m = pd.concat([min_5,max_5],axis=0)
         
         #z-scoring APOE scores
@@ -239,15 +238,14 @@ for j in tqdm(range(0,1000)):
         x = np.array([rand_f.T[i], rand_f.T[i+25]]).T
         y = y_f
         
-        log_model = LinearRegression().fit(x, y)  
-        #log_model.predict(x)
-        odds_mode = pd.DataFrame(log_model.predict(x), columns=[f'Probability_Mode_{i+1}'])
-        odds_mode_fh = odds_mode[[f'Probability_Mode_{i+1}']]
-        odds_mode_fh['eid'] = eid_f
-        odds_mode_fh = odds_mode_fh.sort_values([f'Probability_Mode_{i+1}'],ascending=True) 
+        model = LinearRegression().fit(x, y)  
+        pred_mode = pd.DataFrame(model.predict(x), columns=[f'Probability_Mode_{i+1}'])
+        pred_mode_fh = pred_mode[[f'Probability_Mode_{i+1}']]
+        pred_mode_fh['eid'] = eid_f
+        pred_mode_fh = pred_mode_fh.sort_values([f'Probability_Mode_{i+1}'],ascending=True) 
 
-        min_5 = odds_mode_fh.loc[odds_mode_fh[f'Probability_Mode_{i+1}'] < np.percentile(odds_mode_fh[f'Probability_Mode_{i+1}'],5)]
-        max_5 = odds_mode_fh.loc[odds_mode_fh[f'Probability_Mode_{i+1}'] > np.percentile(odds_mode_fh[f'Probability_Mode_{i+1}'],95)]
+        min_5 = pred_mode_fh.loc[pred_mode_fh[f'Probability_Mode_{i+1}'] < np.percentile(pred_mode_fh[f'Probability_Mode_{i+1}'],5)]
+        max_5 = pred_mode_fh.loc[pred_mode_fh[f'Probability_Mode_{i+1}'] > np.percentile(pred_mode_fh[f'Probability_Mode_{i+1}'],95)]
         extremes_f = pd.concat([min_5,max_5],axis=0)
         #z-scoring APOE scores
         X_scaler = StandardScaler()
