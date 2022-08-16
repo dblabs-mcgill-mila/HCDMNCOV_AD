@@ -1,0 +1,2 @@
+,catid,coid,phesid,phenotype,mean_diff_p_val,5th_percentile,25th_percentile,median,75th_percentile,95th_percentile
+228,11,806-0.0,806,Job involves mainly walking or standing (0.0),0.6035030057802918,0.1567467338129178,0.4020089704424452,0.6386483589701147,0.8276957289290288,0.9599392905961522

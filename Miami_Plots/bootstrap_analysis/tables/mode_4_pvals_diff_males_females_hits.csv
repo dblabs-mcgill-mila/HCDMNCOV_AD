@@ -1,0 +1,2 @@
+,catid,coid,phesid,phenotype,mean_diff_p_val,5th_percentile,25th_percentile,median,75th_percentile,95th_percentile
+38,10,26412-0.0,26412,Employment score (England) (0.0),0.4513308579605679,0.06572368644398449,0.22203735968948188,0.42436149078962937,0.6631323987546546,0.9228534972567364

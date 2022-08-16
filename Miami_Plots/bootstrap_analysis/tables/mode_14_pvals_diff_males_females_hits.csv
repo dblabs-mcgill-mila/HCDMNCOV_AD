@@ -1,0 +1,2 @@
+,catid,coid,phesid,phenotype,mean_diff_p_val,5th_percentile,25th_percentile,median,75th_percentile,95th_percentile
+17,10,709-0.0,709,Number in household (0.0),0.5845165591640362,0.13744640645055958,0.3964855296691365,0.6107734080275349,0.7866749041033148,0.948049665577957

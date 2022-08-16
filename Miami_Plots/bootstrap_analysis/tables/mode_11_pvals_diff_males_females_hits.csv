@@ -1,0 +1,2 @@
+,catid,coid,phesid,phenotype,mean_diff_p_val,5th_percentile,25th_percentile,median,75th_percentile,95th_percentile
+384,20,50-0.0,50,Standing height (0.0),0.2817669855573589,0.01739758556353847,0.08765349330502245,0.2038754511115301,0.4050966114557228,0.8036735869905386

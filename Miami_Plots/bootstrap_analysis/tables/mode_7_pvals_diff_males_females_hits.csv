@@ -1,0 +1,2 @@
+,catid,coid,phesid,phenotype,mean_diff_p_val,5th_percentile,25th_percentile,median,75th_percentile,95th_percentile
+427,22,4079-0.0,4079,"Diastolic blood pressure, automated reading (0.0)",0.23880767771831735,0.017590558727718725,0.07523569308821886,0.16789817648331584,0.3505895547000131,0.7100496429578158
