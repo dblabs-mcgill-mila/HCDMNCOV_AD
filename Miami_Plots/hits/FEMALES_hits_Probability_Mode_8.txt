@@ -1,0 +1,34 @@
+
+Phenome-wide profiling for Mode_8
+hits/FEMALES
+MAX: 21.094
+N ABOVE BON (4.29):  15
+N ABOVE FDR (2.99):  20
+Fine Grain info above  FDR
+Printing out 20 hits
+
+ COMP Probability_Mode_8 EARLY LIFE FACTORS  (2 hit(s))
+(4, '', '1697-0.0', '8.91', 'Comparative height size at age 10 (0.0)')
+(6, '', '20022-0.0', '6.72', 'Birth weight (0.0)')
+
+ COMP Probability_Mode_8 PHYSICAL MEASURES - GENERAL  (13 hit(s))
+(366, '', '23113-0.0', '10.19', 'Leg fat-free mass (right) (0.0)')
+(374, '', '12144-2.0', '19.54', 'Height (2.0)')
+(375, '', '23102-2.0', '9.39', 'Whole body water mass (2.0)')
+(378, '', '12143-2.0', '10.31', 'Weight (pre-imaging) (2.0)')
+(384, '', '50-0.0', '21.09', 'Standing height (0.0)')
+(385, '', '20015-0.0', '13.35', 'Sitting height (0.0)')
+(386, '', '23101-0.0', '10.89', 'Whole body fat-free mass (0.0)')
+(387, '', '23128-0.0', '4.53', 'Trunk fat mass (0.0)')
+(389, '', '23100-0.0', '3.19', 'Whole body fat mass (0.0)')
+(396, '', '23125-0.0', '7.18', 'Arm fat-free mass (left) (0.0)')
+(401, '', '23121-0.0', '8.87', 'Arm fat-free mass (right) (0.0)')
+(402, '', '23126-0.0', '6.97', 'Arm predicted mass (left) (0.0)')
+(408, '', '21002-0.0', '5.60', 'Weight (0.0)')
+
+ COMP Probability_Mode_8 BLOOD ASSAYS  (2 hit(s))
+(483, '', '30610-0.0', '3.63', 'Alkaline phosphatase (0.0)')
+(497, '', '30840-0.0', '3.78', 'Total bilirubin (0.0)')
+
+ COMP Probability_Mode_8 COGNITIVE PHENOTYPES  (1 hit(s))
+(558, '', '4253-2.0', '3.28', 'Time number displayed for (2.0)')

@@ -1,0 +1,11 @@
+
+Phenome-wide profiling for Mode_21
+hits/MALES
+MAX: 4.652
+N ABOVE BON (4.29):  1
+N ABOVE FDR (4.29):  1
+Fine Grain info above  FDR
+Printing out 1 hits
+
+ COMP Probability_Mode_21 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(228, '', '806-0.0', '4.65', 'Job involves mainly walking or standing (0.0)')

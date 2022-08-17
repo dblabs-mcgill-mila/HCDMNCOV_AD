@@ -1,0 +1,8 @@
+
+Phenome-wide profiling for Mode_11
+hits/MALES
+MAX: 4.033
+N ABOVE BON (4.29):  0
+N ABOVE FDR (4.29):  0
+Fine Grain info above  FDR
+Printing out 0 hits

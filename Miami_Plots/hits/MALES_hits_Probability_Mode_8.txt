@@ -1,0 +1,44 @@
+
+Phenome-wide profiling for Mode_8
+hits/MALES
+MAX: 15.386
+N ABOVE BON (4.29):  11
+N ABOVE FDR (2.91):  24
+Fine Grain info above  FDR
+Printing out 24 hits
+
+ COMP Probability_Mode_8 EARLY LIFE FACTORS  (2 hit(s))
+(4, '', '1697-0.0', '8.50', 'Comparative height size at age 10 (0.0)')
+(6, '', '20022-0.0', '5.75', 'Birth weight (0.0)')
+
+ COMP Probability_Mode_8 LIFESTYLE AND ENVIRONMENT - GENERAL  (1 hit(s))
+(204, '1', '6138-0.0', '3.30', 'Qualifications (0.0)')
+
+ COMP Probability_Mode_8 PHYSICAL MEASURES - GENERAL  (11 hit(s))
+(366, '', '23113-0.0', '3.74', 'Leg fat-free mass (right) (0.0)')
+(374, '', '12144-2.0', '13.54', 'Height (2.0)')
+(375, '', '23102-2.0', '4.33', 'Whole body water mass (2.0)')
+(378, '', '12143-2.0', '5.74', 'Weight (pre-imaging) (2.0)')
+(384, '', '50-0.0', '15.39', 'Standing height (0.0)')
+(385, '', '20015-0.0', '9.82', 'Sitting height (0.0)')
+(386, '', '23101-0.0', '5.33', 'Whole body fat-free mass (0.0)')
+(396, '', '23125-0.0', '3.60', 'Arm fat-free mass (left) (0.0)')
+(401, '', '23121-0.0', '3.05', 'Arm fat-free mass (right) (0.0)')
+(402, '', '23126-0.0', '4.10', 'Arm predicted mass (left) (0.0)')
+(408, '', '21002-0.0', '3.90', 'Weight (0.0)')
+
+ COMP Probability_Mode_8 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(428, '', '4080-0.0', '3.25', 'Systolic blood pressure, automated reading (0.0)')
+
+ COMP Probability_Mode_8 BLOOD ASSAYS  (1 hit(s))
+(513, '', '30880-0.0', '3.08', 'Urate (0.0)')
+
+ COMP Probability_Mode_8 COGNITIVE PHENOTYPES  (8 hit(s))
+(542, '', '630-0.0', '2.98', 'Touchscreen duration (0.0)')
+(674, '', '20240-0.0', '3.37', 'Maximum digits remembered correctly (0.0)')
+(675, '', '20191-0.0', '3.34', 'Fluid intelligence score (0.0)')
+(683, '', '20171_2.0', '3.46', 'FI4 : positional arithmetic (0.0)')
+(713, '', '20181_4.0', '5.22', 'FI9 : concept interpolation (0.0)')
+(716, '', '20183_2.0', '5.86', 'FI10 : arithmetic sequence recognition (0.0)')
+(729, '', '20177_3.0', '3.66', 'FI7 : synonym (0.0)')
+(748, '', '20185_5.0', '4.93', 'FI11 : antonym (0.0)')

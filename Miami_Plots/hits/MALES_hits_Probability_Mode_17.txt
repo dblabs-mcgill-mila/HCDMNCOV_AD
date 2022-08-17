@@ -1,0 +1,27 @@
+
+Phenome-wide profiling for Mode_17
+hits/MALES
+MAX: 5.860
+N ABOVE BON (4.29):  5
+N ABOVE FDR (3.18):  13
+Fine Grain info above  FDR
+Printing out 13 hits
+
+ COMP Probability_Mode_17 LIFESTYLE AND ENVIRONMENT - GENERAL  (5 hit(s))
+(9, '', '728-0.0', '3.28', 'Number of vehicles in household (0.0)')
+(38, '', '26412-0.0', '3.56', 'Employment score (England) (0.0)')
+(40, '', '26414-0.0', '3.96', 'Education score (England) (0.0)')
+(101, '', '1873-0.0', '4.14', 'Number of full brothers (0.0)')
+(126, '2', '6160-0.0', '4.77', 'Leisure/social activities (0.0)')
+
+ COMP Probability_Mode_17 PHYSICAL MEASURES - GENERAL  (7 hit(s))
+(376, '', '23119-0.0', '5.86', 'Arm fat percentage (right) (0.0)')
+(387, '', '23128-0.0', '4.26', 'Trunk fat mass (0.0)')
+(388, '', '23099-0.0', '4.75', 'Body fat percentage (0.0)')
+(389, '', '23100-0.0', '3.91', 'Whole body fat mass (0.0)')
+(395, '', '23127-0.0', '4.98', 'Trunk fat percentage (0.0)')
+(397, '', '23123-0.0', '4.89', 'Arm fat percentage (left) (0.0)')
+(404, '', '23120-0.0', '3.32', 'Arm fat mass (right) (0.0)')
+
+ COMP Probability_Mode_17 BLOOD ASSAYS  (1 hit(s))
+(490, '', '30250-0.0', '3.23', 'Reticulocyte count (0.0)')

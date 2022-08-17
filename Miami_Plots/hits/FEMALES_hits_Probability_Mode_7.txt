@@ -1,0 +1,11 @@
+
+Phenome-wide profiling for Mode_7
+hits/FEMALES
+MAX: 6.098
+N ABOVE BON (4.29):  1
+N ABOVE FDR (4.29):  1
+Fine Grain info above  FDR
+Printing out 1 hits
+
+ COMP Probability_Mode_7 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(427, '', '4079-0.0', '6.10', 'Diastolic blood pressure, automated reading (0.0)')

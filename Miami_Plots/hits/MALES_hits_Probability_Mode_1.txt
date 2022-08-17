@@ -1,0 +1,90 @@
+
+Phenome-wide profiling for Mode_1
+hits/MALES
+MAX: 28.410
+N ABOVE BON (4.29):  31
+N ABOVE FDR (2.50):  62
+Fine Grain info above  FDR
+Printing out 62 hits
+
+ COMP Probability_Mode_1 EARLY LIFE FACTORS  (1 hit(s))
+(4, '', '1697-0.0', '4.59', 'Comparative height size at age 10 (0.0)')
+
+ COMP Probability_Mode_1 LIFESTYLE AND ENVIRONMENT - GENERAL  (27 hit(s))
+(10, '', '738-0.0', '2.59', 'Average total household income before tax (0.0)')
+(13, '', '22702-0.0', '7.86', 'Home location - east co-ordinate (rounded) (0.0)')
+(15, '', '20074-0.0', '8.14', 'Home location at assessment - east co-ordinate (rounded) (0.0)')
+(32, '', '24003-0.0', '6.28', 'Nitrogen dioxide air pollution; 2010 (0.0)')
+(40, '', '26414-0.0', '3.65', 'Education score (England) (0.0)')
+(41, '', '2139-0.0', '2.75', 'Age first had sexual intercourse (0.0)')
+(44, '', '24501-0.0', '4.05', 'Domestic garden percentage, buffer 1000m (0.0)')
+(45, '', '24004-0.0', '5.01', 'Nitrogen oxides air pollution; 2010 (0.0)')
+(46, '', '24500-0.0', '5.06', 'Greenspace percentage, buffer 1000m (0.0)')
+(47, '', '24019-0.0', '2.97', 'Particulate matter air pollution (pm10); 2007 (0.0)')
+(48, '', '24018-0.0', '11.83', 'Nitrogen dioxide air pollution; 2007 (0.0)')
+(49, '', '24017-0.0', '8.74', 'Nitrogen dioxide air pollution; 2006 (0.0)')
+(50, '', '24016-0.0', '9.36', 'Nitrogen dioxide air pollution; 2005 (0.0)')
+(56, '', '24006-0.0', '3.19', 'Particulate matter air pollution (pm2.5); 2010 (0.0)')
+(61, '', '24503-0.0', '2.94', 'Greenspace percentage, buffer 300m (0.0)')
+(68, '', '20118_6.0', '3.96', 'Home area population density - urban or rural (0.0)')
+(89, '', '24507-0.0', '3.50', 'Natural environment percentage, buffer 300m (0.0)')
+(91, '', '1883-0.0', '4.63', 'Number of full sisters (0.0)')
+(101, '', '1873-0.0', '2.80', 'Number of full brothers (0.0)')
+(107, '', '2405-0.0', '3.54', 'Number of children fathered (0.0)')
+(111, '', '24506-0.0', '6.26', 'Natural environment percentage, buffer 1000m (0.0)')
+(172, '1', '6141-0.0', '3.31', 'How are people in household related to participant (0.0)')
+(183, '', '699-0.0', '3.91', 'Length of time at current address (0.0)')
+(188, '', '3-0.0', '7.96', 'Verbal interview duration (0.0)')
+(198, '4', '6138-0.0', '3.28', 'Qualifications (0.0)')
+(202, '', '1835-0.0', '2.86', 'Mother still alive (0.0)')
+(204, '1', '6138-0.0', '3.15', 'Qualifications (0.0)')
+
+ COMP Probability_Mode_1 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (3 hit(s))
+(237, '', '1070-0.0', '6.84', 'Time spent watching television (TV) (0.0)')
+(243, '', '816-0.0', '2.74', 'Job involves heavy manual or physical work (0.0)')
+(272, '', '1170-0.0', '5.74', 'Getting up in morning (0.0)')
+
+ COMP Probability_Mode_1 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (3 hit(s))
+(297, '', '20405_1.0', '2.51', 'Ever had known person concerned about, or recommend reduction of, alcohol consumption (0.0)')
+(298, '', '1558-0.0', '3.53', 'Alcohol intake frequency. (0.0)')
+(314, '', '1578-0.0', '2.52', 'Average weekly champagne plus white wine intake (0.0)')
+
+ COMP Probability_Mode_1 LIFESTYLE AND ENVIRONMENT - TOBACCO  (1 hit(s))
+(334, '', '2926-0.0', '2.73', 'Number of unsuccessful stop-smoking attempts (0.0)')
+
+ COMP Probability_Mode_1 PHYSICAL MEASURES - GENERAL  (3 hit(s))
+(384, '', '50-0.0', '2.86', 'Standing height (0.0)')
+(402, '', '23126-0.0', '2.62', 'Arm predicted mass (left) (0.0)')
+(403, '', '47-0.0', '3.54', 'Hand grip strength (right) (0.0)')
+
+ COMP Probability_Mode_1 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (4 hit(s))
+(413, '', '6020_1.0', '7.14', 'Completion status of test (0.0)')
+(419, '', '5984-0.3', '3.25', 'ECG, load (0.3)')
+(429, '', '4194-0.0', '5.89', 'Pulse rate (0.0)')
+(449, '', '12336-2.0', '5.62', 'Ventricular rate (2.0)')
+
+ COMP Probability_Mode_1 BLOOD ASSAYS  (5 hit(s))
+(458, '', '30040-0.0', '3.32', 'Mean corpuscular volume (0.0)')
+(463, '', '30050-0.0', '2.83', 'Mean corpuscular haemoglobin (0.0)')
+(475, '', '30010-0.0', '2.70', 'Red blood cell (erythrocyte) count (0.0)')
+(493, '', '30104-0.0', '28.41', 'Mean platelet (thrombocyte) volume acquisition route (0.0)')
+(517, '', '30160-0.0', '13.21', 'Basophill count (0.0)')
+
+ COMP Probability_Mode_1 COGNITIVE PHENOTYPES  (13 hit(s))
+(541, '', '4979_3.0', '4.56', 'FI5 : family relationship calculation (0.0)')
+(542, '', '630-0.0', '8.46', 'Touchscreen duration (0.0)')
+(543, '', '4968_6.0', '21.18', 'FI4 : positional arithmetic (0.0)')
+(546, '', '4957_4.0', '17.96', 'FI3 : word interpolation (0.0)')
+(552, '', '4935_15.0', '22.54', 'FI1 : numeric addition test (0.0)')
+(555, '', '4292_3.0', '18.74', 'PM: initial answer (0.0)')
+(577, '', '4979_4.0', '8.49', 'FI5 : family relationship calculation (0.0)')
+(580, '', '4990_69.0', '14.26', 'FI6 : conditional arithmetic (0.0)')
+(581, '', '4990_70.0', '2.93', 'FI6 : conditional arithmetic (0.0)')
+(584, '', '5001_1.0', '5.96', 'FI7 : synonym (0.0)')
+(589, '', '5001_3.0', '10.72', 'FI7 : synonym (0.0)')
+(617, '', '5012_26.0', '8.32', 'FI8 : chained arithmetic (0.0)')
+(646, '', '5556_5.0', '3.06', 'FI9 : concept interpolation (0.0)')
+
+ COMP Probability_Mode_1 MENTAL HEALTH SELF-REPORT  (2 hit(s))
+(934, '', '20126_0.0', '13.29', 'Bipolar and major depression status (0.0)')
+(942, '', '1950-0.0', '2.55', 'Sensitivity / hurt feelings (0.0)')

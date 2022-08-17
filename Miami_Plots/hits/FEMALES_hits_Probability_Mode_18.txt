@@ -1,0 +1,18 @@
+
+Phenome-wide profiling for Mode_18
+hits/FEMALES
+MAX: 5.207
+N ABOVE BON (4.29):  4
+N ABOVE FDR (3.51):  6
+Fine Grain info above  FDR
+Printing out 6 hits
+
+ COMP Probability_Mode_18 LIFESTYLE AND ENVIRONMENT - TOBACCO  (5 hit(s))
+(318, '', '20116_0.0', '4.94', 'Smoking status (0.0)')
+(325, '', '2877_1.0', '3.68', 'Type of tobacco previously smoked (0.0)')
+(337, '', '20116_1.0', '3.91', 'Smoking status (0.0)')
+(339, '', '1249-0.0', '5.21', 'Past tobacco smoking (0.0)')
+(348, '', '20160-0.0', '5.03', 'Ever smoked (0.0)')
+
+ COMP Probability_Mode_18 COGNITIVE PHENOTYPES  (1 hit(s))
+(696, '', '20200-0.8', '4.77', 'Values wanted (0.8)')

@@ -1,0 +1,31 @@
+
+Phenome-wide profiling for Mode_13
+hits/FEMALES
+MAX: 7.515
+N ABOVE BON (4.29):  4
+N ABOVE FDR (3.25):  11
+Fine Grain info above  FDR
+Printing out 11 hits
+
+ COMP Probability_Mode_13 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(237, '', '1070-0.0', '3.31', 'Time spent watching television (TV) (0.0)')
+
+ COMP Probability_Mode_13 LIFESTYLE AND ENVIRONMENT - TOBACCO  (1 hit(s))
+(343, '', '22506_0.0', '4.06', 'Tobacco smoking (0.0)')
+
+ COMP Probability_Mode_13 PHYSICAL MEASURES - GENERAL  (5 hit(s))
+(365, '', '23107-0.0', '6.39', 'Impedance of leg (right) (0.0)')
+(366, '', '23113-0.0', '3.77', 'Leg fat-free mass (right) (0.0)')
+(367, '', '23106-0.0', '5.35', 'Impedance of whole body (0.0)')
+(368, '', '23108-0.0', '7.51', 'Impedance of leg (left) (0.0)')
+(386, '', '23101-0.0', '3.54', 'Whole body fat-free mass (0.0)')
+
+ COMP Probability_Mode_13 BLOOD ASSAYS  (1 hit(s))
+(458, '', '30040-0.0', '3.89', 'Mean corpuscular volume (0.0)')
+
+ COMP Probability_Mode_13 COGNITIVE PHENOTYPES  (2 hit(s))
+(683, '', '20171_2.0', '3.93', 'FI4 : positional arithmetic (0.0)')
+(692, '', '20175_2.0', '3.43', 'FI6 : conditional arithmetic (0.0)')
+
+ COMP Probability_Mode_13 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(935, '', '2030-0.0', '5.28', 'Guilty feelings (0.0)')

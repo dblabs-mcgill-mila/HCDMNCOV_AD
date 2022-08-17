@@ -1,0 +1,27 @@
+
+Phenome-wide profiling for Mode_16
+hits/FEMALES
+MAX: 5.852
+N ABOVE BON (4.29):  6
+N ABOVE FDR (3.25):  11
+Fine Grain info above  FDR
+Printing out 11 hits
+
+ COMP Probability_Mode_16 EARLY LIFE FACTORS  (1 hit(s))
+(6, '', '20022-0.0', '3.66', 'Birth weight (0.0)')
+
+ COMP Probability_Mode_16 LIFESTYLE AND ENVIRONMENT - GENERAL  (1 hit(s))
+(101, '', '1873-0.0', '3.26', 'Number of full brothers (0.0)')
+
+ COMP Probability_Mode_16 LIFESTYLE AND ENVIRONMENT - TOBACCO  (3 hit(s))
+(318, '', '20116_0.0', '5.85', 'Smoking status (0.0)')
+(337, '', '20116_1.0', '3.28', 'Smoking status (0.0)')
+(339, '', '1249-0.0', '4.32', 'Past tobacco smoking (0.0)')
+
+ COMP Probability_Mode_16 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (6 hit(s))
+(414, '', '22679-2.0', '4.49', 'Minimum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(431, '', '22680-2.0', '4.63', 'Mean carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(432, '', '22681-2.0', '4.55', 'Maximum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(440, '', '22677-2.0', '3.27', 'Mean carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')
+(441, '', '22678-2.0', '4.56', 'Maximum carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')
+(443, '', '22676-2.0', '3.44', 'Minimum carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')

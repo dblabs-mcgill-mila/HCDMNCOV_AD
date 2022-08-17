@@ -1,0 +1,18 @@
+
+Phenome-wide profiling for Mode_10
+hits/MALES
+MAX: 5.555
+N ABOVE BON (4.29):  1
+N ABOVE FDR (3.51):  6
+Fine Grain info above  FDR
+Printing out 6 hits
+
+ COMP Probability_Mode_10 LIFESTYLE AND ENVIRONMENT - GENERAL  (1 hit(s))
+(31, '', '24014-0.0', '3.55', 'Close to major road (0.0)')
+
+ COMP Probability_Mode_10 PHYSICAL MEASURES - GENERAL  (5 hit(s))
+(374, '', '12144-2.0', '4.04', 'Height (2.0)')
+(375, '', '23102-2.0', '4.01', 'Whole body water mass (2.0)')
+(384, '', '50-0.0', '4.06', 'Standing height (0.0)')
+(385, '', '20015-0.0', '5.56', 'Sitting height (0.0)')
+(386, '', '23101-0.0', '3.54', 'Whole body fat-free mass (0.0)')

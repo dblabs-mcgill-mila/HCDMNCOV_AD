@@ -1,0 +1,28 @@
+
+Phenome-wide profiling for Mode_3
+hits/FEMALES
+MAX: 6.107
+N ABOVE BON (4.29):  6
+N ABOVE FDR (3.14):  14
+Fine Grain info above  FDR
+Printing out 14 hits
+
+ COMP Probability_Mode_3 LIFESTYLE AND ENVIRONMENT - GENERAL  (7 hit(s))
+(13, '', '22702-0.0', '4.47', 'Home location - east co-ordinate (rounded) (0.0)')
+(15, '', '20074-0.0', '3.93', 'Home location at assessment - east co-ordinate (rounded) (0.0)')
+(39, '', '26413-0.0', '3.58', 'Health score (England) (0.0)')
+(48, '', '24018-0.0', '4.87', 'Nitrogen dioxide air pollution; 2007 (0.0)')
+(49, '', '24017-0.0', '5.45', 'Nitrogen dioxide air pollution; 2006 (0.0)')
+(50, '', '24016-0.0', '4.94', 'Nitrogen dioxide air pollution; 2005 (0.0)')
+(83, '', '20118_5.0', '4.49', 'Home area population density - urban or rural (0.0)')
+
+ COMP Probability_Mode_3 BLOOD ASSAYS  (1 hit(s))
+(493, '', '30104-0.0', '6.11', 'Mean platelet (thrombocyte) volume acquisition route (0.0)')
+
+ COMP Probability_Mode_3 COGNITIVE PHENOTYPES  (6 hit(s))
+(543, '', '4968_6.0', '3.94', 'FI4 : positional arithmetic (0.0)')
+(552, '', '4935_15.0', '3.15', 'FI1 : numeric addition test (0.0)')
+(555, '', '4292_3.0', '3.57', 'PM: initial answer (0.0)')
+(577, '', '4979_4.0', '4.21', 'FI5 : family relationship calculation (0.0)')
+(589, '', '5001_3.0', '3.40', 'FI7 : synonym (0.0)')
+(617, '', '5012_26.0', '3.42', 'FI8 : chained arithmetic (0.0)')

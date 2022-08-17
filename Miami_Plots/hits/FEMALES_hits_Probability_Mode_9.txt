@@ -1,0 +1,13 @@
+
+Phenome-wide profiling for Mode_9
+hits/FEMALES
+MAX: 7.053
+N ABOVE BON (4.29):  3
+N ABOVE FDR (3.81):  3
+Fine Grain info above  FDR
+Printing out 3 hits
+
+ COMP Probability_Mode_9 PHYSICAL MEASURES - GENERAL  (3 hit(s))
+(374, '', '12144-2.0', '6.72', 'Height (2.0)')
+(384, '', '50-0.0', '7.05', 'Standing height (0.0)')
+(385, '', '20015-0.0', '7.05', 'Sitting height (0.0)')

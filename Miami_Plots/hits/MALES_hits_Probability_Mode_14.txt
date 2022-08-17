@@ -1,0 +1,11 @@
+
+Phenome-wide profiling for Mode_14
+hits/MALES
+MAX: 4.385
+N ABOVE BON (4.29):  1
+N ABOVE FDR (4.29):  1
+Fine Grain info above  FDR
+Printing out 1 hits
+
+ COMP Probability_Mode_14 LIFESTYLE AND ENVIRONMENT - GENERAL  (1 hit(s))
+(17, '', '709-0.0', '4.38', 'Number in household (0.0)')

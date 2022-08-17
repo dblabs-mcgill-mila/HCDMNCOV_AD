@@ -1,0 +1,29 @@
+
+Phenome-wide profiling for Mode_6
+hits/FEMALES
+MAX: 7.042
+N ABOVE BON (4.29):  10
+N ABOVE FDR (3.18):  13
+Fine Grain info above  FDR
+Printing out 13 hits
+
+ COMP Probability_Mode_6 EARLY LIFE FACTORS  (1 hit(s))
+(4, '', '1697-0.0', '3.71', 'Comparative height size at age 10 (0.0)')
+
+ COMP Probability_Mode_6 PHYSICAL MEASURES - GENERAL  (3 hit(s))
+(374, '', '12144-2.0', '5.66', 'Height (2.0)')
+(384, '', '50-0.0', '5.66', 'Standing height (0.0)')
+(385, '', '20015-0.0', '4.55', 'Sitting height (0.0)')
+
+ COMP Probability_Mode_6 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (7 hit(s))
+(414, '', '22679-2.0', '6.10', 'Minimum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(431, '', '22680-2.0', '7.04', 'Mean carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(432, '', '22681-2.0', '4.65', 'Maximum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(440, '', '22677-2.0', '6.93', 'Mean carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')
+(441, '', '22678-2.0', '5.62', 'Maximum carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')
+(443, '', '22676-2.0', '5.65', 'Minimum carotid IMT (intima-medial thickness) at 210 degrees  (2.0)')
+(455, '', '22673-2.0', '3.31', 'Minimum carotid IMT (intima-medial thickness) at 150 degrees  (2.0)')
+
+ COMP Probability_Mode_6 BLOOD ASSAYS  (2 hit(s))
+(470, '', '30770-0.0', '4.08', 'IGF-1 (0.0)')
+(484, '', '30600-0.0', '5.32', 'Albumin (0.0)')

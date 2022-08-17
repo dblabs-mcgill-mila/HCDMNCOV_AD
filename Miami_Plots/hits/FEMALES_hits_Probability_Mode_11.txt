@@ -1,0 +1,14 @@
+
+Phenome-wide profiling for Mode_11
+hits/FEMALES
+MAX: 4.322
+N ABOVE BON (4.29):  1
+N ABOVE FDR (3.99):  2
+Fine Grain info above  FDR
+Printing out 2 hits
+
+ COMP Probability_Mode_11 PHYSICAL MEASURES - GENERAL  (1 hit(s))
+(384, '', '50-0.0', '4.32', 'Standing height (0.0)')
+
+ COMP Probability_Mode_11 COGNITIVE PHENOTYPES  (1 hit(s))
+(726, '', '10147-0.0', '4.12', 'Duration to first press of snap-button in each round (pilot) (0.0)')

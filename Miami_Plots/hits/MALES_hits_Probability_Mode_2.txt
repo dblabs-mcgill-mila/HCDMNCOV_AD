@@ -1,0 +1,26 @@
+
+Phenome-wide profiling for Mode_2
+hits/MALES
+MAX: 5.185
+N ABOVE BON (4.29):  5
+N ABOVE FDR (3.29):  10
+Fine Grain info above  FDR
+Printing out 10 hits
+
+ COMP Probability_Mode_2 PHYSICAL MEASURES - GENERAL  (1 hit(s))
+(385, '', '20015-0.0', '3.40', 'Sitting height (0.0)')
+
+ COMP Probability_Mode_2 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(413, '', '6020_1.0', '3.66', 'Completion status of test (0.0)')
+
+ COMP Probability_Mode_2 BLOOD ASSAYS  (1 hit(s))
+(493, '', '30104-0.0', '4.43', 'Mean platelet (thrombocyte) volume acquisition route (0.0)')
+
+ COMP Probability_Mode_2 COGNITIVE PHENOTYPES  (7 hit(s))
+(541, '', '4979_3.0', '3.77', 'FI5 : family relationship calculation (0.0)')
+(543, '', '4968_6.0', '4.44', 'FI4 : positional arithmetic (0.0)')
+(546, '', '4957_4.0', '4.18', 'FI3 : word interpolation (0.0)')
+(552, '', '4935_15.0', '5.18', 'FI1 : numeric addition test (0.0)')
+(555, '', '4292_3.0', '4.73', 'PM: initial answer (0.0)')
+(580, '', '4990_69.0', '5.02', 'FI6 : conditional arithmetic (0.0)')
+(589, '', '5001_3.0', '3.61', 'FI7 : synonym (0.0)')

@@ -1,0 +1,17 @@
+
+Phenome-wide profiling for Mode_4
+hits/FEMALES
+MAX: 4.669
+N ABOVE BON (4.29):  1
+N ABOVE FDR (3.59):  5
+Fine Grain info above  FDR
+Printing out 5 hits
+
+ COMP Probability_Mode_4 LIFESTYLE AND ENVIRONMENT - GENERAL  (2 hit(s))
+(38, '', '26412-0.0', '4.67', 'Employment score (England) (0.0)')
+(40, '', '26414-0.0', '3.67', 'Education score (England) (0.0)')
+
+ COMP Probability_Mode_4 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (3 hit(s))
+(414, '', '22679-2.0', '3.73', 'Minimum carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(431, '', '22680-2.0', '3.64', 'Mean carotid IMT (intima-medial thickness) at 240 degrees  (2.0)')
+(454, '', '22672-2.0', '4.21', 'Maximum carotid IMT (intima-medial thickness) at 120 degrees  (2.0)')

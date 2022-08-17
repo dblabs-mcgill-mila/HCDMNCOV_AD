@@ -1,0 +1,49 @@
+
+Phenome-wide profiling for Mode_3
+hits/MALES
+MAX: 18.252
+N ABOVE BON (4.29):  19
+N ABOVE FDR (2.83):  29
+Fine Grain info above  FDR
+Printing out 29 hits
+
+ COMP Probability_Mode_3 LIFESTYLE AND ENVIRONMENT - GENERAL  (16 hit(s))
+(13, '', '22702-0.0', '3.07', 'Home location - east co-ordinate (rounded) (0.0)')
+(15, '', '20074-0.0', '3.49', 'Home location at assessment - east co-ordinate (rounded) (0.0)')
+(18, '', '26416-0.0', '3.30', 'Crime score (England) (0.0)')
+(32, '', '24003-0.0', '7.34', 'Nitrogen dioxide air pollution; 2010 (0.0)')
+(33, '', '24007-0.0', '6.74', 'Particulate matter air pollution (pm2.5) absorbance; 2010 (0.0)')
+(45, '', '24004-0.0', '4.83', 'Nitrogen oxides air pollution; 2010 (0.0)')
+(46, '', '24500-0.0', '5.72', 'Greenspace percentage, buffer 1000m (0.0)')
+(47, '', '24019-0.0', '5.27', 'Particulate matter air pollution (pm10); 2007 (0.0)')
+(48, '', '24018-0.0', '18.25', 'Nitrogen dioxide air pollution; 2007 (0.0)')
+(49, '', '24017-0.0', '13.27', 'Nitrogen dioxide air pollution; 2006 (0.0)')
+(50, '', '24016-0.0', '14.39', 'Nitrogen dioxide air pollution; 2005 (0.0)')
+(83, '', '20118_5.0', '5.87', 'Home area population density - urban or rural (0.0)')
+(89, '', '24507-0.0', '3.17', 'Natural environment percentage, buffer 300m (0.0)')
+(111, '', '24506-0.0', '5.97', 'Natural environment percentage, buffer 1000m (0.0)')
+(188, '', '3-0.0', '7.05', 'Verbal interview duration (0.0)')
+(201, '', '2159-0.0', '3.94', 'Ever had same-sex intercourse (0.0)')
+
+ COMP Probability_Mode_3 LIFESTYLE AND ENVIRONMENT - EXERCISE AND WORK  (1 hit(s))
+(237, '', '1070-0.0', '3.28', 'Time spent watching television (TV) (0.0)')
+
+ COMP Probability_Mode_3 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(413, '', '6020_1.0', '3.84', 'Completion status of test (0.0)')
+
+ COMP Probability_Mode_3 BLOOD ASSAYS  (1 hit(s))
+(493, '', '30104-0.0', '9.89', 'Mean platelet (thrombocyte) volume acquisition route (0.0)')
+
+ COMP Probability_Mode_3 COGNITIVE PHENOTYPES  (9 hit(s))
+(543, '', '4968_6.0', '6.12', 'FI4 : positional arithmetic (0.0)')
+(546, '', '4957_4.0', '8.23', 'FI3 : word interpolation (0.0)')
+(552, '', '4935_15.0', '6.03', 'FI1 : numeric addition test (0.0)')
+(555, '', '4292_3.0', '6.81', 'PM: initial answer (0.0)')
+(577, '', '4979_4.0', '6.91', 'FI5 : family relationship calculation (0.0)')
+(580, '', '4990_69.0', '5.86', 'FI6 : conditional arithmetic (0.0)')
+(589, '', '5001_3.0', '4.58', 'FI7 : synonym (0.0)')
+(596, '', '5556_4.0', '3.19', 'FI9 : concept interpolation (0.0)')
+(617, '', '5012_26.0', '4.09', 'FI8 : chained arithmetic (0.0)')
+
+ COMP Probability_Mode_3 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(934, '', '20126_0.0', '3.65', 'Bipolar and major depression status (0.0)')

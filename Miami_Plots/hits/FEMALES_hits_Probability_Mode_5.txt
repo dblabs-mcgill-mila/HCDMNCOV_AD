@@ -1,0 +1,17 @@
+
+Phenome-wide profiling for Mode_5
+hits/FEMALES
+MAX: 4.609
+N ABOVE BON (4.29):  1
+N ABOVE FDR (3.81):  3
+Fine Grain info above  FDR
+Printing out 3 hits
+
+ COMP Probability_Mode_5 EARLY LIFE FACTORS  (1 hit(s))
+(5, '', '1687-0.0', '4.13', 'Comparative body size at age 10 (0.0)')
+
+ COMP Probability_Mode_5 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(309, '', '20414-0.0', '4.20', 'Frequency of drinking alcohol (0.0)')
+
+ COMP Probability_Mode_5 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(428, '', '4080-0.0', '4.61', 'Systolic blood pressure, automated reading (0.0)')

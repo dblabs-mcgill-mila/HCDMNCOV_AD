@@ -1,0 +1,19 @@
+
+Phenome-wide profiling for Mode_9
+hits/MALES
+MAX: 4.830
+N ABOVE BON (4.29):  2
+N ABOVE FDR (3.45):  7
+Fine Grain info above  FDR
+Printing out 7 hits
+
+ COMP Probability_Mode_9 PHYSICAL MEASURES - GENERAL  (6 hit(s))
+(366, '', '23113-0.0', '4.06', 'Leg fat-free mass (right) (0.0)')
+(375, '', '23102-2.0', '4.46', 'Whole body water mass (2.0)')
+(378, '', '12143-2.0', '4.15', 'Weight (pre-imaging) (2.0)')
+(386, '', '23101-0.0', '4.27', 'Whole body fat-free mass (0.0)')
+(404, '', '23120-0.0', '3.91', 'Arm fat mass (right) (0.0)')
+(408, '', '21002-0.0', '4.83', 'Weight (0.0)')
+
+ COMP Probability_Mode_9 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (1 hit(s))
+(426, '', '102-0.0', '3.67', 'Pulse rate, automated reading (0.0)')

@@ -1,0 +1,45 @@
+
+Phenome-wide profiling for Mode_1
+hits/FEMALES
+MAX: 8.702
+N ABOVE BON (4.29):  13
+N ABOVE FDR (2.89):  25
+Fine Grain info above  FDR
+Printing out 25 hits
+
+ COMP Probability_Mode_1 LIFESTYLE AND ENVIRONMENT - GENERAL  (3 hit(s))
+(60, '100', '20111-0.0', '3.43', 'Illnesses of siblings (0.0)')
+(123, '1', '20107-0.0', '2.91', 'Illnesses of father (0.0)')
+(129, '3', '6146-0.0', '4.24', 'Attendance/disability/mobility allowance (0.0)')
+
+ COMP Probability_Mode_1 LIFESTYLE AND ENVIRONMENT - ALCOHOL  (1 hit(s))
+(311, '', '1598-0.0', '3.34', 'Average weekly spirits intake (0.0)')
+
+ COMP Probability_Mode_1 PHYSICAL MEASURES - CARDIAC & BLOOD VESSELS  (5 hit(s))
+(413, '', '6020_1.0', '4.91', 'Completion status of test (0.0)')
+(426, '', '102-0.0', '4.00', 'Pulse rate, automated reading (0.0)')
+(427, '', '4079-0.0', '6.61', 'Diastolic blood pressure, automated reading (0.0)')
+(428, '', '4080-0.0', '3.76', 'Systolic blood pressure, automated reading (0.0)')
+(449, '', '12336-2.0', '7.52', 'Ventricular rate (2.0)')
+
+ COMP Probability_Mode_1 BLOOD ASSAYS  (6 hit(s))
+(460, '', '30670-0.0', '3.16', 'Urea (0.0)')
+(467, '', '30030-0.0', '4.54', 'Haematocrit percentage (0.0)')
+(470, '', '30770-0.0', '3.80', 'IGF-1 (0.0)')
+(475, '', '30010-0.0', '3.74', 'Red blood cell (erythrocyte) count (0.0)')
+(488, '', '30020-0.0', '3.50', 'Haemoglobin concentration (0.0)')
+(493, '', '30104-0.0', '6.76', 'Mean platelet (thrombocyte) volume acquisition route (0.0)')
+
+ COMP Probability_Mode_1 COGNITIVE PHENOTYPES  (9 hit(s))
+(543, '', '4968_6.0', '5.79', 'FI4 : positional arithmetic (0.0)')
+(546, '', '4957_4.0', '8.70', 'FI3 : word interpolation (0.0)')
+(552, '', '4935_15.0', '6.80', 'FI1 : numeric addition test (0.0)')
+(555, '', '4292_3.0', '5.98', 'PM: initial answer (0.0)')
+(577, '', '4979_4.0', '3.60', 'FI5 : family relationship calculation (0.0)')
+(580, '', '4990_69.0', '5.20', 'FI6 : conditional arithmetic (0.0)')
+(589, '', '5001_3.0', '6.36', 'FI7 : synonym (0.0)')
+(617, '', '5012_26.0', '4.69', 'FI8 : chained arithmetic (0.0)')
+(721, '', '6350-2.0', '2.89', 'Duration to complete alphanumeric path (trail #2) (2.0)')
+
+ COMP Probability_Mode_1 MENTAL HEALTH SELF-REPORT  (1 hit(s))
+(934, '', '20126_0.0', '6.63', 'Bipolar and major depression status (0.0)')
