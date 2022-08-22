@@ -3,301 +3,301 @@ Fluid intelligence score: Component 0 : Age
 True coefficient (criterion): 0.0007126052267050744 
 Number of iterations: 61000 
 Number of values above criterion: 28034 
-P-value: 28.034 
+P-value: 0.45957377049180326 
 
 Fluid intelligence score: Component 1 : Age 
 True coefficient (criterion): 0.000664266946648684 
 Number of iterations: 61000 
 Number of values above criterion: 28183 
-P-value: 28.183 
+P-value: 0.46201639344262296 
 
 Fluid intelligence score: Component 2 : Age 
 True coefficient (criterion): 0.0007412275699657887 
 Number of iterations: 61000 
 Number of values above criterion: 27914 
-P-value: 27.914 
+P-value: 0.4576065573770492 
 
 Fluid intelligence score: Component 3 : Age 
 True coefficient (criterion): 0.0006088081761826251 
 Number of iterations: 61000 
 Number of values above criterion: 28376 
-P-value: 28.376 
+P-value: 0.46518032786885244 
 
 Fluid intelligence score: Component 4 : Age 
 True coefficient (criterion): 0.0005544062271986682 
 Number of iterations: 61000 
 Number of values above criterion: 28598 
-P-value: 28.598 
+P-value: 0.46881967213114756 
 
 Fluid intelligence score: Component 5 : Age 
 True coefficient (criterion): 0.0012455573763423308 
 Number of iterations: 61000 
 Number of values above criterion: 26177 
-P-value: 26.177 
+P-value: 0.4291311475409836 
 
 Fluid intelligence score: Component 6 : Age 
 True coefficient (criterion): 0.0008363946659718129 
 Number of iterations: 61000 
 Number of values above criterion: 27581 
-P-value: 27.581 
+P-value: 0.45214754098360654 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.000744655086502697 
 Number of iterations: 61000 
 Number of values above criterion: 27905 
-P-value: 27.905 
+P-value: 0.4574590163934426 
 
 Fluid intelligence score: Component 8 : Age 
 True coefficient (criterion): 0.0007631302558605414 
 Number of iterations: 61000 
 Number of values above criterion: 27856 
-P-value: 27.856 
+P-value: 0.456655737704918 
 
 Fluid intelligence score: Component 9 : Age 
 True coefficient (criterion): 0.0006369074153167347 
 Number of iterations: 61000 
 Number of values above criterion: 28290 
-P-value: 28.29 
+P-value: 0.4637704918032787 
 
 Fluid intelligence score: Component 10 : Age 
 True coefficient (criterion): 0.0005706967851841213 
 Number of iterations: 61000 
 Number of values above criterion: 28465 
-P-value: 28.465 
+P-value: 0.4666393442622951 
 
 Fluid intelligence score: Component 11 : Age 
 True coefficient (criterion): 0.0007544803539589807 
 Number of iterations: 61000 
 Number of values above criterion: 27873 
-P-value: 27.873 
+P-value: 0.4569344262295082 
 
 Fluid intelligence score: Component 12 : Age 
 True coefficient (criterion): 0.0006268810915287664 
 Number of iterations: 61000 
 Number of values above criterion: 28322 
-P-value: 28.322 
+P-value: 0.46429508196721314 
 
 Fluid intelligence score: Component 13 : Age 
 True coefficient (criterion): 0.0009009577959973642 
 Number of iterations: 61000 
 Number of values above criterion: 27362 
-P-value: 27.362 
+P-value: 0.4485573770491803 
 
 Fluid intelligence score: Component 14 : Age 
 True coefficient (criterion): 0.0006234405708070017 
 Number of iterations: 61000 
 Number of values above criterion: 28325 
-P-value: 28.325 
+P-value: 0.46434426229508197 
 
 Fluid intelligence score: Component 15 : Age 
 True coefficient (criterion): 0.0004745082047044474 
 Number of iterations: 61000 
 Number of values above criterion: 28807 
-P-value: 28.807 
+P-value: 0.47224590163934427 
 
 Fluid intelligence score: Component 16 : Age 
 True coefficient (criterion): 0.0008168795826824365 
 Number of iterations: 61000 
 Number of values above criterion: 27671 
-P-value: 27.671 
+P-value: 0.45362295081967213 
 
 Fluid intelligence score: Component 17 : Age 
 True coefficient (criterion): 0.0006969805132821527 
 Number of iterations: 61000 
 Number of values above criterion: 28066 
-P-value: 28.066 
+P-value: 0.4600983606557377 
 
 Fluid intelligence score: Component 18 : Age 
 True coefficient (criterion): 0.0006869859280981917 
 Number of iterations: 61000 
 Number of values above criterion: 28115 
-P-value: 28.115 
+P-value: 0.4609016393442623 
 
 Fluid intelligence score: Component 19 : Age 
 True coefficient (criterion): 0.0004942147727728048 
 Number of iterations: 61000 
 Number of values above criterion: 28777 
-P-value: 28.777 
+P-value: 0.47175409836065574 
 
 Fluid intelligence score: Component 20 : Age 
 True coefficient (criterion): 0.00047606678341639315 
 Number of iterations: 61000 
 Number of values above criterion: 28853 
-P-value: 28.853 
+P-value: 0.473 
 
 Fluid intelligence score: Component 21 : Age 
 True coefficient (criterion): 0.0006769920551213327 
 Number of iterations: 61000 
 Number of values above criterion: 28138 
-P-value: 28.138 
+P-value: 0.46127868852459014 
 
 Fluid intelligence score: Component 22 : Age 
 True coefficient (criterion): 0.0007989718630306597 
 Number of iterations: 61000 
 Number of values above criterion: 27741 
-P-value: 27.741 
+P-value: 0.45477049180327866 
 
 Fluid intelligence score: Component 23 : Age 
 True coefficient (criterion): 0.0007326010503791707 
 Number of iterations: 61000 
 Number of values above criterion: 27943 
-P-value: 27.943 
+P-value: 0.4580819672131147 
 
 Fluid intelligence score: Component 24 : Age 
 True coefficient (criterion): 0.0006332838830740708 
 Number of iterations: 61000 
 Number of values above criterion: 28299 
-P-value: 28.299 
+P-value: 0.46391803278688526 
 
 Fluid intelligence score: Component 25 : Age 
 True coefficient (criterion): 0.000462036823524628 
 Number of iterations: 61000 
 Number of values above criterion: 28875 
-P-value: 28.875 
+P-value: 0.4733606557377049 
 
 Fluid intelligence score: Component 26 : Age 
 True coefficient (criterion): 0.0009923724850899721 
 Number of iterations: 61000 
 Number of values above criterion: 27045 
-P-value: 27.045 
+P-value: 0.44336065573770495 
 
 Fluid intelligence score: Component 27 : Age 
 True coefficient (criterion): 0.0006216820125521631 
 Number of iterations: 61000 
 Number of values above criterion: 28327 
-P-value: 28.327 
+P-value: 0.46437704918032785 
 
 Fluid intelligence score: Component 28 : Age 
 True coefficient (criterion): 0.0007472773316785592 
 Number of iterations: 61000 
 Number of values above criterion: 27900 
-P-value: 27.9 
+P-value: 0.45737704918032784 
 
 Fluid intelligence score: Component 29 : Age 
 True coefficient (criterion): 0.0007375687084036396 
 Number of iterations: 61000 
 Number of values above criterion: 27916 
-P-value: 27.916 
+P-value: 0.4576393442622951 
 
 Fluid intelligence score: Component 30 : Age 
 True coefficient (criterion): 0.0006912517284141839 
 Number of iterations: 61000 
 Number of values above criterion: 28090 
-P-value: 28.09 
+P-value: 0.46049180327868855 
 
 Fluid intelligence score: Component 31 : Age 
 True coefficient (criterion): 0.0006461968798851187 
 Number of iterations: 61000 
 Number of values above criterion: 28245 
-P-value: 28.245 
+P-value: 0.4630327868852459 
 
 Fluid intelligence score: Component 32 : Age 
 True coefficient (criterion): 0.0007950964720643336 
 Number of iterations: 61000 
 Number of values above criterion: 27715 
-P-value: 27.715 
+P-value: 0.45434426229508196 
 
 Fluid intelligence score: Component 33 : Age 
 True coefficient (criterion): 0.0005753169003436296 
 Number of iterations: 61000 
 Number of values above criterion: 28492 
-P-value: 28.492 
+P-value: 0.46708196721311473 
 
 Fluid intelligence score: Component 34 : Age 
 True coefficient (criterion): 0.0006149095180190164 
 Number of iterations: 61000 
 Number of values above criterion: 28363 
-P-value: 28.363 
+P-value: 0.4649672131147541 
 
 Fluid intelligence score: Component 35 : Age 
 True coefficient (criterion): 0.0005745847790942361 
 Number of iterations: 61000 
 Number of values above criterion: 28513 
-P-value: 28.513 
+P-value: 0.46742622950819673 
 
 Fluid intelligence score: Component 36 : Age 
 True coefficient (criterion): 0.0004696158112317075 
 Number of iterations: 61000 
 Number of values above criterion: 28838 
-P-value: 28.838 
+P-value: 0.47275409836065574 
 
 Fluid intelligence score: Component 37 : Age 
 True coefficient (criterion): 0.0006114433480575989 
 Number of iterations: 61000 
 Number of values above criterion: 28353 
-P-value: 28.353 
+P-value: 0.4648032786885246 
 
 Fluid intelligence score: Component 38 : Age 
 True coefficient (criterion): 0.0007108193908165307 
 Number of iterations: 61000 
 Number of values above criterion: 28025 
-P-value: 28.025 
+P-value: 0.4594262295081967 
 
 Fluid intelligence score: Component 39 : Age 
 True coefficient (criterion): 0.0007400382412818528 
 Number of iterations: 61000 
 Number of values above criterion: 27923 
-P-value: 27.923 
+P-value: 0.4577540983606557 
 
 Fluid intelligence score: Component 40 : Age 
 True coefficient (criterion): 0.0008017362942509073 
 Number of iterations: 61000 
 Number of values above criterion: 27690 
-P-value: 27.69 
+P-value: 0.4539344262295082 
 
 Fluid intelligence score: Component 41 : Age 
 True coefficient (criterion): 0.0006865861271121446 
 Number of iterations: 61000 
 Number of values above criterion: 28105 
-P-value: 28.105 
+P-value: 0.4607377049180328 
 
 Fluid intelligence score: Component 42 : Age 
 True coefficient (criterion): 0.0007518733619378826 
 Number of iterations: 61000 
 Number of values above criterion: 27865 
-P-value: 27.865 
+P-value: 0.4568032786885246 
 
 Fluid intelligence score: Component 43 : Age 
 True coefficient (criterion): 0.0006783064663581015 
 Number of iterations: 61000 
 Number of values above criterion: 28149 
-P-value: 28.149 
+P-value: 0.4614590163934426 
 
 Fluid intelligence score: Component 44 : Age 
 True coefficient (criterion): 0.0006720046947592583 
 Number of iterations: 61000 
 Number of values above criterion: 28160 
-P-value: 28.16 
+P-value: 0.4616393442622951 
 
 Fluid intelligence score: Component 45 : Age 
 True coefficient (criterion): 0.0006680465538625299 
 Number of iterations: 61000 
 Number of values above criterion: 28178 
-P-value: 28.178 
+P-value: 0.4619344262295082 
 
 Fluid intelligence score: Component 46 : Age 
 True coefficient (criterion): 0.0012777956300779778 
 Number of iterations: 61000 
 Number of values above criterion: 26086 
-P-value: 26.086 
+P-value: 0.4276393442622951 
 
 Fluid intelligence score: Component 47 : Age 
 True coefficient (criterion): 0.0007470402634183531 
 Number of iterations: 61000 
 Number of values above criterion: 27865 
-P-value: 27.865 
+P-value: 0.4568032786885246 
 
 Fluid intelligence score: Component 48 : Age 
 True coefficient (criterion): 0.00046795609920955746 
 Number of iterations: 61000 
 Number of values above criterion: 28842 
-P-value: 28.842 
+P-value: 0.47281967213114756 
 
 Fluid intelligence score: Component 49 : Age 
 True coefficient (criterion): 0.0008751289754404195 
 Number of iterations: 61000 
 Number of values above criterion: 27469 
-P-value: 27.469 
+P-value: 0.45031147540983607 
 
 Loneliness: Component 0 : Age 
 True coefficient (criterion): -0.04080598674323488 
@@ -2703,601 +2703,601 @@ Attend sports club or gym: Component 0 : Age
 True coefficient (criterion): -0.017518855882212574 
 Number of iterations: 61000 
 Number of values above criterion: 517 
-P-value: 0.517 
+P-value: 0.008475409836065574 
 
 Attend sports club or gym: Component 1 : Age 
 True coefficient (criterion): -0.017600364881685298 
 Number of iterations: 61000 
 Number of values above criterion: 513 
-P-value: 0.513 
+P-value: 0.00840983606557377 
 
 Attend sports club or gym: Component 2 : Age 
 True coefficient (criterion): -0.017663305402683585 
 Number of iterations: 61000 
 Number of values above criterion: 496 
-P-value: 0.496 
+P-value: 0.008131147540983607 
 
 Attend sports club or gym: Component 3 : Age 
 True coefficient (criterion): -0.017397967001002122 
 Number of iterations: 61000 
 Number of values above criterion: 539 
-P-value: 0.539 
+P-value: 0.008836065573770492 
 
 Attend sports club or gym: Component 4 : Age 
 True coefficient (criterion): -0.01756703316563471 
 Number of iterations: 61000 
 Number of values above criterion: 513 
-P-value: 0.513 
+P-value: 0.00840983606557377 
 
 Attend sports club or gym: Component 5 : Age 
 True coefficient (criterion): -0.017828377763162456 
 Number of iterations: 61000 
 Number of values above criterion: 464 
-P-value: 0.464 
+P-value: 0.00760655737704918 
 
 Attend sports club or gym: Component 6 : Age 
 True coefficient (criterion): -0.017497918095416395 
 Number of iterations: 61000 
 Number of values above criterion: 528 
-P-value: 0.528 
+P-value: 0.008655737704918032 
 
 Attend sports club or gym: Component 7 : Age 
 True coefficient (criterion): -0.01753686665136181 
 Number of iterations: 61000 
 Number of values above criterion: 513 
-P-value: 0.513 
+P-value: 0.00840983606557377 
 
 Attend sports club or gym: Component 8 : Age 
 True coefficient (criterion): -0.017468860778758276 
 Number of iterations: 61000 
 Number of values above criterion: 521 
-P-value: 0.521 
+P-value: 0.008540983606557377 
 
 Attend sports club or gym: Component 9 : Age 
 True coefficient (criterion): -0.01756828409832697 
 Number of iterations: 61000 
 Number of values above criterion: 509 
-P-value: 0.509 
+P-value: 0.008344262295081967 
 
 Attend sports club or gym: Component 10 : Age 
 True coefficient (criterion): -0.017348440300057784 
 Number of iterations: 61000 
 Number of values above criterion: 551 
-P-value: 0.551 
+P-value: 0.009032786885245902 
 
 Attend sports club or gym: Component 11 : Age 
 True coefficient (criterion): -0.017647818181781655 
 Number of iterations: 61000 
 Number of values above criterion: 497 
-P-value: 0.497 
+P-value: 0.008147540983606557 
 
 Attend sports club or gym: Component 12 : Age 
 True coefficient (criterion): -0.01741833375078249 
 Number of iterations: 61000 
 Number of values above criterion: 538 
-P-value: 0.538 
+P-value: 0.008819672131147541 
 
 Attend sports club or gym: Component 13 : Age 
 True coefficient (criterion): -0.017427391888645113 
 Number of iterations: 61000 
 Number of values above criterion: 532 
-P-value: 0.532 
+P-value: 0.008721311475409835 
 
 Attend sports club or gym: Component 14 : Age 
 True coefficient (criterion): -0.01753432663737925 
 Number of iterations: 61000 
 Number of values above criterion: 516 
-P-value: 0.516 
+P-value: 0.008459016393442624 
 
 Attend sports club or gym: Component 15 : Age 
 True coefficient (criterion): -0.018009720349142538 
 Number of iterations: 61000 
 Number of values above criterion: 428 
-P-value: 0.428 
+P-value: 0.0070163934426229506 
 
 Attend sports club or gym: Component 16 : Age 
 True coefficient (criterion): -0.017472786916759523 
 Number of iterations: 61000 
 Number of values above criterion: 535 
-P-value: 0.535 
+P-value: 0.008770491803278688 
 
 Attend sports club or gym: Component 17 : Age 
 True coefficient (criterion): -0.017392081161828724 
 Number of iterations: 61000 
 Number of values above criterion: 540 
-P-value: 0.54 
+P-value: 0.008852459016393442 
 
 Attend sports club or gym: Component 18 : Age 
 True coefficient (criterion): -0.01750018561672054 
 Number of iterations: 61000 
 Number of values above criterion: 519 
-P-value: 0.519 
+P-value: 0.008508196721311475 
 
 Attend sports club or gym: Component 19 : Age 
 True coefficient (criterion): -0.017401596774658322 
 Number of iterations: 61000 
 Number of values above criterion: 539 
-P-value: 0.539 
+P-value: 0.008836065573770492 
 
 Attend sports club or gym: Component 20 : Age 
 True coefficient (criterion): -0.01754283041991134 
 Number of iterations: 61000 
 Number of values above criterion: 516 
-P-value: 0.516 
+P-value: 0.008459016393442624 
 
 Attend sports club or gym: Component 21 : Age 
 True coefficient (criterion): -0.017510853422677778 
 Number of iterations: 61000 
 Number of values above criterion: 525 
-P-value: 0.525 
+P-value: 0.00860655737704918 
 
 Attend sports club or gym: Component 22 : Age 
 True coefficient (criterion): -0.017269982899224528 
 Number of iterations: 61000 
 Number of values above criterion: 562 
-P-value: 0.562 
+P-value: 0.00921311475409836 
 
 Attend sports club or gym: Component 23 : Age 
 True coefficient (criterion): -0.017534918709333998 
 Number of iterations: 61000 
 Number of values above criterion: 523 
-P-value: 0.523 
+P-value: 0.008573770491803278 
 
 Attend sports club or gym: Component 24 : Age 
 True coefficient (criterion): -0.017478805316020914 
 Number of iterations: 61000 
 Number of values above criterion: 530 
-P-value: 0.53 
+P-value: 0.008688524590163935 
 
 Attend sports club or gym: Component 25 : Age 
 True coefficient (criterion): -0.017507220832285623 
 Number of iterations: 61000 
 Number of values above criterion: 515 
-P-value: 0.515 
+P-value: 0.008442622950819672 
 
 Attend sports club or gym: Component 26 : Age 
 True coefficient (criterion): -0.017712961582706792 
 Number of iterations: 61000 
 Number of values above criterion: 481 
-P-value: 0.481 
+P-value: 0.007885245901639344 
 
 Attend sports club or gym: Component 27 : Age 
 True coefficient (criterion): -0.01758138889731811 
 Number of iterations: 61000 
 Number of values above criterion: 515 
-P-value: 0.515 
+P-value: 0.008442622950819672 
 
 Attend sports club or gym: Component 28 : Age 
 True coefficient (criterion): -0.01765998026114049 
 Number of iterations: 61000 
 Number of values above criterion: 493 
-P-value: 0.493 
+P-value: 0.008081967213114754 
 
 Attend sports club or gym: Component 29 : Age 
 True coefficient (criterion): -0.017580772365373 
 Number of iterations: 61000 
 Number of values above criterion: 506 
-P-value: 0.506 
+P-value: 0.008295081967213114 
 
 Attend sports club or gym: Component 30 : Age 
 True coefficient (criterion): -0.017551635994108136 
 Number of iterations: 61000 
 Number of values above criterion: 511 
-P-value: 0.511 
+P-value: 0.008377049180327868 
 
 Attend sports club or gym: Component 31 : Age 
 True coefficient (criterion): -0.017624838553397422 
 Number of iterations: 61000 
 Number of values above criterion: 501 
-P-value: 0.501 
+P-value: 0.00821311475409836 
 
 Attend sports club or gym: Component 32 : Age 
 True coefficient (criterion): -0.017647254073258102 
 Number of iterations: 61000 
 Number of values above criterion: 492 
-P-value: 0.492 
+P-value: 0.008065573770491804 
 
 Attend sports club or gym: Component 33 : Age 
 True coefficient (criterion): -0.017600547905378662 
 Number of iterations: 61000 
 Number of values above criterion: 512 
-P-value: 0.512 
+P-value: 0.00839344262295082 
 
 Attend sports club or gym: Component 34 : Age 
 True coefficient (criterion): -0.017709495667081764 
 Number of iterations: 61000 
 Number of values above criterion: 490 
-P-value: 0.49 
+P-value: 0.008032786885245901 
 
 Attend sports club or gym: Component 35 : Age 
 True coefficient (criterion): -0.01763326428079851 
 Number of iterations: 61000 
 Number of values above criterion: 496 
-P-value: 0.496 
+P-value: 0.008131147540983607 
 
 Attend sports club or gym: Component 36 : Age 
 True coefficient (criterion): -0.017549927983927793 
 Number of iterations: 61000 
 Number of values above criterion: 517 
-P-value: 0.517 
+P-value: 0.008475409836065574 
 
 Attend sports club or gym: Component 37 : Age 
 True coefficient (criterion): -0.017708746845576724 
 Number of iterations: 61000 
 Number of values above criterion: 493 
-P-value: 0.493 
+P-value: 0.008081967213114754 
 
 Attend sports club or gym: Component 38 : Age 
 True coefficient (criterion): -0.01761477417410891 
 Number of iterations: 61000 
 Number of values above criterion: 501 
-P-value: 0.501 
+P-value: 0.00821311475409836 
 
 Attend sports club or gym: Component 39 : Age 
 True coefficient (criterion): -0.017584329283123246 
 Number of iterations: 61000 
 Number of values above criterion: 511 
-P-value: 0.511 
+P-value: 0.008377049180327868 
 
 Attend sports club or gym: Component 40 : Age 
 True coefficient (criterion): -0.017491864740143886 
 Number of iterations: 61000 
 Number of values above criterion: 525 
-P-value: 0.525 
+P-value: 0.00860655737704918 
 
 Attend sports club or gym: Component 41 : Age 
 True coefficient (criterion): -0.01773910616657564 
 Number of iterations: 61000 
 Number of values above criterion: 478 
-P-value: 0.478 
+P-value: 0.007836065573770493 
 
 Attend sports club or gym: Component 42 : Age 
 True coefficient (criterion): -0.01745519645771755 
 Number of iterations: 61000 
 Number of values above criterion: 533 
-P-value: 0.533 
+P-value: 0.008737704918032788 
 
 Attend sports club or gym: Component 43 : Age 
 True coefficient (criterion): -0.01749314888539106 
 Number of iterations: 61000 
 Number of values above criterion: 522 
-P-value: 0.522 
+P-value: 0.008557377049180328 
 
 Attend sports club or gym: Component 44 : Age 
 True coefficient (criterion): -0.01767981337866337 
 Number of iterations: 61000 
 Number of values above criterion: 490 
-P-value: 0.49 
+P-value: 0.008032786885245901 
 
 Attend sports club or gym: Component 45 : Age 
 True coefficient (criterion): -0.017529810732407055 
 Number of iterations: 61000 
 Number of values above criterion: 517 
-P-value: 0.517 
+P-value: 0.008475409836065574 
 
 Attend sports club or gym: Component 46 : Age 
 True coefficient (criterion): -0.017433420265685565 
 Number of iterations: 61000 
 Number of values above criterion: 541 
-P-value: 0.541 
+P-value: 0.008868852459016393 
 
 Attend sports club or gym: Component 47 : Age 
 True coefficient (criterion): -0.017509397730513403 
 Number of iterations: 61000 
 Number of values above criterion: 521 
-P-value: 0.521 
+P-value: 0.008540983606557377 
 
 Attend sports club or gym: Component 48 : Age 
 True coefficient (criterion): -0.017536029886475454 
 Number of iterations: 61000 
 Number of values above criterion: 508 
-P-value: 0.508 
+P-value: 0.008327868852459017 
 
 Attend sports club or gym: Component 49 : Age 
 True coefficient (criterion): -0.017586498304836298 
 Number of iterations: 61000 
 Number of values above criterion: 511 
-P-value: 0.511 
+P-value: 0.008377049180327868 
 
 Attend pub or social club: Component 0 : Age 
 True coefficient (criterion): -0.011834461271348093 
 Number of iterations: 61000 
 Number of values above criterion: 3214 
-P-value: 3.214 
+P-value: 0.05268852459016393 
 
 Attend pub or social club: Component 1 : Age 
 True coefficient (criterion): -0.011728857761165876 
 Number of iterations: 61000 
 Number of values above criterion: 3301 
-P-value: 3.301 
+P-value: 0.054114754098360654 
 
 Attend pub or social club: Component 2 : Age 
 True coefficient (criterion): -0.011798201039876647 
 Number of iterations: 61000 
 Number of values above criterion: 3249 
-P-value: 3.249 
+P-value: 0.05326229508196721 
 
 Attend pub or social club: Component 3 : Age 
 True coefficient (criterion): -0.01172237405894656 
 Number of iterations: 61000 
 Number of values above criterion: 3314 
-P-value: 3.314 
+P-value: 0.054327868852459014 
 
 Attend pub or social club: Component 4 : Age 
 True coefficient (criterion): -0.011528853218887697 
 Number of iterations: 61000 
 Number of values above criterion: 3514 
-P-value: 3.514 
+P-value: 0.05760655737704918 
 
 Attend pub or social club: Component 5 : Age 
 True coefficient (criterion): -0.011414878250333646 
 Number of iterations: 61000 
 Number of values above criterion: 3600 
-P-value: 3.6 
+P-value: 0.05901639344262295 
 
 Attend pub or social club: Component 6 : Age 
 True coefficient (criterion): -0.011829526625065805 
 Number of iterations: 61000 
 Number of values above criterion: 3232 
-P-value: 3.232 
+P-value: 0.05298360655737705 
 
 Attend pub or social club: Component 7 : Age 
 True coefficient (criterion): -0.011900127918445162 
 Number of iterations: 61000 
 Number of values above criterion: 3157 
-P-value: 3.157 
+P-value: 0.05175409836065574 
 
 Attend pub or social club: Component 8 : Age 
 True coefficient (criterion): -0.011778065823785043 
 Number of iterations: 61000 
 Number of values above criterion: 3257 
-P-value: 3.257 
+P-value: 0.05339344262295082 
 
 Attend pub or social club: Component 9 : Age 
 True coefficient (criterion): -0.011815172463700948 
 Number of iterations: 61000 
 Number of values above criterion: 3242 
-P-value: 3.242 
+P-value: 0.05314754098360656 
 
 Attend pub or social club: Component 10 : Age 
 True coefficient (criterion): -0.011745185816303993 
 Number of iterations: 61000 
 Number of values above criterion: 3295 
-P-value: 3.295 
+P-value: 0.05401639344262295 
 
 Attend pub or social club: Component 11 : Age 
 True coefficient (criterion): -0.01186684944477274 
 Number of iterations: 61000 
 Number of values above criterion: 3198 
-P-value: 3.198 
+P-value: 0.05242622950819672 
 
 Attend pub or social club: Component 12 : Age 
 True coefficient (criterion): -0.011752807672199864 
 Number of iterations: 61000 
 Number of values above criterion: 3304 
-P-value: 3.304 
+P-value: 0.05416393442622951 
 
 Attend pub or social club: Component 13 : Age 
 True coefficient (criterion): -0.011796180235427237 
 Number of iterations: 61000 
 Number of values above criterion: 3238 
-P-value: 3.238 
+P-value: 0.053081967213114756 
 
 Attend pub or social club: Component 14 : Age 
 True coefficient (criterion): -0.011743529520616766 
 Number of iterations: 61000 
 Number of values above criterion: 3288 
-P-value: 3.288 
+P-value: 0.053901639344262293 
 
 Attend pub or social club: Component 15 : Age 
 True coefficient (criterion): -0.011855446866894943 
 Number of iterations: 61000 
 Number of values above criterion: 3219 
-P-value: 3.219 
+P-value: 0.05277049180327869 
 
 Attend pub or social club: Component 16 : Age 
 True coefficient (criterion): -0.01196070520900061 
 Number of iterations: 61000 
 Number of values above criterion: 3100 
-P-value: 3.1 
+P-value: 0.05081967213114754 
 
 Attend pub or social club: Component 17 : Age 
 True coefficient (criterion): -0.011825817463505198 
 Number of iterations: 61000 
 Number of values above criterion: 3211 
-P-value: 3.211 
+P-value: 0.05263934426229508 
 
 Attend pub or social club: Component 18 : Age 
 True coefficient (criterion): -0.01173755484543574 
 Number of iterations: 61000 
 Number of values above criterion: 3305 
-P-value: 3.305 
+P-value: 0.054180327868852456 
 
 Attend pub or social club: Component 19 : Age 
 True coefficient (criterion): -0.011822341154971775 
 Number of iterations: 61000 
 Number of values above criterion: 3219 
-P-value: 3.219 
+P-value: 0.05277049180327869 
 
 Attend pub or social club: Component 20 : Age 
 True coefficient (criterion): -0.011726751672822867 
 Number of iterations: 61000 
 Number of values above criterion: 3311 
-P-value: 3.311 
+P-value: 0.05427868852459016 
 
 Attend pub or social club: Component 21 : Age 
 True coefficient (criterion): -0.01181431219095079 
 Number of iterations: 61000 
 Number of values above criterion: 3233 
-P-value: 3.233 
+P-value: 0.053 
 
 Attend pub or social club: Component 22 : Age 
 True coefficient (criterion): -0.011866848942492268 
 Number of iterations: 61000 
 Number of values above criterion: 3179 
-P-value: 3.179 
+P-value: 0.05211475409836066 
 
 Attend pub or social club: Component 23 : Age 
 True coefficient (criterion): -0.011770223994185947 
 Number of iterations: 61000 
 Number of values above criterion: 3266 
-P-value: 3.266 
+P-value: 0.053540983606557374 
 
 Attend pub or social club: Component 24 : Age 
 True coefficient (criterion): -0.011682643112726876 
 Number of iterations: 61000 
 Number of values above criterion: 3352 
-P-value: 3.352 
+P-value: 0.05495081967213115 
 
 Attend pub or social club: Component 25 : Age 
 True coefficient (criterion): -0.011725067019709134 
 Number of iterations: 61000 
 Number of values above criterion: 3319 
-P-value: 3.319 
+P-value: 0.05440983606557377 
 
 Attend pub or social club: Component 26 : Age 
 True coefficient (criterion): -0.011604209934816445 
 Number of iterations: 61000 
 Number of values above criterion: 3430 
-P-value: 3.43 
+P-value: 0.05622950819672131 
 
 Attend pub or social club: Component 27 : Age 
 True coefficient (criterion): -0.01185934417597169 
 Number of iterations: 61000 
 Number of values above criterion: 3185 
-P-value: 3.185 
+P-value: 0.05221311475409836 
 
 Attend pub or social club: Component 28 : Age 
 True coefficient (criterion): -0.011722005162044575 
 Number of iterations: 61000 
 Number of values above criterion: 3306 
-P-value: 3.306 
+P-value: 0.05419672131147541 
 
 Attend pub or social club: Component 29 : Age 
 True coefficient (criterion): -0.011659979732992333 
 Number of iterations: 61000 
 Number of values above criterion: 3388 
-P-value: 3.388 
+P-value: 0.055540983606557376 
 
 Attend pub or social club: Component 30 : Age 
 True coefficient (criterion): -0.011761220896232308 
 Number of iterations: 61000 
 Number of values above criterion: 3285 
-P-value: 3.285 
+P-value: 0.05385245901639344 
 
 Attend pub or social club: Component 31 : Age 
 True coefficient (criterion): -0.011669392255217088 
 Number of iterations: 61000 
 Number of values above criterion: 3368 
-P-value: 3.368 
+P-value: 0.05521311475409836 
 
 Attend pub or social club: Component 32 : Age 
 True coefficient (criterion): -0.011738725228453999 
 Number of iterations: 61000 
 Number of values above criterion: 3298 
-P-value: 3.298 
+P-value: 0.0540655737704918 
 
 Attend pub or social club: Component 33 : Age 
 True coefficient (criterion): -0.011729536238365992 
 Number of iterations: 61000 
 Number of values above criterion: 3312 
-P-value: 3.312 
+P-value: 0.05429508196721312 
 
 Attend pub or social club: Component 34 : Age 
 True coefficient (criterion): -0.011687860053925003 
 Number of iterations: 61000 
 Number of values above criterion: 3333 
-P-value: 3.333 
+P-value: 0.05463934426229508 
 
 Attend pub or social club: Component 35 : Age 
 True coefficient (criterion): -0.011830081290470182 
 Number of iterations: 61000 
 Number of values above criterion: 3208 
-P-value: 3.208 
+P-value: 0.052590163934426226 
 
 Attend pub or social club: Component 36 : Age 
 True coefficient (criterion): -0.01190571900913038 
 Number of iterations: 61000 
 Number of values above criterion: 3156 
-P-value: 3.156 
+P-value: 0.051737704918032784 
 
 Attend pub or social club: Component 37 : Age 
 True coefficient (criterion): -0.011628647243251144 
 Number of iterations: 61000 
 Number of values above criterion: 3417 
-P-value: 3.417 
+P-value: 0.05601639344262295 
 
 Attend pub or social club: Component 38 : Age 
 True coefficient (criterion): -0.011837338318702696 
 Number of iterations: 61000 
 Number of values above criterion: 3207 
-P-value: 3.207 
+P-value: 0.05257377049180328 
 
 Attend pub or social club: Component 39 : Age 
 True coefficient (criterion): -0.011715185377354775 
 Number of iterations: 61000 
 Number of values above criterion: 3318 
-P-value: 3.318 
+P-value: 0.05439344262295082 
 
 Attend pub or social club: Component 40 : Age 
 True coefficient (criterion): -0.011762463219272414 
 Number of iterations: 61000 
 Number of values above criterion: 3277 
-P-value: 3.277 
+P-value: 0.05372131147540984 
 
 Attend pub or social club: Component 41 : Age 
 True coefficient (criterion): -0.011728043603621926 
 Number of iterations: 61000 
 Number of values above criterion: 3310 
-P-value: 3.31 
+P-value: 0.05426229508196721 
 
 Attend pub or social club: Component 42 : Age 
 True coefficient (criterion): -0.011731505949016736 
 Number of iterations: 61000 
 Number of values above criterion: 3310 
-P-value: 3.31 
+P-value: 0.05426229508196721 
 
 Attend pub or social club: Component 43 : Age 
 True coefficient (criterion): -0.011750860821453405 
 Number of iterations: 61000 
 Number of values above criterion: 3293 
-P-value: 3.293 
+P-value: 0.05398360655737705 
 
 Attend pub or social club: Component 44 : Age 
 True coefficient (criterion): -0.011718141364221932 
 Number of iterations: 61000 
 Number of values above criterion: 3325 
-P-value: 3.325 
+P-value: 0.05450819672131148 
 
 Attend pub or social club: Component 45 : Age 
 True coefficient (criterion): -0.01194182706400083 
 Number of iterations: 61000 
 Number of values above criterion: 3115 
-P-value: 3.115 
+P-value: 0.051065573770491805 
 
 Attend pub or social club: Component 46 : Age 
 True coefficient (criterion): -0.011564147098781294 
 Number of iterations: 61000 
 Number of values above criterion: 3464 
-P-value: 3.464 
+P-value: 0.05678688524590164 
 
 Attend pub or social club: Component 47 : Age 
 True coefficient (criterion): -0.011805237825964326 
 Number of iterations: 61000 
 Number of values above criterion: 3246 
-P-value: 3.246 
+P-value: 0.05321311475409836 
 
 Attend pub or social club: Component 48 : Age 
 True coefficient (criterion): -0.011317345583127603 
 Number of iterations: 61000 
 Number of values above criterion: 3713 
-P-value: 3.713 
+P-value: 0.060868852459016395 
 
 Attend pub or social club: Component 49 : Age 
 True coefficient (criterion): -0.01173922460712312 
 Number of iterations: 61000 
 Number of values above criterion: 3294 
-P-value: 3.294 
+P-value: 0.054 
 
 Attend religious group: Component 0 : Age 
 True coefficient (criterion): 0.08285766450821971 
@@ -6603,301 +6603,301 @@ Stroke: Component 0 : Age
 True coefficient (criterion): 0.01829685407049043 
 Number of iterations: 61000 
 Number of values above criterion: 392 
-P-value: 0.392 
+P-value: 0.006426229508196721 
 
 Stroke: Component 1 : Age 
 True coefficient (criterion): 0.01824880843652118 
 Number of iterations: 61000 
 Number of values above criterion: 389 
-P-value: 0.389 
+P-value: 0.006377049180327869 
 
 Stroke: Component 2 : Age 
 True coefficient (criterion): 0.01844535500735156 
 Number of iterations: 61000 
 Number of values above criterion: 366 
-P-value: 0.366 
+P-value: 0.006 
 
 Stroke: Component 3 : Age 
 True coefficient (criterion): 0.018505972606179744 
 Number of iterations: 61000 
 Number of values above criterion: 357 
-P-value: 0.357 
+P-value: 0.005852459016393443 
 
 Stroke: Component 4 : Age 
 True coefficient (criterion): 0.01814521877254131 
 Number of iterations: 61000 
 Number of values above criterion: 413 
-P-value: 0.413 
+P-value: 0.006770491803278688 
 
 Stroke: Component 5 : Age 
 True coefficient (criterion): 0.01813002722472948 
 Number of iterations: 61000 
 Number of values above criterion: 407 
-P-value: 0.407 
+P-value: 0.006672131147540983 
 
 Stroke: Component 6 : Age 
 True coefficient (criterion): 0.018300534949993955 
 Number of iterations: 61000 
 Number of values above criterion: 378 
-P-value: 0.378 
+P-value: 0.00619672131147541 
 
 Stroke: Component 7 : Age 
 True coefficient (criterion): 0.018361170778267454 
 Number of iterations: 61000 
 Number of values above criterion: 382 
-P-value: 0.382 
+P-value: 0.006262295081967213 
 
 Stroke: Component 8 : Age 
 True coefficient (criterion): 0.01823492071518216 
 Number of iterations: 61000 
 Number of values above criterion: 396 
-P-value: 0.396 
+P-value: 0.0064918032786885245 
 
 Stroke: Component 9 : Age 
 True coefficient (criterion): 0.018282630501725176 
 Number of iterations: 61000 
 Number of values above criterion: 392 
-P-value: 0.392 
+P-value: 0.006426229508196721 
 
 Stroke: Component 10 : Age 
 True coefficient (criterion): 0.018511015226091877 
 Number of iterations: 61000 
 Number of values above criterion: 357 
-P-value: 0.357 
+P-value: 0.005852459016393443 
 
 Stroke: Component 11 : Age 
 True coefficient (criterion): 0.01831068260679096 
 Number of iterations: 61000 
 Number of values above criterion: 382 
-P-value: 0.382 
+P-value: 0.006262295081967213 
 
 Stroke: Component 12 : Age 
 True coefficient (criterion): 0.01834194516675189 
 Number of iterations: 61000 
 Number of values above criterion: 377 
-P-value: 0.377 
+P-value: 0.006180327868852459 
 
 Stroke: Component 13 : Age 
 True coefficient (criterion): 0.018327880887083387 
 Number of iterations: 61000 
 Number of values above criterion: 388 
-P-value: 0.388 
+P-value: 0.006360655737704918 
 
 Stroke: Component 14 : Age 
 True coefficient (criterion): 0.018358886477819705 
 Number of iterations: 61000 
 Number of values above criterion: 377 
-P-value: 0.377 
+P-value: 0.006180327868852459 
 
 Stroke: Component 15 : Age 
 True coefficient (criterion): 0.01802932590300124 
 Number of iterations: 61000 
 Number of values above criterion: 427 
-P-value: 0.427 
+P-value: 0.007 
 
 Stroke: Component 16 : Age 
 True coefficient (criterion): 0.01841727942321986 
 Number of iterations: 61000 
 Number of values above criterion: 367 
-P-value: 0.367 
+P-value: 0.0060163934426229505 
 
 Stroke: Component 17 : Age 
 True coefficient (criterion): 0.01841359137932304 
 Number of iterations: 61000 
 Number of values above criterion: 368 
-P-value: 0.368 
+P-value: 0.006032786885245902 
 
 Stroke: Component 18 : Age 
 True coefficient (criterion): 0.01814600192685358 
 Number of iterations: 61000 
 Number of values above criterion: 413 
-P-value: 0.413 
+P-value: 0.006770491803278688 
 
 Stroke: Component 19 : Age 
 True coefficient (criterion): 0.018415893245834744 
 Number of iterations: 61000 
 Number of values above criterion: 367 
-P-value: 0.367 
+P-value: 0.0060163934426229505 
 
 Stroke: Component 20 : Age 
 True coefficient (criterion): 0.018154497521654423 
 Number of iterations: 61000 
 Number of values above criterion: 417 
-P-value: 0.417 
+P-value: 0.006836065573770492 
 
 Stroke: Component 21 : Age 
 True coefficient (criterion): 0.01830902328833375 
 Number of iterations: 61000 
 Number of values above criterion: 381 
-P-value: 0.381 
+P-value: 0.006245901639344262 
 
 Stroke: Component 22 : Age 
 True coefficient (criterion): 0.01839407218132204 
 Number of iterations: 61000 
 Number of values above criterion: 371 
-P-value: 0.371 
+P-value: 0.006081967213114754 
 
 Stroke: Component 23 : Age 
 True coefficient (criterion): 0.018246430218623703 
 Number of iterations: 61000 
 Number of values above criterion: 393 
-P-value: 0.393 
+P-value: 0.006442622950819672 
 
 Stroke: Component 24 : Age 
 True coefficient (criterion): 0.018176858549789565 
 Number of iterations: 61000 
 Number of values above criterion: 401 
-P-value: 0.401 
+P-value: 0.006573770491803278 
 
 Stroke: Component 25 : Age 
 True coefficient (criterion): 0.01826508240402935 
 Number of iterations: 61000 
 Number of values above criterion: 395 
-P-value: 0.395 
+P-value: 0.006475409836065574 
 
 Stroke: Component 26 : Age 
 True coefficient (criterion): 0.018357326715473462 
 Number of iterations: 61000 
 Number of values above criterion: 381 
-P-value: 0.381 
+P-value: 0.006245901639344262 
 
 Stroke: Component 27 : Age 
 True coefficient (criterion): 0.01847059478421827 
 Number of iterations: 61000 
 Number of values above criterion: 357 
-P-value: 0.357 
+P-value: 0.005852459016393443 
 
 Stroke: Component 28 : Age 
 True coefficient (criterion): 0.01841004036785743 
 Number of iterations: 61000 
 Number of values above criterion: 366 
-P-value: 0.366 
+P-value: 0.006 
 
 Stroke: Component 29 : Age 
 True coefficient (criterion): 0.01818469390350335 
 Number of iterations: 61000 
 Number of values above criterion: 410 
-P-value: 0.41 
+P-value: 0.006721311475409836 
 
 Stroke: Component 30 : Age 
 True coefficient (criterion): 0.018242943282827963 
 Number of iterations: 61000 
 Number of values above criterion: 399 
-P-value: 0.399 
+P-value: 0.0065409836065573775 
 
 Stroke: Component 31 : Age 
 True coefficient (criterion): 0.018249578199377198 
 Number of iterations: 61000 
 Number of values above criterion: 394 
-P-value: 0.394 
+P-value: 0.006459016393442623 
 
 Stroke: Component 32 : Age 
 True coefficient (criterion): 0.018392525026836106 
 Number of iterations: 61000 
 Number of values above criterion: 378 
-P-value: 0.378 
+P-value: 0.00619672131147541 
 
 Stroke: Component 33 : Age 
 True coefficient (criterion): 0.018226701070265878 
 Number of iterations: 61000 
 Number of values above criterion: 396 
-P-value: 0.396 
+P-value: 0.0064918032786885245 
 
 Stroke: Component 34 : Age 
 True coefficient (criterion): 0.01839086793454909 
 Number of iterations: 61000 
 Number of values above criterion: 363 
-P-value: 0.363 
+P-value: 0.005950819672131147 
 
 Stroke: Component 35 : Age 
 True coefficient (criterion): 0.018265701157756806 
 Number of iterations: 61000 
 Number of values above criterion: 391 
-P-value: 0.391 
+P-value: 0.006409836065573771 
 
 Stroke: Component 36 : Age 
 True coefficient (criterion): 0.018346649973019404 
 Number of iterations: 61000 
 Number of values above criterion: 375 
-P-value: 0.375 
+P-value: 0.006147540983606557 
 
 Stroke: Component 37 : Age 
 True coefficient (criterion): 0.018260647371562803 
 Number of iterations: 61000 
 Number of values above criterion: 389 
-P-value: 0.389 
+P-value: 0.006377049180327869 
 
 Stroke: Component 38 : Age 
 True coefficient (criterion): 0.018128599134648562 
 Number of iterations: 61000 
 Number of values above criterion: 417 
-P-value: 0.417 
+P-value: 0.006836065573770492 
 
 Stroke: Component 39 : Age 
 True coefficient (criterion): 0.018214124021888687 
 Number of iterations: 61000 
 Number of values above criterion: 399 
-P-value: 0.399 
+P-value: 0.0065409836065573775 
 
 Stroke: Component 40 : Age 
 True coefficient (criterion): 0.01827834353646605 
 Number of iterations: 61000 
 Number of values above criterion: 392 
-P-value: 0.392 
+P-value: 0.006426229508196721 
 
 Stroke: Component 41 : Age 
 True coefficient (criterion): 0.018430074981160213 
 Number of iterations: 61000 
 Number of values above criterion: 364 
-P-value: 0.364 
+P-value: 0.0059672131147540984 
 
 Stroke: Component 42 : Age 
 True coefficient (criterion): 0.018304644813151215 
 Number of iterations: 61000 
 Number of values above criterion: 386 
-P-value: 0.386 
+P-value: 0.006327868852459016 
 
 Stroke: Component 43 : Age 
 True coefficient (criterion): 0.018601868703968173 
 Number of iterations: 61000 
 Number of values above criterion: 341 
-P-value: 0.341 
+P-value: 0.0055901639344262295 
 
 Stroke: Component 44 : Age 
 True coefficient (criterion): 0.018347327902267493 
 Number of iterations: 61000 
 Number of values above criterion: 376 
-P-value: 0.376 
+P-value: 0.0061639344262295085 
 
 Stroke: Component 45 : Age 
 True coefficient (criterion): 0.01832826496712275 
 Number of iterations: 61000 
 Number of values above criterion: 378 
-P-value: 0.378 
+P-value: 0.00619672131147541 
 
 Stroke: Component 46 : Age 
 True coefficient (criterion): 0.018296740102440655 
 Number of iterations: 61000 
 Number of values above criterion: 384 
-P-value: 0.384 
+P-value: 0.006295081967213114 
 
 Stroke: Component 47 : Age 
 True coefficient (criterion): 0.01831246651643682 
 Number of iterations: 61000 
 Number of values above criterion: 387 
-P-value: 0.387 
+P-value: 0.006344262295081967 
 
 Stroke: Component 48 : Age 
 True coefficient (criterion): 0.018068686607802007 
 Number of iterations: 61000 
 Number of values above criterion: 429 
-P-value: 0.429 
+P-value: 0.007032786885245902 
 
 Stroke: Component 49 : Age 
 True coefficient (criterion): 0.01810577104780696 
 Number of iterations: 61000 
 Number of values above criterion: 421 
-P-value: 0.421 
+P-value: 0.006901639344262295 
 
 Hypertension: Component 0 : Age 
 True coefficient (criterion): 0.1642731176551914 
@@ -7203,301 +7203,301 @@ Diabetes diagnosed by a doctor: Component 0 : Age
 True coefficient (criterion): 0.022234157507513855 
 Number of iterations: 61000 
 Number of values above criterion: 65 
-P-value: 0.065 
+P-value: 0.0010655737704918034 
 
 Diabetes diagnosed by a doctor: Component 1 : Age 
 True coefficient (criterion): 0.022537078891868977 
 Number of iterations: 61000 
 Number of values above criterion: 57 
-P-value: 0.057 
+P-value: 0.0009344262295081968 
 
 Diabetes diagnosed by a doctor: Component 2 : Age 
 True coefficient (criterion): 0.02243113552830822 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 3 : Age 
 True coefficient (criterion): 0.022587667310235444 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 4 : Age 
 True coefficient (criterion): 0.022874897952179955 
 Number of iterations: 61000 
 Number of values above criterion: 48 
-P-value: 0.048 
+P-value: 0.0007868852459016393 
 
 Diabetes diagnosed by a doctor: Component 5 : Age 
 True coefficient (criterion): 0.02242377426349928 
 Number of iterations: 61000 
 Number of values above criterion: 58 
-P-value: 0.058 
+P-value: 0.0009508196721311475 
 
 Diabetes diagnosed by a doctor: Component 6 : Age 
 True coefficient (criterion): 0.022480223207500948 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 7 : Age 
 True coefficient (criterion): 0.022599766821094592 
 Number of iterations: 61000 
 Number of values above criterion: 54 
-P-value: 0.054 
+P-value: 0.0008852459016393442 
 
 Diabetes diagnosed by a doctor: Component 8 : Age 
 True coefficient (criterion): 0.022450563637343022 
 Number of iterations: 61000 
 Number of values above criterion: 58 
-P-value: 0.058 
+P-value: 0.0009508196721311475 
 
 Diabetes diagnosed by a doctor: Component 9 : Age 
 True coefficient (criterion): 0.02263619372508968 
 Number of iterations: 61000 
 Number of values above criterion: 53 
-P-value: 0.053 
+P-value: 0.0008688524590163934 
 
 Diabetes diagnosed by a doctor: Component 10 : Age 
 True coefficient (criterion): 0.022539442170443843 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 11 : Age 
 True coefficient (criterion): 0.0226099291380002 
 Number of iterations: 61000 
 Number of values above criterion: 54 
-P-value: 0.054 
+P-value: 0.0008852459016393442 
 
 Diabetes diagnosed by a doctor: Component 12 : Age 
 True coefficient (criterion): 0.022637738426292804 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 13 : Age 
 True coefficient (criterion): 0.02242083062934622 
 Number of iterations: 61000 
 Number of values above criterion: 57 
-P-value: 0.057 
+P-value: 0.0009344262295081968 
 
 Diabetes diagnosed by a doctor: Component 14 : Age 
 True coefficient (criterion): 0.022515732385653582 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 15 : Age 
 True coefficient (criterion): 0.022889861372159585 
 Number of iterations: 61000 
 Number of values above criterion: 47 
-P-value: 0.047 
+P-value: 0.0007704918032786886 
 
 Diabetes diagnosed by a doctor: Component 16 : Age 
 True coefficient (criterion): 0.022501697637096033 
 Number of iterations: 61000 
 Number of values above criterion: 56 
-P-value: 0.056 
+P-value: 0.0009180327868852459 
 
 Diabetes diagnosed by a doctor: Component 17 : Age 
 True coefficient (criterion): 0.02264808852858069 
 Number of iterations: 61000 
 Number of values above criterion: 53 
-P-value: 0.053 
+P-value: 0.0008688524590163934 
 
 Diabetes diagnosed by a doctor: Component 18 : Age 
 True coefficient (criterion): 0.022616346462447867 
 Number of iterations: 61000 
 Number of values above criterion: 54 
-P-value: 0.054 
+P-value: 0.0008852459016393442 
 
 Diabetes diagnosed by a doctor: Component 19 : Age 
 True coefficient (criterion): 0.022682396535617946 
 Number of iterations: 61000 
 Number of values above criterion: 51 
-P-value: 0.051 
+P-value: 0.0008360655737704918 
 
 Diabetes diagnosed by a doctor: Component 20 : Age 
 True coefficient (criterion): 0.02266634443792537 
 Number of iterations: 61000 
 Number of values above criterion: 54 
-P-value: 0.054 
+P-value: 0.0008852459016393442 
 
 Diabetes diagnosed by a doctor: Component 21 : Age 
 True coefficient (criterion): 0.02263265233700632 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 22 : Age 
 True coefficient (criterion): 0.02259895332840609 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 23 : Age 
 True coefficient (criterion): 0.02232220414301768 
 Number of iterations: 61000 
 Number of values above criterion: 62 
-P-value: 0.062 
+P-value: 0.0010163934426229509 
 
 Diabetes diagnosed by a doctor: Component 24 : Age 
 True coefficient (criterion): 0.022580128501009877 
 Number of iterations: 61000 
 Number of values above criterion: 54 
-P-value: 0.054 
+P-value: 0.0008852459016393442 
 
 Diabetes diagnosed by a doctor: Component 25 : Age 
 True coefficient (criterion): 0.0222729858087939 
 Number of iterations: 61000 
 Number of values above criterion: 63 
-P-value: 0.063 
+P-value: 0.0010327868852459017 
 
 Diabetes diagnosed by a doctor: Component 26 : Age 
 True coefficient (criterion): 0.02265096165233381 
 Number of iterations: 61000 
 Number of values above criterion: 53 
-P-value: 0.053 
+P-value: 0.0008688524590163934 
 
 Diabetes diagnosed by a doctor: Component 27 : Age 
 True coefficient (criterion): 0.022703329795094564 
 Number of iterations: 61000 
 Number of values above criterion: 53 
-P-value: 0.053 
+P-value: 0.0008688524590163934 
 
 Diabetes diagnosed by a doctor: Component 28 : Age 
 True coefficient (criterion): 0.022488498852979148 
 Number of iterations: 61000 
 Number of values above criterion: 58 
-P-value: 0.058 
+P-value: 0.0009508196721311475 
 
 Diabetes diagnosed by a doctor: Component 29 : Age 
 True coefficient (criterion): 0.02267100088151345 
 Number of iterations: 61000 
 Number of values above criterion: 53 
-P-value: 0.053 
+P-value: 0.0008688524590163934 
 
 Diabetes diagnosed by a doctor: Component 30 : Age 
 True coefficient (criterion): 0.022585249702138124 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 31 : Age 
 True coefficient (criterion): 0.02263065836602493 
 Number of iterations: 61000 
 Number of values above criterion: 54 
-P-value: 0.054 
+P-value: 0.0008852459016393442 
 
 Diabetes diagnosed by a doctor: Component 32 : Age 
 True coefficient (criterion): 0.022496701798484734 
 Number of iterations: 61000 
 Number of values above criterion: 57 
-P-value: 0.057 
+P-value: 0.0009344262295081968 
 
 Diabetes diagnosed by a doctor: Component 33 : Age 
 True coefficient (criterion): 0.022719445432112337 
 Number of iterations: 61000 
 Number of values above criterion: 51 
-P-value: 0.051 
+P-value: 0.0008360655737704918 
 
 Diabetes diagnosed by a doctor: Component 34 : Age 
 True coefficient (criterion): 0.022483851098223605 
 Number of iterations: 61000 
 Number of values above criterion: 56 
-P-value: 0.056 
+P-value: 0.0009180327868852459 
 
 Diabetes diagnosed by a doctor: Component 35 : Age 
 True coefficient (criterion): 0.022697851070081234 
 Number of iterations: 61000 
 Number of values above criterion: 54 
-P-value: 0.054 
+P-value: 0.0008852459016393442 
 
 Diabetes diagnosed by a doctor: Component 36 : Age 
 True coefficient (criterion): 0.022739956010773645 
 Number of iterations: 61000 
 Number of values above criterion: 52 
-P-value: 0.052 
+P-value: 0.0008524590163934427 
 
 Diabetes diagnosed by a doctor: Component 37 : Age 
 True coefficient (criterion): 0.022488514107241068 
 Number of iterations: 61000 
 Number of values above criterion: 54 
-P-value: 0.054 
+P-value: 0.0008852459016393442 
 
 Diabetes diagnosed by a doctor: Component 38 : Age 
 True coefficient (criterion): 0.02249043240562809 
 Number of iterations: 61000 
 Number of values above criterion: 56 
-P-value: 0.056 
+P-value: 0.0009180327868852459 
 
 Diabetes diagnosed by a doctor: Component 39 : Age 
 True coefficient (criterion): 0.022687664590591107 
 Number of iterations: 61000 
 Number of values above criterion: 53 
-P-value: 0.053 
+P-value: 0.0008688524590163934 
 
 Diabetes diagnosed by a doctor: Component 40 : Age 
 True coefficient (criterion): 0.022570036400786617 
 Number of iterations: 61000 
 Number of values above criterion: 53 
-P-value: 0.053 
+P-value: 0.0008688524590163934 
 
 Diabetes diagnosed by a doctor: Component 41 : Age 
 True coefficient (criterion): 0.02287482367904334 
 Number of iterations: 61000 
 Number of values above criterion: 47 
-P-value: 0.047 
+P-value: 0.0007704918032786886 
 
 Diabetes diagnosed by a doctor: Component 42 : Age 
 True coefficient (criterion): 0.02245612484558308 
 Number of iterations: 61000 
 Number of values above criterion: 59 
-P-value: 0.059 
+P-value: 0.0009672131147540983 
 
 Diabetes diagnosed by a doctor: Component 43 : Age 
 True coefficient (criterion): 0.02267215214089216 
 Number of iterations: 61000 
 Number of values above criterion: 52 
-P-value: 0.052 
+P-value: 0.0008524590163934427 
 
 Diabetes diagnosed by a doctor: Component 44 : Age 
 True coefficient (criterion): 0.022545933418255896 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 45 : Age 
 True coefficient (criterion): 0.022554529305604313 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 46 : Age 
 True coefficient (criterion): 0.023056175301724595 
 Number of iterations: 61000 
 Number of values above criterion: 43 
-P-value: 0.043 
+P-value: 0.0007049180327868852 
 
 Diabetes diagnosed by a doctor: Component 47 : Age 
 True coefficient (criterion): 0.02252356212036503 
 Number of iterations: 61000 
 Number of values above criterion: 55 
-P-value: 0.055 
+P-value: 0.0009016393442622951 
 
 Diabetes diagnosed by a doctor: Component 48 : Age 
 True coefficient (criterion): 0.02256679693489484 
 Number of iterations: 61000 
 Number of values above criterion: 53 
-P-value: 0.053 
+P-value: 0.0008688524590163934 
 
 Diabetes diagnosed by a doctor: Component 49 : Age 
 True coefficient (criterion): 0.02251990941331494 
 Number of iterations: 61000 
 Number of values above criterion: 58 
-P-value: 0.058 
+P-value: 0.0009508196721311475 
 
 Hearing difficulty with background noise: Component 0 : Age 
 True coefficient (criterion): 0.08540612193589812 
@@ -9903,1201 +9903,1201 @@ Worrier_anxious: Component 0 : Age
 True coefficient (criterion): -0.005210428869109594 
 Number of iterations: 61000 
 Number of values above criterion: 14450 
-P-value: 14.45 
+P-value: 0.23688524590163934 
 
 Worrier_anxious: Component 1 : Age 
 True coefficient (criterion): -0.005126926781159737 
 Number of iterations: 61000 
 Number of values above criterion: 14647 
-P-value: 14.647 
+P-value: 0.24011475409836067 
 
 Worrier_anxious: Component 2 : Age 
 True coefficient (criterion): -0.005113865891066514 
 Number of iterations: 61000 
 Number of values above criterion: 14693 
-P-value: 14.693 
+P-value: 0.2408688524590164 
 
 Worrier_anxious: Component 3 : Age 
 True coefficient (criterion): -0.0051554695108934016 
 Number of iterations: 61000 
 Number of values above criterion: 14572 
-P-value: 14.572 
+P-value: 0.23888524590163934 
 
 Worrier_anxious: Component 4 : Age 
 True coefficient (criterion): -0.00513329799217707 
 Number of iterations: 61000 
 Number of values above criterion: 14664 
-P-value: 14.664 
+P-value: 0.24039344262295081 
 
 Worrier_anxious: Component 5 : Age 
 True coefficient (criterion): -0.005152721496226671 
 Number of iterations: 61000 
 Number of values above criterion: 14592 
-P-value: 14.592 
+P-value: 0.23921311475409837 
 
 Worrier_anxious: Component 6 : Age 
 True coefficient (criterion): -0.005141757661419342 
 Number of iterations: 61000 
 Number of values above criterion: 14629 
-P-value: 14.629 
+P-value: 0.23981967213114755 
 
 Worrier_anxious: Component 7 : Age 
 True coefficient (criterion): -0.005358651594941001 
 Number of iterations: 61000 
 Number of values above criterion: 14103 
-P-value: 14.103 
+P-value: 0.23119672131147542 
 
 Worrier_anxious: Component 8 : Age 
 True coefficient (criterion): -0.0050171225058300165 
 Number of iterations: 61000 
 Number of values above criterion: 14973 
-P-value: 14.973 
+P-value: 0.24545901639344261 
 
 Worrier_anxious: Component 9 : Age 
 True coefficient (criterion): -0.005086672654565333 
 Number of iterations: 61000 
 Number of values above criterion: 14779 
-P-value: 14.779 
+P-value: 0.24227868852459017 
 
 Worrier_anxious: Component 10 : Age 
 True coefficient (criterion): -0.004783484923985448 
 Number of iterations: 61000 
 Number of values above criterion: 15591 
-P-value: 15.591 
+P-value: 0.25559016393442624 
 
 Worrier_anxious: Component 11 : Age 
 True coefficient (criterion): -0.004984474383877316 
 Number of iterations: 61000 
 Number of values above criterion: 15035 
-P-value: 15.035 
+P-value: 0.24647540983606558 
 
 Worrier_anxious: Component 12 : Age 
 True coefficient (criterion): -0.005101354314195772 
 Number of iterations: 61000 
 Number of values above criterion: 14734 
-P-value: 14.734 
+P-value: 0.24154098360655737 
 
 Worrier_anxious: Component 13 : Age 
 True coefficient (criterion): -0.005098772975129343 
 Number of iterations: 61000 
 Number of values above criterion: 14732 
-P-value: 14.732 
+P-value: 0.24150819672131146 
 
 Worrier_anxious: Component 14 : Age 
 True coefficient (criterion): -0.005208975719641873 
 Number of iterations: 61000 
 Number of values above criterion: 14486 
-P-value: 14.486 
+P-value: 0.23747540983606558 
 
 Worrier_anxious: Component 15 : Age 
 True coefficient (criterion): -0.00490067417897621 
 Number of iterations: 61000 
 Number of values above criterion: 15258 
-P-value: 15.258 
+P-value: 0.2501311475409836 
 
 Worrier_anxious: Component 16 : Age 
 True coefficient (criterion): -0.0049789358070036075 
 Number of iterations: 61000 
 Number of values above criterion: 15058 
-P-value: 15.058 
+P-value: 0.24685245901639344 
 
 Worrier_anxious: Component 17 : Age 
 True coefficient (criterion): -0.005017317187350563 
 Number of iterations: 61000 
 Number of values above criterion: 14942 
-P-value: 14.942 
+P-value: 0.24495081967213114 
 
 Worrier_anxious: Component 18 : Age 
 True coefficient (criterion): -0.004989502742880733 
 Number of iterations: 61000 
 Number of values above criterion: 15040 
-P-value: 15.04 
+P-value: 0.24655737704918032 
 
 Worrier_anxious: Component 19 : Age 
 True coefficient (criterion): -0.005387090292159181 
 Number of iterations: 61000 
 Number of values above criterion: 13998 
-P-value: 13.998 
+P-value: 0.22947540983606557 
 
 Worrier_anxious: Component 20 : Age 
 True coefficient (criterion): -0.004985589382705891 
 Number of iterations: 61000 
 Number of values above criterion: 15050 
-P-value: 15.05 
+P-value: 0.24672131147540985 
 
 Worrier_anxious: Component 21 : Age 
 True coefficient (criterion): -0.005085635237790439 
 Number of iterations: 61000 
 Number of values above criterion: 14763 
-P-value: 14.763 
+P-value: 0.24201639344262296 
 
 Worrier_anxious: Component 22 : Age 
 True coefficient (criterion): -0.005027671255091164 
 Number of iterations: 61000 
 Number of values above criterion: 14927 
-P-value: 14.927 
+P-value: 0.24470491803278688 
 
 Worrier_anxious: Component 23 : Age 
 True coefficient (criterion): -0.00509382292898598 
 Number of iterations: 61000 
 Number of values above criterion: 14737 
-P-value: 14.737 
+P-value: 0.24159016393442623 
 
 Worrier_anxious: Component 24 : Age 
 True coefficient (criterion): -0.005351255656738843 
 Number of iterations: 61000 
 Number of values above criterion: 14107 
-P-value: 14.107 
+P-value: 0.23126229508196722 
 
 Worrier_anxious: Component 25 : Age 
 True coefficient (criterion): -0.00506882602391918 
 Number of iterations: 61000 
 Number of values above criterion: 14819 
-P-value: 14.819 
+P-value: 0.2429344262295082 
 
 Worrier_anxious: Component 26 : Age 
 True coefficient (criterion): -0.004896471726755497 
 Number of iterations: 61000 
 Number of values above criterion: 15294 
-P-value: 15.294 
+P-value: 0.2507213114754098 
 
 Worrier_anxious: Component 27 : Age 
 True coefficient (criterion): -0.005072591065184133 
 Number of iterations: 61000 
 Number of values above criterion: 14807 
-P-value: 14.807 
+P-value: 0.2427377049180328 
 
 Worrier_anxious: Component 28 : Age 
 True coefficient (criterion): -0.005152717656597888 
 Number of iterations: 61000 
 Number of values above criterion: 14619 
-P-value: 14.619 
+P-value: 0.23965573770491802 
 
 Worrier_anxious: Component 29 : Age 
 True coefficient (criterion): -0.005088619448862394 
 Number of iterations: 61000 
 Number of values above criterion: 14766 
-P-value: 14.766 
+P-value: 0.24206557377049182 
 
 Worrier_anxious: Component 30 : Age 
 True coefficient (criterion): -0.005236172007917081 
 Number of iterations: 61000 
 Number of values above criterion: 14400 
-P-value: 14.4 
+P-value: 0.2360655737704918 
 
 Worrier_anxious: Component 31 : Age 
 True coefficient (criterion): -0.0049611070669503925 
 Number of iterations: 61000 
 Number of values above criterion: 15088 
-P-value: 15.088 
+P-value: 0.24734426229508197 
 
 Worrier_anxious: Component 32 : Age 
 True coefficient (criterion): -0.005004954981031284 
 Number of iterations: 61000 
 Number of values above criterion: 14990 
-P-value: 14.99 
+P-value: 0.2457377049180328 
 
 Worrier_anxious: Component 33 : Age 
 True coefficient (criterion): -0.005311569481403277 
 Number of iterations: 61000 
 Number of values above criterion: 14192 
-P-value: 14.192 
+P-value: 0.23265573770491804 
 
 Worrier_anxious: Component 34 : Age 
 True coefficient (criterion): -0.004959226429086407 
 Number of iterations: 61000 
 Number of values above criterion: 15125 
-P-value: 15.125 
+P-value: 0.24795081967213115 
 
 Worrier_anxious: Component 35 : Age 
 True coefficient (criterion): -0.005041391198514617 
 Number of iterations: 61000 
 Number of values above criterion: 14906 
-P-value: 14.906 
+P-value: 0.2443606557377049 
 
 Worrier_anxious: Component 36 : Age 
 True coefficient (criterion): -0.005115572761783196 
 Number of iterations: 61000 
 Number of values above criterion: 14719 
-P-value: 14.719 
+P-value: 0.2412950819672131 
 
 Worrier_anxious: Component 37 : Age 
 True coefficient (criterion): -0.00506615197549865 
 Number of iterations: 61000 
 Number of values above criterion: 14817 
-P-value: 14.817 
+P-value: 0.2429016393442623 
 
 Worrier_anxious: Component 38 : Age 
 True coefficient (criterion): -0.004977609322706084 
 Number of iterations: 61000 
 Number of values above criterion: 15072 
-P-value: 15.072 
+P-value: 0.24708196721311476 
 
 Worrier_anxious: Component 39 : Age 
 True coefficient (criterion): -0.0049938403502071665 
 Number of iterations: 61000 
 Number of values above criterion: 15003 
-P-value: 15.003 
+P-value: 0.24595081967213114 
 
 Worrier_anxious: Component 40 : Age 
 True coefficient (criterion): -0.004922477423767963 
 Number of iterations: 61000 
 Number of values above criterion: 15193 
-P-value: 15.193 
+P-value: 0.2490655737704918 
 
 Worrier_anxious: Component 41 : Age 
 True coefficient (criterion): -0.00502602355123706 
 Number of iterations: 61000 
 Number of values above criterion: 14944 
-P-value: 14.944 
+P-value: 0.24498360655737705 
 
 Worrier_anxious: Component 42 : Age 
 True coefficient (criterion): -0.005112829800921103 
 Number of iterations: 61000 
 Number of values above criterion: 14714 
-P-value: 14.714 
+P-value: 0.24121311475409837 
 
 Worrier_anxious: Component 43 : Age 
 True coefficient (criterion): -0.00513876641024188 
 Number of iterations: 61000 
 Number of values above criterion: 14635 
-P-value: 14.635 
+P-value: 0.23991803278688525 
 
 Worrier_anxious: Component 44 : Age 
 True coefficient (criterion): -0.005066988956256093 
 Number of iterations: 61000 
 Number of values above criterion: 14814 
-P-value: 14.814 
+P-value: 0.24285245901639343 
 
 Worrier_anxious: Component 45 : Age 
 True coefficient (criterion): -0.005005667035248803 
 Number of iterations: 61000 
 Number of values above criterion: 14967 
-P-value: 14.967 
+P-value: 0.2453606557377049 
 
 Worrier_anxious: Component 46 : Age 
 True coefficient (criterion): -0.0050655241983638315 
 Number of iterations: 61000 
 Number of values above criterion: 14856 
-P-value: 14.856 
+P-value: 0.24354098360655738 
 
 Worrier_anxious: Component 47 : Age 
 True coefficient (criterion): -0.004944822129794292 
 Number of iterations: 61000 
 Number of values above criterion: 15142 
-P-value: 15.142 
+P-value: 0.24822950819672132 
 
 Worrier_anxious: Component 48 : Age 
 True coefficient (criterion): -0.005347924755994314 
 Number of iterations: 61000 
 Number of values above criterion: 14137 
-P-value: 14.137 
+P-value: 0.23175409836065575 
 
 Worrier_anxious: Component 49 : Age 
 True coefficient (criterion): -0.005058522013119453 
 Number of iterations: 61000 
 Number of values above criterion: 14824 
-P-value: 14.824 
+P-value: 0.24301639344262296 
 
 Nervous feelings: Component 0 : Age 
 True coefficient (criterion): -0.0023917881349606973 
 Number of iterations: 61000 
 Number of values above criterion: 22822 
-P-value: 22.822 
+P-value: 0.3741311475409836 
 
 Nervous feelings: Component 1 : Age 
 True coefficient (criterion): -0.002327510167473057 
 Number of iterations: 61000 
 Number of values above criterion: 23038 
-P-value: 23.038 
+P-value: 0.377672131147541 
 
 Nervous feelings: Component 2 : Age 
 True coefficient (criterion): -0.0024714285906860863 
 Number of iterations: 61000 
 Number of values above criterion: 22555 
-P-value: 22.555 
+P-value: 0.36975409836065576 
 
 Nervous feelings: Component 3 : Age 
 True coefficient (criterion): -0.0023791498392193838 
 Number of iterations: 61000 
 Number of values above criterion: 22864 
-P-value: 22.864 
+P-value: 0.37481967213114753 
 
 Nervous feelings: Component 4 : Age 
 True coefficient (criterion): -0.0027786560575890464 
 Number of iterations: 61000 
 Number of values above criterion: 21626 
-P-value: 21.626 
+P-value: 0.35452459016393445 
 
 Nervous feelings: Component 5 : Age 
 True coefficient (criterion): -0.002320473905661113 
 Number of iterations: 61000 
 Number of values above criterion: 23063 
-P-value: 23.063 
+P-value: 0.37808196721311477 
 
 Nervous feelings: Component 6 : Age 
 True coefficient (criterion): -0.002507354532127126 
 Number of iterations: 61000 
 Number of values above criterion: 22461 
-P-value: 22.461 
+P-value: 0.36821311475409835 
 
 Nervous feelings: Component 7 : Age 
 True coefficient (criterion): -0.0025947976115835857 
 Number of iterations: 61000 
 Number of values above criterion: 22191 
-P-value: 22.191 
+P-value: 0.36378688524590164 
 
 Nervous feelings: Component 8 : Age 
 True coefficient (criterion): -0.002416054315415627 
 Number of iterations: 61000 
 Number of values above criterion: 22737 
-P-value: 22.737 
+P-value: 0.37273770491803276 
 
 Nervous feelings: Component 9 : Age 
 True coefficient (criterion): -0.0026257353399304667 
 Number of iterations: 61000 
 Number of values above criterion: 22057 
-P-value: 22.057 
+P-value: 0.3615901639344262 
 
 Nervous feelings: Component 10 : Age 
 True coefficient (criterion): -0.002488380412849705 
 Number of iterations: 61000 
 Number of values above criterion: 22501 
-P-value: 22.501 
+P-value: 0.3688688524590164 
 
 Nervous feelings: Component 11 : Age 
 True coefficient (criterion): -0.002456156958675505 
 Number of iterations: 61000 
 Number of values above criterion: 22605 
-P-value: 22.605 
+P-value: 0.3705737704918033 
 
 Nervous feelings: Component 12 : Age 
 True coefficient (criterion): -0.0022370364371232213 
 Number of iterations: 61000 
 Number of values above criterion: 23330 
-P-value: 23.33 
+P-value: 0.3824590163934426 
 
 Nervous feelings: Component 13 : Age 
 True coefficient (criterion): -0.0023950678908242445 
 Number of iterations: 61000 
 Number of values above criterion: 22848 
-P-value: 22.848 
+P-value: 0.37455737704918035 
 
 Nervous feelings: Component 14 : Age 
 True coefficient (criterion): -0.002614213921795345 
 Number of iterations: 61000 
 Number of values above criterion: 22133 
-P-value: 22.133 
+P-value: 0.3628360655737705 
 
 Nervous feelings: Component 15 : Age 
 True coefficient (criterion): -0.00225000328166719 
 Number of iterations: 61000 
 Number of values above criterion: 23251 
-P-value: 23.251 
+P-value: 0.38116393442622953 
 
 Nervous feelings: Component 16 : Age 
 True coefficient (criterion): -0.002159994521385001 
 Number of iterations: 61000 
 Number of values above criterion: 23610 
-P-value: 23.61 
+P-value: 0.38704918032786884 
 
 Nervous feelings: Component 17 : Age 
 True coefficient (criterion): -0.002186680689576634 
 Number of iterations: 61000 
 Number of values above criterion: 23495 
-P-value: 23.495 
+P-value: 0.3851639344262295 
 
 Nervous feelings: Component 18 : Age 
 True coefficient (criterion): -0.002462799482037976 
 Number of iterations: 61000 
 Number of values above criterion: 22615 
-P-value: 22.615 
+P-value: 0.37073770491803276 
 
 Nervous feelings: Component 19 : Age 
 True coefficient (criterion): -0.0027447412184005682 
 Number of iterations: 61000 
 Number of values above criterion: 21748 
-P-value: 21.748 
+P-value: 0.35652459016393445 
 
 Nervous feelings: Component 20 : Age 
 True coefficient (criterion): -0.002289184419790131 
 Number of iterations: 61000 
 Number of values above criterion: 23158 
-P-value: 23.158 
+P-value: 0.37963934426229506 
 
 Nervous feelings: Component 21 : Age 
 True coefficient (criterion): -0.0024628898750153117 
 Number of iterations: 61000 
 Number of values above criterion: 22599 
-P-value: 22.599 
+P-value: 0.3704754098360656 
 
 Nervous feelings: Component 22 : Age 
 True coefficient (criterion): -0.002637681528410695 
 Number of iterations: 61000 
 Number of values above criterion: 22059 
-P-value: 22.059 
+P-value: 0.3616229508196721 
 
 Nervous feelings: Component 23 : Age 
 True coefficient (criterion): -0.002604737720428023 
 Number of iterations: 61000 
 Number of values above criterion: 22141 
-P-value: 22.141 
+P-value: 0.3629672131147541 
 
 Nervous feelings: Component 24 : Age 
 True coefficient (criterion): -0.0026341096502815993 
 Number of iterations: 61000 
 Number of values above criterion: 22035 
-P-value: 22.035 
+P-value: 0.36122950819672134 
 
 Nervous feelings: Component 25 : Age 
 True coefficient (criterion): -0.0021656768992671634 
 Number of iterations: 61000 
 Number of values above criterion: 23588 
-P-value: 23.588 
+P-value: 0.38668852459016395 
 
 Nervous feelings: Component 26 : Age 
 True coefficient (criterion): -0.0022365470849287808 
 Number of iterations: 61000 
 Number of values above criterion: 23339 
-P-value: 23.339 
+P-value: 0.3826065573770492 
 
 Nervous feelings: Component 27 : Age 
 True coefficient (criterion): -0.002523338627374826 
 Number of iterations: 61000 
 Number of values above criterion: 22415 
-P-value: 22.415 
+P-value: 0.36745901639344264 
 
 Nervous feelings: Component 28 : Age 
 True coefficient (criterion): -0.002490311067620166 
 Number of iterations: 61000 
 Number of values above criterion: 22490 
-P-value: 22.49 
+P-value: 0.36868852459016394 
 
 Nervous feelings: Component 29 : Age 
 True coefficient (criterion): -0.0024429573459193864 
 Number of iterations: 61000 
 Number of values above criterion: 22672 
-P-value: 22.672 
+P-value: 0.371672131147541 
 
 Nervous feelings: Component 30 : Age 
 True coefficient (criterion): -0.002560705070743577 
 Number of iterations: 61000 
 Number of values above criterion: 22335 
-P-value: 22.335 
+P-value: 0.3661475409836066 
 
 Nervous feelings: Component 31 : Age 
 True coefficient (criterion): -0.002357060267008896 
 Number of iterations: 61000 
 Number of values above criterion: 22951 
-P-value: 22.951 
+P-value: 0.37624590163934424 
 
 Nervous feelings: Component 32 : Age 
 True coefficient (criterion): -0.002371562123096077 
 Number of iterations: 61000 
 Number of values above criterion: 22898 
-P-value: 22.898 
+P-value: 0.3753770491803279 
 
 Nervous feelings: Component 33 : Age 
 True coefficient (criterion): -0.00249309716028345 
 Number of iterations: 61000 
 Number of values above criterion: 22510 
-P-value: 22.51 
+P-value: 0.36901639344262294 
 
 Nervous feelings: Component 34 : Age 
 True coefficient (criterion): -0.0025021948334280407 
 Number of iterations: 61000 
 Number of values above criterion: 22500 
-P-value: 22.5 
+P-value: 0.36885245901639346 
 
 Nervous feelings: Component 35 : Age 
 True coefficient (criterion): -0.0024710923975009348 
 Number of iterations: 61000 
 Number of values above criterion: 22569 
-P-value: 22.569 
+P-value: 0.36998360655737705 
 
 Nervous feelings: Component 36 : Age 
 True coefficient (criterion): -0.0023970213843200108 
 Number of iterations: 61000 
 Number of values above criterion: 22849 
-P-value: 22.849 
+P-value: 0.3745737704918033 
 
 Nervous feelings: Component 37 : Age 
 True coefficient (criterion): -0.0023087409499794563 
 Number of iterations: 61000 
 Number of values above criterion: 23085 
-P-value: 23.085 
+P-value: 0.37844262295081965 
 
 Nervous feelings: Component 38 : Age 
 True coefficient (criterion): -0.002291500672209213 
 Number of iterations: 61000 
 Number of values above criterion: 23175 
-P-value: 23.175 
+P-value: 0.37991803278688524 
 
 Nervous feelings: Component 39 : Age 
 True coefficient (criterion): -0.0024683102446069003 
 Number of iterations: 61000 
 Number of values above criterion: 22580 
-P-value: 22.58 
+P-value: 0.3701639344262295 
 
 Nervous feelings: Component 40 : Age 
 True coefficient (criterion): -0.002431173091150557 
 Number of iterations: 61000 
 Number of values above criterion: 22710 
-P-value: 22.71 
+P-value: 0.3722950819672131 
 
 Nervous feelings: Component 41 : Age 
 True coefficient (criterion): -0.0025074538350390177 
 Number of iterations: 61000 
 Number of values above criterion: 22469 
-P-value: 22.469 
+P-value: 0.368344262295082 
 
 Nervous feelings: Component 42 : Age 
 True coefficient (criterion): -0.0024854599187054214 
 Number of iterations: 61000 
 Number of values above criterion: 22539 
-P-value: 22.539 
+P-value: 0.3694918032786885 
 
 Nervous feelings: Component 43 : Age 
 True coefficient (criterion): -0.0027598480855249036 
 Number of iterations: 61000 
 Number of values above criterion: 21677 
-P-value: 21.677 
+P-value: 0.3553606557377049 
 
 Nervous feelings: Component 44 : Age 
 True coefficient (criterion): -0.0024808173072377983 
 Number of iterations: 61000 
 Number of values above criterion: 22541 
-P-value: 22.541 
+P-value: 0.3695245901639344 
 
 Nervous feelings: Component 45 : Age 
 True coefficient (criterion): -0.0024336714452917116 
 Number of iterations: 61000 
 Number of values above criterion: 22690 
-P-value: 22.69 
+P-value: 0.3719672131147541 
 
 Nervous feelings: Component 46 : Age 
 True coefficient (criterion): -0.002229557746879661 
 Number of iterations: 61000 
 Number of values above criterion: 23384 
-P-value: 23.384 
+P-value: 0.38334426229508195 
 
 Nervous feelings: Component 47 : Age 
 True coefficient (criterion): -0.0023716146100005325 
 Number of iterations: 61000 
 Number of values above criterion: 22887 
-P-value: 22.887 
+P-value: 0.3751967213114754 
 
 Nervous feelings: Component 48 : Age 
 True coefficient (criterion): -0.0024434414016629054 
 Number of iterations: 61000 
 Number of values above criterion: 22670 
-P-value: 22.67 
+P-value: 0.37163934426229506 
 
 Nervous feelings: Component 49 : Age 
 True coefficient (criterion): -0.0023553262129524287 
 Number of iterations: 61000 
 Number of values above criterion: 22977 
-P-value: 22.977 
+P-value: 0.376672131147541 
 
 Sensitivity_Hurt feelings: Component 0 : Age 
 True coefficient (criterion): -0.01775976542128577 
 Number of iterations: 61000 
 Number of values above criterion: 446 
-P-value: 0.446 
+P-value: 0.007311475409836066 
 
 Sensitivity_Hurt feelings: Component 1 : Age 
 True coefficient (criterion): -0.017638582198040452 
 Number of iterations: 61000 
 Number of values above criterion: 461 
-P-value: 0.461 
+P-value: 0.007557377049180328 
 
 Sensitivity_Hurt feelings: Component 2 : Age 
 True coefficient (criterion): -0.017986516156302576 
 Number of iterations: 61000 
 Number of values above criterion: 404 
-P-value: 0.404 
+P-value: 0.006622950819672131 
 
 Sensitivity_Hurt feelings: Component 3 : Age 
 True coefficient (criterion): -0.017803665622410897 
 Number of iterations: 61000 
 Number of values above criterion: 442 
-P-value: 0.442 
+P-value: 0.007245901639344262 
 
 Sensitivity_Hurt feelings: Component 4 : Age 
 True coefficient (criterion): -0.018245548857786825 
 Number of iterations: 61000 
 Number of values above criterion: 373 
-P-value: 0.373 
+P-value: 0.006114754098360656 
 
 Sensitivity_Hurt feelings: Component 5 : Age 
 True coefficient (criterion): -0.01815629006751497 
 Number of iterations: 61000 
 Number of values above criterion: 375 
-P-value: 0.375 
+P-value: 0.006147540983606557 
 
 Sensitivity_Hurt feelings: Component 6 : Age 
 True coefficient (criterion): -0.01794094485752156 
 Number of iterations: 61000 
 Number of values above criterion: 415 
-P-value: 0.415 
+P-value: 0.00680327868852459 
 
 Sensitivity_Hurt feelings: Component 7 : Age 
 True coefficient (criterion): -0.018112300308876794 
 Number of iterations: 61000 
 Number of values above criterion: 392 
-P-value: 0.392 
+P-value: 0.006426229508196721 
 
 Sensitivity_Hurt feelings: Component 8 : Age 
 True coefficient (criterion): -0.017843538087900526 
 Number of iterations: 61000 
 Number of values above criterion: 436 
-P-value: 0.436 
+P-value: 0.007147540983606557 
 
 Sensitivity_Hurt feelings: Component 9 : Age 
 True coefficient (criterion): -0.017931174771573466 
 Number of iterations: 61000 
 Number of values above criterion: 413 
-P-value: 0.413 
+P-value: 0.006770491803278688 
 
 Sensitivity_Hurt feelings: Component 10 : Age 
 True coefficient (criterion): -0.017750540871618727 
 Number of iterations: 61000 
 Number of values above criterion: 439 
-P-value: 0.439 
+P-value: 0.00719672131147541 
 
 Sensitivity_Hurt feelings: Component 11 : Age 
 True coefficient (criterion): -0.017842635994483394 
 Number of iterations: 61000 
 Number of values above criterion: 426 
-P-value: 0.426 
+P-value: 0.006983606557377049 
 
 Sensitivity_Hurt feelings: Component 12 : Age 
 True coefficient (criterion): -0.01762722207756125 
 Number of iterations: 61000 
 Number of values above criterion: 468 
-P-value: 0.468 
+P-value: 0.007672131147540983 
 
 Sensitivity_Hurt feelings: Component 13 : Age 
 True coefficient (criterion): -0.017947140320241195 
 Number of iterations: 61000 
 Number of values above criterion: 416 
-P-value: 0.416 
+P-value: 0.006819672131147541 
 
 Sensitivity_Hurt feelings: Component 14 : Age 
 True coefficient (criterion): -0.017908414457988044 
 Number of iterations: 61000 
 Number of values above criterion: 421 
-P-value: 0.421 
+P-value: 0.006901639344262295 
 
 Sensitivity_Hurt feelings: Component 15 : Age 
 True coefficient (criterion): -0.017561406162387456 
 Number of iterations: 61000 
 Number of values above criterion: 480 
-P-value: 0.48 
+P-value: 0.007868852459016393 
 
 Sensitivity_Hurt feelings: Component 16 : Age 
 True coefficient (criterion): -0.01783888900103235 
 Number of iterations: 61000 
 Number of values above criterion: 433 
-P-value: 0.433 
+P-value: 0.007098360655737705 
 
 Sensitivity_Hurt feelings: Component 17 : Age 
 True coefficient (criterion): -0.017924454976674258 
 Number of iterations: 61000 
 Number of values above criterion: 420 
-P-value: 0.42 
+P-value: 0.006885245901639345 
 
 Sensitivity_Hurt feelings: Component 18 : Age 
 True coefficient (criterion): -0.017886802290519938 
 Number of iterations: 61000 
 Number of values above criterion: 428 
-P-value: 0.428 
+P-value: 0.0070163934426229506 
 
 Sensitivity_Hurt feelings: Component 19 : Age 
 True coefficient (criterion): -0.017974858946521056 
 Number of iterations: 61000 
 Number of values above criterion: 407 
-P-value: 0.407 
+P-value: 0.006672131147540983 
 
 Sensitivity_Hurt feelings: Component 20 : Age 
 True coefficient (criterion): -0.01799192692343933 
 Number of iterations: 61000 
 Number of values above criterion: 405 
-P-value: 0.405 
+P-value: 0.006639344262295082 
 
 Sensitivity_Hurt feelings: Component 21 : Age 
 True coefficient (criterion): -0.017768610252236583 
 Number of iterations: 61000 
 Number of values above criterion: 446 
-P-value: 0.446 
+P-value: 0.007311475409836066 
 
 Sensitivity_Hurt feelings: Component 22 : Age 
 True coefficient (criterion): -0.017630331395233175 
 Number of iterations: 61000 
 Number of values above criterion: 462 
-P-value: 0.462 
+P-value: 0.007573770491803278 
 
 Sensitivity_Hurt feelings: Component 23 : Age 
 True coefficient (criterion): -0.018130855885437985 
 Number of iterations: 61000 
 Number of values above criterion: 378 
-P-value: 0.378 
+P-value: 0.00619672131147541 
 
 Sensitivity_Hurt feelings: Component 24 : Age 
 True coefficient (criterion): -0.0179140462226645 
 Number of iterations: 61000 
 Number of values above criterion: 419 
-P-value: 0.419 
+P-value: 0.006868852459016393 
 
 Sensitivity_Hurt feelings: Component 25 : Age 
 True coefficient (criterion): -0.017547856512052228 
 Number of iterations: 61000 
 Number of values above criterion: 482 
-P-value: 0.482 
+P-value: 0.007901639344262294 
 
 Sensitivity_Hurt feelings: Component 26 : Age 
 True coefficient (criterion): -0.017522809321947264 
 Number of iterations: 61000 
 Number of values above criterion: 481 
-P-value: 0.481 
+P-value: 0.007885245901639344 
 
 Sensitivity_Hurt feelings: Component 27 : Age 
 True coefficient (criterion): -0.017811242108031637 
 Number of iterations: 61000 
 Number of values above criterion: 439 
-P-value: 0.439 
+P-value: 0.00719672131147541 
 
 Sensitivity_Hurt feelings: Component 28 : Age 
 True coefficient (criterion): -0.017946544853228295 
 Number of iterations: 61000 
 Number of values above criterion: 413 
-P-value: 0.413 
+P-value: 0.006770491803278688 
 
 Sensitivity_Hurt feelings: Component 29 : Age 
 True coefficient (criterion): -0.017840234623594742 
 Number of iterations: 61000 
 Number of values above criterion: 434 
-P-value: 0.434 
+P-value: 0.007114754098360656 
 
 Sensitivity_Hurt feelings: Component 30 : Age 
 True coefficient (criterion): -0.017932526691645138 
 Number of iterations: 61000 
 Number of values above criterion: 413 
-P-value: 0.413 
+P-value: 0.006770491803278688 
 
 Sensitivity_Hurt feelings: Component 31 : Age 
 True coefficient (criterion): -0.017696557746547048 
 Number of iterations: 61000 
 Number of values above criterion: 459 
-P-value: 0.459 
+P-value: 0.007524590163934426 
 
 Sensitivity_Hurt feelings: Component 32 : Age 
 True coefficient (criterion): -0.01784977852720272 
 Number of iterations: 61000 
 Number of values above criterion: 430 
-P-value: 0.43 
+P-value: 0.007049180327868852 
 
 Sensitivity_Hurt feelings: Component 33 : Age 
 True coefficient (criterion): -0.017996264250405913 
 Number of iterations: 61000 
 Number of values above criterion: 401 
-P-value: 0.401 
+P-value: 0.006573770491803278 
 
 Sensitivity_Hurt feelings: Component 34 : Age 
 True coefficient (criterion): -0.01783160512638344 
 Number of iterations: 61000 
 Number of values above criterion: 434 
-P-value: 0.434 
+P-value: 0.007114754098360656 
 
 Sensitivity_Hurt feelings: Component 35 : Age 
 True coefficient (criterion): -0.017874613162165803 
 Number of iterations: 61000 
 Number of values above criterion: 427 
-P-value: 0.427 
+P-value: 0.007 
 
 Sensitivity_Hurt feelings: Component 36 : Age 
 True coefficient (criterion): -0.017763373623666194 
 Number of iterations: 61000 
 Number of values above criterion: 442 
-P-value: 0.442 
+P-value: 0.007245901639344262 
 
 Sensitivity_Hurt feelings: Component 37 : Age 
 True coefficient (criterion): -0.017769772328960307 
 Number of iterations: 61000 
 Number of values above criterion: 442 
-P-value: 0.442 
+P-value: 0.007245901639344262 
 
 Sensitivity_Hurt feelings: Component 38 : Age 
 True coefficient (criterion): -0.017767184866739175 
 Number of iterations: 61000 
 Number of values above criterion: 443 
-P-value: 0.443 
+P-value: 0.007262295081967213 
 
 Sensitivity_Hurt feelings: Component 39 : Age 
 True coefficient (criterion): -0.01786877693943694 
 Number of iterations: 61000 
 Number of values above criterion: 424 
-P-value: 0.424 
+P-value: 0.006950819672131147 
 
 Sensitivity_Hurt feelings: Component 40 : Age 
 True coefficient (criterion): -0.01780551951780818 
 Number of iterations: 61000 
 Number of values above criterion: 441 
-P-value: 0.441 
+P-value: 0.007229508196721311 
 
 Sensitivity_Hurt feelings: Component 41 : Age 
 True coefficient (criterion): -0.01782581475699564 
 Number of iterations: 61000 
 Number of values above criterion: 432 
-P-value: 0.432 
+P-value: 0.007081967213114754 
 
 Sensitivity_Hurt feelings: Component 42 : Age 
 True coefficient (criterion): -0.017830588216587968 
 Number of iterations: 61000 
 Number of values above criterion: 438 
-P-value: 0.438 
+P-value: 0.007180327868852459 
 
 Sensitivity_Hurt feelings: Component 43 : Age 
 True coefficient (criterion): -0.017948938931747437 
 Number of iterations: 61000 
 Number of values above criterion: 414 
-P-value: 0.414 
+P-value: 0.00678688524590164 
 
 Sensitivity_Hurt feelings: Component 44 : Age 
 True coefficient (criterion): -0.01782028296320598 
 Number of iterations: 61000 
 Number of values above criterion: 432 
-P-value: 0.432 
+P-value: 0.007081967213114754 
 
 Sensitivity_Hurt feelings: Component 45 : Age 
 True coefficient (criterion): -0.01779067378981029 
 Number of iterations: 61000 
 Number of values above criterion: 442 
-P-value: 0.442 
+P-value: 0.007245901639344262 
 
 Sensitivity_Hurt feelings: Component 46 : Age 
 True coefficient (criterion): -0.017814545339329944 
 Number of iterations: 61000 
 Number of values above criterion: 437 
-P-value: 0.437 
+P-value: 0.0071639344262295086 
 
 Sensitivity_Hurt feelings: Component 47 : Age 
 True coefficient (criterion): -0.017736110124324557 
 Number of iterations: 61000 
 Number of values above criterion: 451 
-P-value: 0.451 
+P-value: 0.0073934426229508195 
 
 Sensitivity_Hurt feelings: Component 48 : Age 
 True coefficient (criterion): -0.017792990933743355 
 Number of iterations: 61000 
 Number of values above criterion: 430 
-P-value: 0.43 
+P-value: 0.007049180327868852 
 
 Sensitivity_Hurt feelings: Component 49 : Age 
 True coefficient (criterion): -0.017933821635817672 
 Number of iterations: 61000 
 Number of values above criterion: 415 
-P-value: 0.415 
+P-value: 0.00680327868852459 
 
 Tense_Highly strung: Component 0 : Age 
 True coefficient (criterion): -0.02866366026120971 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 1 : Age 
 True coefficient (criterion): -0.028539726183934164 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 2 : Age 
 True coefficient (criterion): -0.02856594960958547 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 3 : Age 
 True coefficient (criterion): -0.02873386035022933 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 4 : Age 
 True coefficient (criterion): -0.028759602139069917 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 5 : Age 
 True coefficient (criterion): -0.02865489835993262 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 6 : Age 
 True coefficient (criterion): -0.02873833659530751 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 7 : Age 
 True coefficient (criterion): -0.028699207983048133 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 8 : Age 
 True coefficient (criterion): -0.028666775707300998 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 9 : Age 
 True coefficient (criterion): -0.028652621581476505 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 10 : Age 
 True coefficient (criterion): -0.02850998155016815 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 11 : Age 
 True coefficient (criterion): -0.028588615526131154 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 12 : Age 
 True coefficient (criterion): -0.028465134872788296 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 13 : Age 
 True coefficient (criterion): -0.02854009004254131 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 14 : Age 
 True coefficient (criterion): -0.028767783474443635 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 15 : Age 
 True coefficient (criterion): -0.02854645104684615 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 16 : Age 
 True coefficient (criterion): -0.028447711937431792 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 17 : Age 
 True coefficient (criterion): -0.02855594909290949 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 18 : Age 
 True coefficient (criterion): -0.028608891783920676 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 19 : Age 
 True coefficient (criterion): -0.02880781084214983 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 20 : Age 
 True coefficient (criterion): -0.02835593604075742 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 21 : Age 
 True coefficient (criterion): -0.028602547232444677 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 22 : Age 
 True coefficient (criterion): -0.02852765578349984 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 23 : Age 
 True coefficient (criterion): -0.02870691946304606 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 24 : Age 
 True coefficient (criterion): -0.028951034613808126 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 25 : Age 
 True coefficient (criterion): -0.02826741322363361 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 26 : Age 
 True coefficient (criterion): -0.028251335345862726 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 27 : Age 
 True coefficient (criterion): -0.02869849697922034 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 28 : Age 
 True coefficient (criterion): -0.028577070770999358 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 29 : Age 
 True coefficient (criterion): -0.028535943628716517 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 30 : Age 
 True coefficient (criterion): -0.028599636758805565 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 31 : Age 
 True coefficient (criterion): -0.02868746008584369 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 32 : Age 
 True coefficient (criterion): -0.028534417991652836 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 33 : Age 
 True coefficient (criterion): -0.028672181903960377 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 34 : Age 
 True coefficient (criterion): -0.02861657142530473 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 35 : Age 
 True coefficient (criterion): -0.028628421629138652 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 36 : Age 
 True coefficient (criterion): -0.02847447523096903 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 37 : Age 
 True coefficient (criterion): -0.028558192775688666 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 38 : Age 
 True coefficient (criterion): -0.028456894818676318 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 39 : Age 
 True coefficient (criterion): -0.028555784053045263 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 40 : Age 
 True coefficient (criterion): -0.02862926656205748 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 41 : Age 
 True coefficient (criterion): -0.028539055065822144 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 42 : Age 
 True coefficient (criterion): -0.028527307214966588 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 43 : Age 
 True coefficient (criterion): -0.02861197918441793 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 44 : Age 
 True coefficient (criterion): -0.028604970823662926 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 45 : Age 
 True coefficient (criterion): -0.028571926097859735 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 46 : Age 
 True coefficient (criterion): -0.02865906944027156 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 47 : Age 
 True coefficient (criterion): -0.028513439937970925 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 48 : Age 
 True coefficient (criterion): -0.02862117774438883 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Tense_Highly strung: Component 49 : Age 
 True coefficient (criterion): -0.02852450475753328 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Suffer from 'nerves': Component 0 : Age 
 True coefficient (criterion): -0.03711779491064712 
@@ -11403,301 +11403,301 @@ Worry too long after embarrassment: Component 0 : Age
 True coefficient (criterion): -0.02300747986509075 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 1 : Age 
 True coefficient (criterion): -0.022700447085735292 
 Number of iterations: 61000 
 Number of values above criterion: 47 
-P-value: 0.047 
+P-value: 0.0007704918032786886 
 
 Worry too long after embarrassment: Component 2 : Age 
 True coefficient (criterion): -0.022987941844390427 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 3 : Age 
 True coefficient (criterion): -0.022971251507279328 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 4 : Age 
 True coefficient (criterion): -0.023014867034592986 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 5 : Age 
 True coefficient (criterion): -0.023011143187378603 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 6 : Age 
 True coefficient (criterion): -0.02304218079840121 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 7 : Age 
 True coefficient (criterion): -0.022850551466611205 
 Number of iterations: 61000 
 Number of values above criterion: 44 
-P-value: 0.044 
+P-value: 0.000721311475409836 
 
 Worry too long after embarrassment: Component 8 : Age 
 True coefficient (criterion): -0.02293991324788454 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 9 : Age 
 True coefficient (criterion): -0.022843989375011073 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 10 : Age 
 True coefficient (criterion): -0.022728573327655602 
 Number of iterations: 61000 
 Number of values above criterion: 45 
-P-value: 0.045 
+P-value: 0.0007377049180327869 
 
 Worry too long after embarrassment: Component 11 : Age 
 True coefficient (criterion): -0.02291613482594861 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 12 : Age 
 True coefficient (criterion): -0.022777127094061163 
 Number of iterations: 61000 
 Number of values above criterion: 44 
-P-value: 0.044 
+P-value: 0.000721311475409836 
 
 Worry too long after embarrassment: Component 13 : Age 
 True coefficient (criterion): -0.022990970567298284 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 14 : Age 
 True coefficient (criterion): -0.02289926125659256 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 15 : Age 
 True coefficient (criterion): -0.022678125533260263 
 Number of iterations: 61000 
 Number of values above criterion: 48 
-P-value: 0.048 
+P-value: 0.0007868852459016393 
 
 Worry too long after embarrassment: Component 16 : Age 
 True coefficient (criterion): -0.022992081528170425 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 17 : Age 
 True coefficient (criterion): -0.022927023398008027 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 18 : Age 
 True coefficient (criterion): -0.02288482280562351 
 Number of iterations: 61000 
 Number of values above criterion: 43 
-P-value: 0.043 
+P-value: 0.0007049180327868852 
 
 Worry too long after embarrassment: Component 19 : Age 
 True coefficient (criterion): -0.023167367023440216 
 Number of iterations: 61000 
 Number of values above criterion: 39 
-P-value: 0.039 
+P-value: 0.0006393442622950819 
 
 Worry too long after embarrassment: Component 20 : Age 
 True coefficient (criterion): -0.0229062857996082 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 21 : Age 
 True coefficient (criterion): -0.02288797367926692 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 22 : Age 
 True coefficient (criterion): -0.022999342762252902 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 23 : Age 
 True coefficient (criterion): -0.023161357254459676 
 Number of iterations: 61000 
 Number of values above criterion: 38 
-P-value: 0.038 
+P-value: 0.0006229508196721311 
 
 Worry too long after embarrassment: Component 24 : Age 
 True coefficient (criterion): -0.022916217316141765 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 25 : Age 
 True coefficient (criterion): -0.02289542724518652 
 Number of iterations: 61000 
 Number of values above criterion: 44 
-P-value: 0.044 
+P-value: 0.000721311475409836 
 
 Worry too long after embarrassment: Component 26 : Age 
 True coefficient (criterion): -0.022700271757585 
 Number of iterations: 61000 
 Number of values above criterion: 47 
-P-value: 0.047 
+P-value: 0.0007704918032786886 
 
 Worry too long after embarrassment: Component 27 : Age 
 True coefficient (criterion): -0.022963262988357866 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 28 : Age 
 True coefficient (criterion): -0.02306513380507094 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 29 : Age 
 True coefficient (criterion): -0.02295358761116779 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 30 : Age 
 True coefficient (criterion): -0.023039228496715906 
 Number of iterations: 61000 
 Number of values above criterion: 38 
-P-value: 0.038 
+P-value: 0.0006229508196721311 
 
 Worry too long after embarrassment: Component 31 : Age 
 True coefficient (criterion): -0.022858962338473867 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 32 : Age 
 True coefficient (criterion): -0.022760052441395843 
 Number of iterations: 61000 
 Number of values above criterion: 46 
-P-value: 0.046 
+P-value: 0.0007540983606557377 
 
 Worry too long after embarrassment: Component 33 : Age 
 True coefficient (criterion): -0.022933620866179366 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 34 : Age 
 True coefficient (criterion): -0.022967729179856507 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 35 : Age 
 True coefficient (criterion): -0.022890812728165573 
 Number of iterations: 61000 
 Number of values above criterion: 43 
-P-value: 0.043 
+P-value: 0.0007049180327868852 
 
 Worry too long after embarrassment: Component 36 : Age 
 True coefficient (criterion): -0.022898623835039832 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 37 : Age 
 True coefficient (criterion): -0.02294877537957752 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 38 : Age 
 True coefficient (criterion): -0.02298004609471497 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 39 : Age 
 True coefficient (criterion): -0.02295600761219896 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 40 : Age 
 True coefficient (criterion): -0.022869179976052326 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 41 : Age 
 True coefficient (criterion): -0.02295817016459472 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 42 : Age 
 True coefficient (criterion): -0.0228291660819229 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 43 : Age 
 True coefficient (criterion): -0.023127161675505853 
 Number of iterations: 61000 
 Number of values above criterion: 39 
-P-value: 0.039 
+P-value: 0.0006393442622950819 
 
 Worry too long after embarrassment: Component 44 : Age 
 True coefficient (criterion): -0.022987100055379614 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Worry too long after embarrassment: Component 45 : Age 
 True coefficient (criterion): -0.022913857737756636 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Worry too long after embarrassment: Component 46 : Age 
 True coefficient (criterion): -0.02259731672360528 
 Number of iterations: 61000 
 Number of values above criterion: 47 
-P-value: 0.047 
+P-value: 0.0007704918032786886 
 
 Worry too long after embarrassment: Component 47 : Age 
 True coefficient (criterion): -0.023023414389924397 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Worry too long after embarrassment: Component 48 : Age 
 True coefficient (criterion): -0.02278871422884205 
 Number of iterations: 61000 
 Number of values above criterion: 46 
-P-value: 0.046 
+P-value: 0.0007540983606557377 
 
 Worry too long after embarrassment: Component 49 : Age 
 True coefficient (criterion): -0.02286707128817803 
 Number of iterations: 61000 
 Number of values above criterion: 43 
-P-value: 0.043 
+P-value: 0.0007049180327868852 
 
 Irritability: Component 0 : Age 
 True coefficient (criterion): -0.11571343725638056 
@@ -12303,301 +12303,301 @@ Happiness: Component 0 : Age
 True coefficient (criterion): 0.016739747200899942 
 Number of iterations: 61000 
 Number of values above criterion: 672 
-P-value: 0.672 
+P-value: 0.011016393442622952 
 
 Happiness: Component 1 : Age 
 True coefficient (criterion): 0.016700251259243595 
 Number of iterations: 61000 
 Number of values above criterion: 683 
-P-value: 0.683 
+P-value: 0.01119672131147541 
 
 Happiness: Component 2 : Age 
 True coefficient (criterion): 0.016749790587390925 
 Number of iterations: 61000 
 Number of values above criterion: 676 
-P-value: 0.676 
+P-value: 0.011081967213114755 
 
 Happiness: Component 3 : Age 
 True coefficient (criterion): 0.016650692216639024 
 Number of iterations: 61000 
 Number of values above criterion: 695 
-P-value: 0.695 
+P-value: 0.01139344262295082 
 
 Happiness: Component 4 : Age 
 True coefficient (criterion): 0.016626556485019713 
 Number of iterations: 61000 
 Number of values above criterion: 709 
-P-value: 0.709 
+P-value: 0.01162295081967213 
 
 Happiness: Component 5 : Age 
 True coefficient (criterion): 0.016929587119404805 
 Number of iterations: 61000 
 Number of values above criterion: 636 
-P-value: 0.636 
+P-value: 0.010426229508196721 
 
 Happiness: Component 6 : Age 
 True coefficient (criterion): 0.01657076187126236 
 Number of iterations: 61000 
 Number of values above criterion: 712 
-P-value: 0.712 
+P-value: 0.011672131147540983 
 
 Happiness: Component 7 : Age 
 True coefficient (criterion): 0.016613395896822702 
 Number of iterations: 61000 
 Number of values above criterion: 701 
-P-value: 0.701 
+P-value: 0.011491803278688524 
 
 Happiness: Component 8 : Age 
 True coefficient (criterion): 0.016885809033286486 
 Number of iterations: 61000 
 Number of values above criterion: 641 
-P-value: 0.641 
+P-value: 0.010508196721311475 
 
 Happiness: Component 9 : Age 
 True coefficient (criterion): 0.01680286211571973 
 Number of iterations: 61000 
 Number of values above criterion: 661 
-P-value: 0.661 
+P-value: 0.010836065573770492 
 
 Happiness: Component 10 : Age 
 True coefficient (criterion): 0.016588487771207836 
 Number of iterations: 61000 
 Number of values above criterion: 709 
-P-value: 0.709 
+P-value: 0.01162295081967213 
 
 Happiness: Component 11 : Age 
 True coefficient (criterion): 0.016564261667297058 
 Number of iterations: 61000 
 Number of values above criterion: 715 
-P-value: 0.715 
+P-value: 0.011721311475409836 
 
 Happiness: Component 12 : Age 
 True coefficient (criterion): 0.0165878887269895 
 Number of iterations: 61000 
 Number of values above criterion: 706 
-P-value: 0.706 
+P-value: 0.01157377049180328 
 
 Happiness: Component 13 : Age 
 True coefficient (criterion): 0.0168975654918156 
 Number of iterations: 61000 
 Number of values above criterion: 642 
-P-value: 0.642 
+P-value: 0.010524590163934425 
 
 Happiness: Component 14 : Age 
 True coefficient (criterion): 0.016668654792583632 
 Number of iterations: 61000 
 Number of values above criterion: 691 
-P-value: 0.691 
+P-value: 0.011327868852459016 
 
 Happiness: Component 15 : Age 
 True coefficient (criterion): 0.016460054284937808 
 Number of iterations: 61000 
 Number of values above criterion: 745 
-P-value: 0.745 
+P-value: 0.01221311475409836 
 
 Happiness: Component 16 : Age 
 True coefficient (criterion): 0.0166778854810399 
 Number of iterations: 61000 
 Number of values above criterion: 691 
-P-value: 0.691 
+P-value: 0.011327868852459016 
 
 Happiness: Component 17 : Age 
 True coefficient (criterion): 0.016820682230822146 
 Number of iterations: 61000 
 Number of values above criterion: 657 
-P-value: 0.657 
+P-value: 0.010770491803278688 
 
 Happiness: Component 18 : Age 
 True coefficient (criterion): 0.016709266024697578 
 Number of iterations: 61000 
 Number of values above criterion: 679 
-P-value: 0.679 
+P-value: 0.011131147540983606 
 
 Happiness: Component 19 : Age 
 True coefficient (criterion): 0.016758918391260064 
 Number of iterations: 61000 
 Number of values above criterion: 680 
-P-value: 0.68 
+P-value: 0.011147540983606558 
 
 Happiness: Component 20 : Age 
 True coefficient (criterion): 0.016618938281473074 
 Number of iterations: 61000 
 Number of values above criterion: 700 
-P-value: 0.7 
+P-value: 0.011475409836065573 
 
 Happiness: Component 21 : Age 
 True coefficient (criterion): 0.016667174105065144 
 Number of iterations: 61000 
 Number of values above criterion: 686 
-P-value: 0.686 
+P-value: 0.011245901639344262 
 
 Happiness: Component 22 : Age 
 True coefficient (criterion): 0.016728774714948234 
 Number of iterations: 61000 
 Number of values above criterion: 674 
-P-value: 0.674 
+P-value: 0.011049180327868852 
 
 Happiness: Component 23 : Age 
 True coefficient (criterion): 0.016397054880875176 
 Number of iterations: 61000 
 Number of values above criterion: 764 
-P-value: 0.764 
+P-value: 0.012524590163934425 
 
 Happiness: Component 24 : Age 
 True coefficient (criterion): 0.016885829649462055 
 Number of iterations: 61000 
 Number of values above criterion: 644 
-P-value: 0.644 
+P-value: 0.010557377049180328 
 
 Happiness: Component 25 : Age 
 True coefficient (criterion): 0.016558160954475026 
 Number of iterations: 61000 
 Number of values above criterion: 718 
-P-value: 0.718 
+P-value: 0.01177049180327869 
 
 Happiness: Component 26 : Age 
 True coefficient (criterion): 0.01645761876344937 
 Number of iterations: 61000 
 Number of values above criterion: 747 
-P-value: 0.747 
+P-value: 0.012245901639344262 
 
 Happiness: Component 27 : Age 
 True coefficient (criterion): 0.016674784410149524 
 Number of iterations: 61000 
 Number of values above criterion: 686 
-P-value: 0.686 
+P-value: 0.011245901639344262 
 
 Happiness: Component 28 : Age 
 True coefficient (criterion): 0.016764367536705987 
 Number of iterations: 61000 
 Number of values above criterion: 668 
-P-value: 0.668 
+P-value: 0.010950819672131148 
 
 Happiness: Component 29 : Age 
 True coefficient (criterion): 0.01658796006880149 
 Number of iterations: 61000 
 Number of values above criterion: 711 
-P-value: 0.711 
+P-value: 0.011655737704918033 
 
 Happiness: Component 30 : Age 
 True coefficient (criterion): 0.01663491845382027 
 Number of iterations: 61000 
 Number of values above criterion: 693 
-P-value: 0.693 
+P-value: 0.011360655737704919 
 
 Happiness: Component 31 : Age 
 True coefficient (criterion): 0.0167609863719041 
 Number of iterations: 61000 
 Number of values above criterion: 671 
-P-value: 0.671 
+P-value: 0.011 
 
 Happiness: Component 32 : Age 
 True coefficient (criterion): 0.016594480165948177 
 Number of iterations: 61000 
 Number of values above criterion: 709 
-P-value: 0.709 
+P-value: 0.01162295081967213 
 
 Happiness: Component 33 : Age 
 True coefficient (criterion): 0.01660611436507838 
 Number of iterations: 61000 
 Number of values above criterion: 698 
-P-value: 0.698 
+P-value: 0.011442622950819673 
 
 Happiness: Component 34 : Age 
 True coefficient (criterion): 0.016588156538997027 
 Number of iterations: 61000 
 Number of values above criterion: 711 
-P-value: 0.711 
+P-value: 0.011655737704918033 
 
 Happiness: Component 35 : Age 
 True coefficient (criterion): 0.016767919503880926 
 Number of iterations: 61000 
 Number of values above criterion: 666 
-P-value: 0.666 
+P-value: 0.010918032786885246 
 
 Happiness: Component 36 : Age 
 True coefficient (criterion): 0.016726906389727413 
 Number of iterations: 61000 
 Number of values above criterion: 683 
-P-value: 0.683 
+P-value: 0.01119672131147541 
 
 Happiness: Component 37 : Age 
 True coefficient (criterion): 0.01652422294861199 
 Number of iterations: 61000 
 Number of values above criterion: 721 
-P-value: 0.721 
+P-value: 0.01181967213114754 
 
 Happiness: Component 38 : Age 
 True coefficient (criterion): 0.01662667875406807 
 Number of iterations: 61000 
 Number of values above criterion: 705 
-P-value: 0.705 
+P-value: 0.011557377049180327 
 
 Happiness: Component 39 : Age 
 True coefficient (criterion): 0.01662792143854772 
 Number of iterations: 61000 
 Number of values above criterion: 697 
-P-value: 0.697 
+P-value: 0.011426229508196722 
 
 Happiness: Component 40 : Age 
 True coefficient (criterion): 0.01671861573941265 
 Number of iterations: 61000 
 Number of values above criterion: 680 
-P-value: 0.68 
+P-value: 0.011147540983606558 
 
 Happiness: Component 41 : Age 
 True coefficient (criterion): 0.016659000022435377 
 Number of iterations: 61000 
 Number of values above criterion: 690 
-P-value: 0.69 
+P-value: 0.011311475409836066 
 
 Happiness: Component 42 : Age 
 True coefficient (criterion): 0.016710039476643446 
 Number of iterations: 61000 
 Number of values above criterion: 682 
-P-value: 0.682 
+P-value: 0.011180327868852459 
 
 Happiness: Component 43 : Age 
 True coefficient (criterion): 0.01680470579340455 
 Number of iterations: 61000 
 Number of values above criterion: 656 
-P-value: 0.656 
+P-value: 0.010754098360655738 
 
 Happiness: Component 44 : Age 
 True coefficient (criterion): 0.01667502205504065 
 Number of iterations: 61000 
 Number of values above criterion: 687 
-P-value: 0.687 
+P-value: 0.011262295081967213 
 
 Happiness: Component 45 : Age 
 True coefficient (criterion): 0.016659316329424915 
 Number of iterations: 61000 
 Number of values above criterion: 697 
-P-value: 0.697 
+P-value: 0.011426229508196722 
 
 Happiness: Component 46 : Age 
 True coefficient (criterion): 0.01626833501951438 
 Number of iterations: 61000 
 Number of values above criterion: 792 
-P-value: 0.792 
+P-value: 0.012983606557377049 
 
 Happiness: Component 47 : Age 
 True coefficient (criterion): 0.016639750333609316 
 Number of iterations: 61000 
 Number of values above criterion: 696 
-P-value: 0.696 
+P-value: 0.01140983606557377 
 
 Happiness: Component 48 : Age 
 True coefficient (criterion): 0.016732653320724624 
 Number of iterations: 61000 
 Number of values above criterion: 682 
-P-value: 0.682 
+P-value: 0.011180327868852459 
 
 Happiness: Component 49 : Age 
 True coefficient (criterion): 0.01684342788997947 
 Number of iterations: 61000 
 Number of values above criterion: 658 
-P-value: 0.658 
+P-value: 0.010786885245901639 
 
 Feelings of nervousness or anxiety: Component 0 : Age 
 True coefficient (criterion): -0.07566806793639644 
@@ -13203,607 +13203,607 @@ Friendships satisfaction: Component 0 : Age
 True coefficient (criterion): 0.011503196969733119 
 Number of iterations: 61000 
 Number of values above criterion: 3514 
-P-value: 3.514 
+P-value: 0.05760655737704918 
 
 Friendships satisfaction: Component 1 : Age 
 True coefficient (criterion): 0.011455816511299186 
 Number of iterations: 61000 
 Number of values above criterion: 3573 
-P-value: 3.573 
+P-value: 0.058573770491803276 
 
 Friendships satisfaction: Component 2 : Age 
 True coefficient (criterion): 0.011621947731192694 
 Number of iterations: 61000 
 Number of values above criterion: 3394 
-P-value: 3.394 
+P-value: 0.05563934426229508 
 
 Friendships satisfaction: Component 3 : Age 
 True coefficient (criterion): 0.011374548921022382 
 Number of iterations: 61000 
 Number of values above criterion: 3644 
-P-value: 3.644 
+P-value: 0.059737704918032784 
 
 Friendships satisfaction: Component 4 : Age 
 True coefficient (criterion): 0.011272032042968961 
 Number of iterations: 61000 
 Number of values above criterion: 3756 
-P-value: 3.756 
+P-value: 0.06157377049180328 
 
 Friendships satisfaction: Component 5 : Age 
 True coefficient (criterion): 0.01191821495308519 
 Number of iterations: 61000 
 Number of values above criterion: 3155 
-P-value: 3.155 
+P-value: 0.051721311475409835 
 
 Friendships satisfaction: Component 6 : Age 
 True coefficient (criterion): 0.01157391110783315 
 Number of iterations: 61000 
 Number of values above criterion: 3437 
-P-value: 3.437 
+P-value: 0.056344262295081965 
 
 Friendships satisfaction: Component 7 : Age 
 True coefficient (criterion): 0.01138757115690663 
 Number of iterations: 61000 
 Number of values above criterion: 3645 
-P-value: 3.645 
+P-value: 0.05975409836065574 
 
 Friendships satisfaction: Component 8 : Age 
 True coefficient (criterion): 0.011182834848134 
 Number of iterations: 61000 
 Number of values above criterion: 3839 
-P-value: 3.839 
+P-value: 0.06293442622950819 
 
 Friendships satisfaction: Component 9 : Age 
 True coefficient (criterion): 0.011644011609868183 
 Number of iterations: 61000 
 Number of values above criterion: 3378 
-P-value: 3.378 
+P-value: 0.05537704918032787 
 
 Friendships satisfaction: Component 10 : Age 
 True coefficient (criterion): 0.01130159615625266 
 Number of iterations: 61000 
 Number of values above criterion: 3710 
-P-value: 3.71 
+P-value: 0.06081967213114754 
 
 Friendships satisfaction: Component 11 : Age 
 True coefficient (criterion): 0.011555572142778657 
 Number of iterations: 61000 
 Number of values above criterion: 3464 
-P-value: 3.464 
+P-value: 0.05678688524590164 
 
 Friendships satisfaction: Component 12 : Age 
 True coefficient (criterion): 0.011343569812319251 
 Number of iterations: 61000 
 Number of values above criterion: 3669 
-P-value: 3.669 
+P-value: 0.06014754098360656 
 
 Friendships satisfaction: Component 13 : Age 
 True coefficient (criterion): 0.0114038510932953 
 Number of iterations: 61000 
 Number of values above criterion: 3620 
-P-value: 3.62 
+P-value: 0.05934426229508197 
 
 Friendships satisfaction: Component 14 : Age 
 True coefficient (criterion): 0.011602032029134363 
 Number of iterations: 61000 
 Number of values above criterion: 3427 
-P-value: 3.427 
+P-value: 0.05618032786885246 
 
 Friendships satisfaction: Component 15 : Age 
 True coefficient (criterion): 0.011735264182559903 
 Number of iterations: 61000 
 Number of values above criterion: 3307 
-P-value: 3.307 
+P-value: 0.05421311475409836 
 
 Friendships satisfaction: Component 16 : Age 
 True coefficient (criterion): 0.011674187552744705 
 Number of iterations: 61000 
 Number of values above criterion: 3342 
-P-value: 3.342 
+P-value: 0.05478688524590164 
 
 Friendships satisfaction: Component 17 : Age 
 True coefficient (criterion): 0.011564986334923161 
 Number of iterations: 61000 
 Number of values above criterion: 3453 
-P-value: 3.453 
+P-value: 0.05660655737704918 
 
 Friendships satisfaction: Component 18 : Age 
 True coefficient (criterion): 0.0115246153252371 
 Number of iterations: 61000 
 Number of values above criterion: 3495 
-P-value: 3.495 
+P-value: 0.05729508196721311 
 
 Friendships satisfaction: Component 19 : Age 
 True coefficient (criterion): 0.011526408569597886 
 Number of iterations: 61000 
 Number of values above criterion: 3480 
-P-value: 3.48 
+P-value: 0.057049180327868855 
 
 Friendships satisfaction: Component 20 : Age 
 True coefficient (criterion): 0.011542379535439688 
 Number of iterations: 61000 
 Number of values above criterion: 3476 
-P-value: 3.476 
+P-value: 0.056983606557377046 
 
 Friendships satisfaction: Component 21 : Age 
 True coefficient (criterion): 0.01160319021465535 
 Number of iterations: 61000 
 Number of values above criterion: 3417 
-P-value: 3.417 
+P-value: 0.05601639344262295 
 
 Friendships satisfaction: Component 22 : Age 
 True coefficient (criterion): 0.011560604419548712 
 Number of iterations: 61000 
 Number of values above criterion: 3461 
-P-value: 3.461 
+P-value: 0.05673770491803279 
 
 Friendships satisfaction: Component 23 : Age 
 True coefficient (criterion): 0.011714129227786522 
 Number of iterations: 61000 
 Number of values above criterion: 3320 
-P-value: 3.32 
+P-value: 0.05442622950819672 
 
 Friendships satisfaction: Component 24 : Age 
 True coefficient (criterion): 0.01151405576725892 
 Number of iterations: 61000 
 Number of values above criterion: 3506 
-P-value: 3.506 
+P-value: 0.057475409836065576 
 
 Friendships satisfaction: Component 25 : Age 
 True coefficient (criterion): 0.011413340513580643 
 Number of iterations: 61000 
 Number of values above criterion: 3590 
-P-value: 3.59 
+P-value: 0.058852459016393445 
 
 Friendships satisfaction: Component 26 : Age 
 True coefficient (criterion): 0.01159890998402041 
 Number of iterations: 61000 
 Number of values above criterion: 3432 
-P-value: 3.432 
+P-value: 0.056262295081967215 
 
 Friendships satisfaction: Component 27 : Age 
 True coefficient (criterion): 0.011564279296652172 
 Number of iterations: 61000 
 Number of values above criterion: 3465 
-P-value: 3.465 
+P-value: 0.05680327868852459 
 
 Friendships satisfaction: Component 28 : Age 
 True coefficient (criterion): 0.011398823597493304 
 Number of iterations: 61000 
 Number of values above criterion: 3623 
-P-value: 3.623 
+P-value: 0.05939344262295082 
 
 Friendships satisfaction: Component 29 : Age 
 True coefficient (criterion): 0.011474542209363668 
 Number of iterations: 61000 
 Number of values above criterion: 3540 
-P-value: 3.54 
+P-value: 0.0580327868852459 
 
 Friendships satisfaction: Component 30 : Age 
 True coefficient (criterion): 0.011563567126445132 
 Number of iterations: 61000 
 Number of values above criterion: 3464 
-P-value: 3.464 
+P-value: 0.05678688524590164 
 
 Friendships satisfaction: Component 31 : Age 
 True coefficient (criterion): 0.01147692383625051 
 Number of iterations: 61000 
 Number of values above criterion: 3548 
-P-value: 3.548 
+P-value: 0.05816393442622951 
 
 Friendships satisfaction: Component 32 : Age 
 True coefficient (criterion): 0.011452848599225714 
 Number of iterations: 61000 
 Number of values above criterion: 3566 
-P-value: 3.566 
+P-value: 0.05845901639344262 
 
 Friendships satisfaction: Component 33 : Age 
 True coefficient (criterion): 0.011465422879870532 
 Number of iterations: 61000 
 Number of values above criterion: 3550 
-P-value: 3.55 
+P-value: 0.05819672131147541 
 
 Friendships satisfaction: Component 34 : Age 
 True coefficient (criterion): 0.011609053813562253 
 Number of iterations: 61000 
 Number of values above criterion: 3410 
-P-value: 3.41 
+P-value: 0.055901639344262295 
 
 Friendships satisfaction: Component 35 : Age 
 True coefficient (criterion): 0.01152034222336355 
 Number of iterations: 61000 
 Number of values above criterion: 3502 
-P-value: 3.502 
+P-value: 0.05740983606557377 
 
 Friendships satisfaction: Component 36 : Age 
 True coefficient (criterion): 0.01171921944244406 
 Number of iterations: 61000 
 Number of values above criterion: 3316 
-P-value: 3.316 
+P-value: 0.05436065573770492 
 
 Friendships satisfaction: Component 37 : Age 
 True coefficient (criterion): 0.011548683300688157 
 Number of iterations: 61000 
 Number of values above criterion: 3475 
-P-value: 3.475 
+P-value: 0.0569672131147541 
 
 Friendships satisfaction: Component 38 : Age 
 True coefficient (criterion): 0.011468230724131022 
 Number of iterations: 61000 
 Number of values above criterion: 3546 
-P-value: 3.546 
+P-value: 0.058131147540983606 
 
 Friendships satisfaction: Component 39 : Age 
 True coefficient (criterion): 0.011644447434143763 
 Number of iterations: 61000 
 Number of values above criterion: 3384 
-P-value: 3.384 
+P-value: 0.055475409836065574 
 
 Friendships satisfaction: Component 40 : Age 
 True coefficient (criterion): 0.011674462538387356 
 Number of iterations: 61000 
 Number of values above criterion: 3347 
-P-value: 3.347 
+P-value: 0.05486885245901639 
 
 Friendships satisfaction: Component 41 : Age 
 True coefficient (criterion): 0.011434763831510568 
 Number of iterations: 61000 
 Number of values above criterion: 3590 
-P-value: 3.59 
+P-value: 0.058852459016393445 
 
 Friendships satisfaction: Component 42 : Age 
 True coefficient (criterion): 0.011638485247850924 
 Number of iterations: 61000 
 Number of values above criterion: 3389 
-P-value: 3.389 
+P-value: 0.055557377049180325 
 
 Friendships satisfaction: Component 43 : Age 
 True coefficient (criterion): 0.011436718826731201 
 Number of iterations: 61000 
 Number of values above criterion: 3589 
-P-value: 3.589 
+P-value: 0.05883606557377049 
 
 Friendships satisfaction: Component 44 : Age 
 True coefficient (criterion): 0.0115619280428444 
 Number of iterations: 61000 
 Number of values above criterion: 3461 
-P-value: 3.461 
+P-value: 0.05673770491803279 
 
 Friendships satisfaction: Component 45 : Age 
 True coefficient (criterion): 0.011582012004144673 
 Number of iterations: 61000 
 Number of values above criterion: 3449 
-P-value: 3.449 
+P-value: 0.05654098360655738 
 
 Friendships satisfaction: Component 46 : Age 
 True coefficient (criterion): 0.011763342579840493 
 Number of iterations: 61000 
 Number of values above criterion: 3277 
-P-value: 3.277 
+P-value: 0.05372131147540984 
 
 Friendships satisfaction: Component 47 : Age 
 True coefficient (criterion): 0.011407619394276891 
 Number of iterations: 61000 
 Number of values above criterion: 3607 
-P-value: 3.607 
+P-value: 0.05913114754098361 
 
 Friendships satisfaction: Component 48 : Age 
 True coefficient (criterion): 0.011839638077069711 
 Number of iterations: 61000 
 Number of values above criterion: 3214 
-P-value: 3.214 
+P-value: 0.05268852459016393 
 
 Friendships satisfaction: Component 49 : Age 
 True coefficient (criterion): 0.011579152810285298 
 Number of iterations: 61000 
 Number of values above criterion: 3436 
-P-value: 3.436 
+P-value: 0.056327868852459016 
 
 Family relationship satisfaction: Component 0 : Age 
 True coefficient (criterion): 0.026193694461372763 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 1 : Age 
 True coefficient (criterion): 0.026380977114016636 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 2 : Age 
 True coefficient (criterion): 0.02642358975042094 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 3 : Age 
 True coefficient (criterion): 0.026415859423701532 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 4 : Age 
 True coefficient (criterion): 0.026256274007104542 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 5 : Age 
 True coefficient (criterion): 0.02623693539915309 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 6 : Age 
 True coefficient (criterion): 0.026219123033157564 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 7 : Age 
 True coefficient (criterion): 0.02649494146674632 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 8 : Age 
 True coefficient (criterion): 0.026301627574161685 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 9 : Age 
 True coefficient (criterion): 0.026192589303867336 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 10 : Age 
 True coefficient (criterion): 0.026475653204265696 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Family relationship satisfaction: Component 11 : Age 
 True coefficient (criterion): 0.026246987656866127 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 12 : Age 
 True coefficient (criterion): 0.026406633353064486 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 13 : Age 
 True coefficient (criterion): 0.026212754470312395 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 14 : Age 
 True coefficient (criterion): 0.02632907607727111 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 15 : Age 
 True coefficient (criterion): 0.025934421266470623 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 16 : Age 
 True coefficient (criterion): 0.026260417025290972 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 17 : Age 
 True coefficient (criterion): 0.02619331334926451 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 18 : Age 
 True coefficient (criterion): 0.026120831952966207 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 19 : Age 
 True coefficient (criterion): 0.026395639479952528 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 20 : Age 
 True coefficient (criterion): 0.02652761334782102 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 21 : Age 
 True coefficient (criterion): 0.02631613723378456 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 22 : Age 
 True coefficient (criterion): 0.02623012812780072 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 23 : Age 
 True coefficient (criterion): 0.026449620161185777 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Family relationship satisfaction: Component 24 : Age 
 True coefficient (criterion): 0.026479067183737572 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 25 : Age 
 True coefficient (criterion): 0.026211011570674157 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 26 : Age 
 True coefficient (criterion): 0.02640283098671065 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 27 : Age 
 True coefficient (criterion): 0.026461065435078025 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 28 : Age 
 True coefficient (criterion): 0.026368013302148673 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 29 : Age 
 True coefficient (criterion): 0.02627242858154922 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 30 : Age 
 True coefficient (criterion): 0.02635527653025066 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 31 : Age 
 True coefficient (criterion): 0.02639016052067801 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 32 : Age 
 True coefficient (criterion): 0.026207498566919504 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 33 : Age 
 True coefficient (criterion): 0.026407088714969655 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 34 : Age 
 True coefficient (criterion): 0.026301216009937928 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 35 : Age 
 True coefficient (criterion): 0.02631374708162005 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 36 : Age 
 True coefficient (criterion): 0.02627951998245024 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 37 : Age 
 True coefficient (criterion): 0.026458278036548377 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 38 : Age 
 True coefficient (criterion): 0.026379502189589996 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 39 : Age 
 True coefficient (criterion): 0.026343291448076515 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 40 : Age 
 True coefficient (criterion): 0.026285470074925467 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 41 : Age 
 True coefficient (criterion): 0.026405362104781026 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 42 : Age 
 True coefficient (criterion): 0.026275920189522732 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 43 : Age 
 True coefficient (criterion): 0.02662252774689361 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Family relationship satisfaction: Component 44 : Age 
 True coefficient (criterion): 0.026258425894024807 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 45 : Age 
 True coefficient (criterion): 0.026181280950535426 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 46 : Age 
 True coefficient (criterion): 0.026326388937575218 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 47 : Age 
 True coefficient (criterion): 0.026368664217928287 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 48 : Age 
 True coefficient (criterion): 0.0266282780365807 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Family relationship satisfaction: Component 49 : Age 
 True coefficient (criterion): 0.026367845339760915 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Number of full siblings: Component 0 : Age 
 True coefficient (criterion): -0.02999745934311153 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 1 : Age 
 True coefficient (criterion): -0.03038976012251389 
@@ -13821,13 +13821,13 @@ Number of full siblings: Component 3 : Age
 True coefficient (criterion): -0.029848532274004615 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 4 : Age 
 True coefficient (criterion): -0.02993965676840625 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 5 : Age 
 True coefficient (criterion): -0.03026902473489585 
@@ -13845,19 +13845,19 @@ Number of full siblings: Component 7 : Age
 True coefficient (criterion): -0.030067269032375794 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 8 : Age 
 True coefficient (criterion): -0.03003387624910824 
 Number of iterations: 61000 
 Number of values above criterion: 2 
-P-value: 0.002 
+P-value: 3.278688524590164e-05 
 
 Number of full siblings: Component 9 : Age 
 True coefficient (criterion): -0.030075028024174114 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 10 : Age 
 True coefficient (criterion): -0.030200784084214963 
@@ -13869,13 +13869,13 @@ Number of full siblings: Component 11 : Age
 True coefficient (criterion): -0.030073962383120857 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 12 : Age 
 True coefficient (criterion): -0.030172260393484075 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 13 : Age 
 True coefficient (criterion): -0.03026292439008359 
@@ -13893,7 +13893,7 @@ Number of full siblings: Component 15 : Age
 True coefficient (criterion): -0.030079328164889563 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 16 : Age 
 True coefficient (criterion): -0.030250137667400152 
@@ -13911,25 +13911,25 @@ Number of full siblings: Component 18 : Age
 True coefficient (criterion): -0.030006248134119794 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 19 : Age 
 True coefficient (criterion): -0.030180016295047022 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 20 : Age 
 True coefficient (criterion): -0.029984403433621878 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 21 : Age 
 True coefficient (criterion): -0.03011688534436557 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 22 : Age 
 True coefficient (criterion): -0.0302437255989296 
@@ -13941,7 +13941,7 @@ Number of full siblings: Component 23 : Age
 True coefficient (criterion): -0.030140528618663957 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 24 : Age 
 True coefficient (criterion): -0.03029469561742703 
@@ -13953,7 +13953,7 @@ Number of full siblings: Component 25 : Age
 True coefficient (criterion): -0.029940179798380977 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 26 : Age 
 True coefficient (criterion): -0.03027277668088688 
@@ -13971,19 +13971,19 @@ Number of full siblings: Component 28 : Age
 True coefficient (criterion): -0.030000223481332466 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 29 : Age 
 True coefficient (criterion): -0.030083278529879614 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 30 : Age 
 True coefficient (criterion): -0.02999731225997415 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 31 : Age 
 True coefficient (criterion): -0.03021339449226939 
@@ -13995,37 +13995,37 @@ Number of full siblings: Component 32 : Age
 True coefficient (criterion): -0.030163026492777068 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 33 : Age 
 True coefficient (criterion): -0.030052440416855994 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 34 : Age 
 True coefficient (criterion): -0.029877124047210782 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 35 : Age 
 True coefficient (criterion): -0.030049801609534566 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 36 : Age 
 True coefficient (criterion): -0.030100973421976877 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 37 : Age 
 True coefficient (criterion): -0.030174777598404243 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 38 : Age 
 True coefficient (criterion): -0.0300472729620027 
@@ -14037,55 +14037,55 @@ Number of full siblings: Component 39 : Age
 True coefficient (criterion): -0.030104853252549656 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 40 : Age 
 True coefficient (criterion): -0.030216913923091095 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 41 : Age 
 True coefficient (criterion): -0.03018518319414285 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 42 : Age 
 True coefficient (criterion): -0.03000823438274894 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 43 : Age 
 True coefficient (criterion): -0.0300926853958974 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 44 : Age 
 True coefficient (criterion): -0.030129220135833645 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 45 : Age 
 True coefficient (criterion): -0.030085199720049135 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 46 : Age 
 True coefficient (criterion): -0.03003298652895171 
 Number of iterations: 61000 
 Number of values above criterion: 2 
-P-value: 0.002 
+P-value: 3.278688524590164e-05 
 
 Number of full siblings: Component 47 : Age 
 True coefficient (criterion): -0.030049908318825112 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Number of full siblings: Component 48 : Age 
 True coefficient (criterion): -0.030591732490169006 
@@ -14097,7 +14097,7 @@ Number of full siblings: Component 49 : Age
 True coefficient (criterion): -0.02999543808385597 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Living in urban areas: Component 0 : Age 
 True coefficient (criterion): -0.03121411929932698 
@@ -15603,301 +15603,301 @@ Unable to work due to sickness or disability: Component 0 : Age
 True coefficient (criterion): -0.0245964033546504 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 1 : Age 
 True coefficient (criterion): -0.02451089669979154 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 2 : Age 
 True coefficient (criterion): -0.024588834107260454 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 3 : Age 
 True coefficient (criterion): -0.02439801636065467 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 4 : Age 
 True coefficient (criterion): -0.024403742912102806 
 Number of iterations: 61000 
 Number of values above criterion: 26 
-P-value: 0.026 
+P-value: 0.00042622950819672133 
 
 Unable to work due to sickness or disability: Component 5 : Age 
 True coefficient (criterion): -0.02472864349464353 
 Number of iterations: 61000 
 Number of values above criterion: 22 
-P-value: 0.022 
+P-value: 0.000360655737704918 
 
 Unable to work due to sickness or disability: Component 6 : Age 
 True coefficient (criterion): -0.024310226472998103 
 Number of iterations: 61000 
 Number of values above criterion: 26 
-P-value: 0.026 
+P-value: 0.00042622950819672133 
 
 Unable to work due to sickness or disability: Component 7 : Age 
 True coefficient (criterion): -0.024500428005361993 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 8 : Age 
 True coefficient (criterion): -0.02442170152386383 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 9 : Age 
 True coefficient (criterion): -0.024648751861674673 
 Number of iterations: 61000 
 Number of values above criterion: 23 
-P-value: 0.023 
+P-value: 0.00037704918032786886 
 
 Unable to work due to sickness or disability: Component 10 : Age 
 True coefficient (criterion): -0.02456033611189656 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 11 : Age 
 True coefficient (criterion): -0.024584874757410318 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 12 : Age 
 True coefficient (criterion): -0.024522323642664445 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 13 : Age 
 True coefficient (criterion): -0.02455698257701548 
 Number of iterations: 61000 
 Number of values above criterion: 23 
-P-value: 0.023 
+P-value: 0.00037704918032786886 
 
 Unable to work due to sickness or disability: Component 14 : Age 
 True coefficient (criterion): -0.024468149548867005 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 15 : Age 
 True coefficient (criterion): -0.024497930087974504 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 16 : Age 
 True coefficient (criterion): -0.02443942637035723 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 17 : Age 
 True coefficient (criterion): -0.02425532443756661 
 Number of iterations: 61000 
 Number of values above criterion: 27 
-P-value: 0.027 
+P-value: 0.0004426229508196721 
 
 Unable to work due to sickness or disability: Component 18 : Age 
 True coefficient (criterion): -0.02443141775217662 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 19 : Age 
 True coefficient (criterion): -0.024496743449168388 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 20 : Age 
 True coefficient (criterion): -0.0246221336810379 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 21 : Age 
 True coefficient (criterion): -0.02457557818913078 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 22 : Age 
 True coefficient (criterion): -0.024583485327406618 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 23 : Age 
 True coefficient (criterion): -0.02457328806309102 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 24 : Age 
 True coefficient (criterion): -0.024465427976356792 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 25 : Age 
 True coefficient (criterion): -0.024282314169784748 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 26 : Age 
 True coefficient (criterion): -0.024392156757961612 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 27 : Age 
 True coefficient (criterion): -0.024525161460874096 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 28 : Age 
 True coefficient (criterion): -0.024527388810261914 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 29 : Age 
 True coefficient (criterion): -0.024361705516414187 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 30 : Age 
 True coefficient (criterion): -0.02446951134196093 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 31 : Age 
 True coefficient (criterion): -0.024541809249453494 
 Number of iterations: 61000 
 Number of values above criterion: 23 
-P-value: 0.023 
+P-value: 0.00037704918032786886 
 
 Unable to work due to sickness or disability: Component 32 : Age 
 True coefficient (criterion): -0.02465227663085442 
 Number of iterations: 61000 
 Number of values above criterion: 23 
-P-value: 0.023 
+P-value: 0.00037704918032786886 
 
 Unable to work due to sickness or disability: Component 33 : Age 
 True coefficient (criterion): -0.024502049962109796 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 34 : Age 
 True coefficient (criterion): -0.024604219107116142 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 35 : Age 
 True coefficient (criterion): -0.02453345994529476 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 36 : Age 
 True coefficient (criterion): -0.024584979684623406 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 37 : Age 
 True coefficient (criterion): -0.02445939721699739 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 38 : Age 
 True coefficient (criterion): -0.024829254648937253 
 Number of iterations: 61000 
 Number of values above criterion: 22 
-P-value: 0.022 
+P-value: 0.000360655737704918 
 
 Unable to work due to sickness or disability: Component 39 : Age 
 True coefficient (criterion): -0.024519125391525416 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 40 : Age 
 True coefficient (criterion): -0.024511911960146092 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 41 : Age 
 True coefficient (criterion): -0.02450011211317335 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 42 : Age 
 True coefficient (criterion): -0.024440466849368757 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 43 : Age 
 True coefficient (criterion): -0.02429999175230415 
 Number of iterations: 61000 
 Number of values above criterion: 26 
-P-value: 0.026 
+P-value: 0.00042622950819672133 
 
 Unable to work due to sickness or disability: Component 44 : Age 
 True coefficient (criterion): -0.02455865762805121 
 Number of iterations: 61000 
 Number of values above criterion: 24 
-P-value: 0.024 
+P-value: 0.00039344262295081965 
 
 Unable to work due to sickness or disability: Component 45 : Age 
 True coefficient (criterion): -0.02447755242531363 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 46 : Age 
 True coefficient (criterion): -0.024500241957216104 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 47 : Age 
 True coefficient (criterion): -0.02448428909325484 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unable to work due to sickness or disability: Component 48 : Age 
 True coefficient (criterion): -0.02445738780993396 
 Number of iterations: 61000 
 Number of values above criterion: 27 
-P-value: 0.027 
+P-value: 0.0004426229508196721 
 
 Unable to work due to sickness or disability: Component 49 : Age 
 True coefficient (criterion): -0.02442446320845609 
 Number of iterations: 61000 
 Number of values above criterion: 25 
-P-value: 0.025 
+P-value: 0.0004098360655737705 
 
 Unemployment: Component 0 : Age 
 True coefficient (criterion): -0.03359834234637989 
@@ -16203,301 +16203,301 @@ Doing unpaid or voluntary work: Component 0 : Age
 True coefficient (criterion): 0.014585366261108052 
 Number of iterations: 61000 
 Number of values above criterion: 1386 
-P-value: 1.386 
+P-value: 0.022721311475409837 
 
 Doing unpaid or voluntary work: Component 1 : Age 
 True coefficient (criterion): 0.014568530338296337 
 Number of iterations: 61000 
 Number of values above criterion: 1379 
-P-value: 1.379 
+P-value: 0.02260655737704918 
 
 Doing unpaid or voluntary work: Component 2 : Age 
 True coefficient (criterion): 0.014311763174341291 
 Number of iterations: 61000 
 Number of values above criterion: 1505 
-P-value: 1.505 
+P-value: 0.024672131147540983 
 
 Doing unpaid or voluntary work: Component 3 : Age 
 True coefficient (criterion): 0.014472403444436248 
 Number of iterations: 61000 
 Number of values above criterion: 1425 
-P-value: 1.425 
+P-value: 0.02336065573770492 
 
 Doing unpaid or voluntary work: Component 4 : Age 
 True coefficient (criterion): 0.014515451420662677 
 Number of iterations: 61000 
 Number of values above criterion: 1407 
-P-value: 1.407 
+P-value: 0.023065573770491805 
 
 Doing unpaid or voluntary work: Component 5 : Age 
 True coefficient (criterion): 0.014577951906887002 
 Number of iterations: 61000 
 Number of values above criterion: 1379 
-P-value: 1.379 
+P-value: 0.02260655737704918 
 
 Doing unpaid or voluntary work: Component 6 : Age 
 True coefficient (criterion): 0.01443893494900134 
 Number of iterations: 61000 
 Number of values above criterion: 1442 
-P-value: 1.442 
+P-value: 0.02363934426229508 
 
 Doing unpaid or voluntary work: Component 7 : Age 
 True coefficient (criterion): 0.014394495968826535 
 Number of iterations: 61000 
 Number of values above criterion: 1473 
-P-value: 1.473 
+P-value: 0.024147540983606556 
 
 Doing unpaid or voluntary work: Component 8 : Age 
 True coefficient (criterion): 0.014326491700900652 
 Number of iterations: 61000 
 Number of values above criterion: 1496 
-P-value: 1.496 
+P-value: 0.024524590163934427 
 
 Doing unpaid or voluntary work: Component 9 : Age 
 True coefficient (criterion): 0.014682597452632491 
 Number of iterations: 61000 
 Number of values above criterion: 1328 
-P-value: 1.328 
+P-value: 0.02177049180327869 
 
 Doing unpaid or voluntary work: Component 10 : Age 
 True coefficient (criterion): 0.014497177139852723 
 Number of iterations: 61000 
 Number of values above criterion: 1417 
-P-value: 1.417 
+P-value: 0.023229508196721312 
 
 Doing unpaid or voluntary work: Component 11 : Age 
 True coefficient (criterion): 0.014425140050596892 
 Number of iterations: 61000 
 Number of values above criterion: 1445 
-P-value: 1.445 
+P-value: 0.023688524590163934 
 
 Doing unpaid or voluntary work: Component 12 : Age 
 True coefficient (criterion): 0.01471019279933017 
 Number of iterations: 61000 
 Number of values above criterion: 1308 
-P-value: 1.308 
+P-value: 0.02144262295081967 
 
 Doing unpaid or voluntary work: Component 13 : Age 
 True coefficient (criterion): 0.014520699766211067 
 Number of iterations: 61000 
 Number of values above criterion: 1404 
-P-value: 1.404 
+P-value: 0.023016393442622952 
 
 Doing unpaid or voluntary work: Component 14 : Age 
 True coefficient (criterion): 0.014612180058078943 
 Number of iterations: 61000 
 Number of values above criterion: 1361 
-P-value: 1.361 
+P-value: 0.022311475409836065 
 
 Doing unpaid or voluntary work: Component 15 : Age 
 True coefficient (criterion): 0.01476201094934844 
 Number of iterations: 61000 
 Number of values above criterion: 1294 
-P-value: 1.294 
+P-value: 0.021213114754098362 
 
 Doing unpaid or voluntary work: Component 16 : Age 
 True coefficient (criterion): 0.014336084961658715 
 Number of iterations: 61000 
 Number of values above criterion: 1485 
-P-value: 1.485 
+P-value: 0.024344262295081968 
 
 Doing unpaid or voluntary work: Component 17 : Age 
 True coefficient (criterion): 0.014648451270854148 
 Number of iterations: 61000 
 Number of values above criterion: 1349 
-P-value: 1.349 
+P-value: 0.022114754098360657 
 
 Doing unpaid or voluntary work: Component 18 : Age 
 True coefficient (criterion): 0.014602814530614072 
 Number of iterations: 61000 
 Number of values above criterion: 1359 
-P-value: 1.359 
+P-value: 0.022278688524590164 
 
 Doing unpaid or voluntary work: Component 19 : Age 
 True coefficient (criterion): 0.01467702626336644 
 Number of iterations: 61000 
 Number of values above criterion: 1327 
-P-value: 1.327 
+P-value: 0.021754098360655737 
 
 Doing unpaid or voluntary work: Component 20 : Age 
 True coefficient (criterion): 0.014447065767866852 
 Number of iterations: 61000 
 Number of values above criterion: 1435 
-P-value: 1.435 
+P-value: 0.023524590163934427 
 
 Doing unpaid or voluntary work: Component 21 : Age 
 True coefficient (criterion): 0.014458842392109497 
 Number of iterations: 61000 
 Number of values above criterion: 1436 
-P-value: 1.436 
+P-value: 0.02354098360655738 
 
 Doing unpaid or voluntary work: Component 22 : Age 
 True coefficient (criterion): 0.014600987661099185 
 Number of iterations: 61000 
 Number of values above criterion: 1366 
-P-value: 1.366 
+P-value: 0.02239344262295082 
 
 Doing unpaid or voluntary work: Component 23 : Age 
 True coefficient (criterion): 0.014457044923331223 
 Number of iterations: 61000 
 Number of values above criterion: 1432 
-P-value: 1.432 
+P-value: 0.023475409836065574 
 
 Doing unpaid or voluntary work: Component 24 : Age 
 True coefficient (criterion): 0.014554777611625958 
 Number of iterations: 61000 
 Number of values above criterion: 1383 
-P-value: 1.383 
+P-value: 0.022672131147540985 
 
 Doing unpaid or voluntary work: Component 25 : Age 
 True coefficient (criterion): 0.014325351706659342 
 Number of iterations: 61000 
 Number of values above criterion: 1490 
-P-value: 1.49 
+P-value: 0.02442622950819672 
 
 Doing unpaid or voluntary work: Component 26 : Age 
 True coefficient (criterion): 0.014619942873099808 
 Number of iterations: 61000 
 Number of values above criterion: 1359 
-P-value: 1.359 
+P-value: 0.022278688524590164 
 
 Doing unpaid or voluntary work: Component 27 : Age 
 True coefficient (criterion): 0.014494195693993352 
 Number of iterations: 61000 
 Number of values above criterion: 1412 
-P-value: 1.412 
+P-value: 0.02314754098360656 
 
 Doing unpaid or voluntary work: Component 28 : Age 
 True coefficient (criterion): 0.014634022637587063 
 Number of iterations: 61000 
 Number of values above criterion: 1350 
-P-value: 1.35 
+P-value: 0.022131147540983605 
 
 Doing unpaid or voluntary work: Component 29 : Age 
 True coefficient (criterion): 0.014480094013996615 
 Number of iterations: 61000 
 Number of values above criterion: 1428 
-P-value: 1.428 
+P-value: 0.023409836065573772 
 
 Doing unpaid or voluntary work: Component 30 : Age 
 True coefficient (criterion): 0.014436187506775526 
 Number of iterations: 61000 
 Number of values above criterion: 1444 
-P-value: 1.444 
+P-value: 0.023672131147540982 
 
 Doing unpaid or voluntary work: Component 31 : Age 
 True coefficient (criterion): 0.014514548244902021 
 Number of iterations: 61000 
 Number of values above criterion: 1399 
-P-value: 1.399 
+P-value: 0.022934426229508198 
 
 Doing unpaid or voluntary work: Component 32 : Age 
 True coefficient (criterion): 0.01451749756669317 
 Number of iterations: 61000 
 Number of values above criterion: 1391 
-P-value: 1.391 
+P-value: 0.02280327868852459 
 
 Doing unpaid or voluntary work: Component 33 : Age 
 True coefficient (criterion): 0.01462389302528684 
 Number of iterations: 61000 
 Number of values above criterion: 1356 
-P-value: 1.356 
+P-value: 0.02222950819672131 
 
 Doing unpaid or voluntary work: Component 34 : Age 
 True coefficient (criterion): 0.01449715947163625 
 Number of iterations: 61000 
 Number of values above criterion: 1416 
-P-value: 1.416 
+P-value: 0.02321311475409836 
 
 Doing unpaid or voluntary work: Component 35 : Age 
 True coefficient (criterion): 0.014661740447334792 
 Number of iterations: 61000 
 Number of values above criterion: 1330 
-P-value: 1.33 
+P-value: 0.02180327868852459 
 
 Doing unpaid or voluntary work: Component 36 : Age 
 True coefficient (criterion): 0.014498788499472845 
 Number of iterations: 61000 
 Number of values above criterion: 1417 
-P-value: 1.417 
+P-value: 0.023229508196721312 
 
 Doing unpaid or voluntary work: Component 37 : Age 
 True coefficient (criterion): 0.014367059625443159 
 Number of iterations: 61000 
 Number of values above criterion: 1481 
-P-value: 1.481 
+P-value: 0.024278688524590163 
 
 Doing unpaid or voluntary work: Component 38 : Age 
 True coefficient (criterion): 0.014591219044411111 
 Number of iterations: 61000 
 Number of values above criterion: 1366 
-P-value: 1.366 
+P-value: 0.02239344262295082 
 
 Doing unpaid or voluntary work: Component 39 : Age 
 True coefficient (criterion): 0.014537162089782216 
 Number of iterations: 61000 
 Number of values above criterion: 1397 
-P-value: 1.397 
+P-value: 0.022901639344262294 
 
 Doing unpaid or voluntary work: Component 40 : Age 
 True coefficient (criterion): 0.014532384485524298 
 Number of iterations: 61000 
 Number of values above criterion: 1392 
-P-value: 1.392 
+P-value: 0.02281967213114754 
 
 Doing unpaid or voluntary work: Component 41 : Age 
 True coefficient (criterion): 0.01446722389265561 
 Number of iterations: 61000 
 Number of values above criterion: 1429 
-P-value: 1.429 
+P-value: 0.02342622950819672 
 
 Doing unpaid or voluntary work: Component 42 : Age 
 True coefficient (criterion): 0.014467295122321516 
 Number of iterations: 61000 
 Number of values above criterion: 1430 
-P-value: 1.43 
+P-value: 0.023442622950819673 
 
 Doing unpaid or voluntary work: Component 43 : Age 
 True coefficient (criterion): 0.014672545200704046 
 Number of iterations: 61000 
 Number of values above criterion: 1338 
-P-value: 1.338 
+P-value: 0.021934426229508197 
 
 Doing unpaid or voluntary work: Component 44 : Age 
 True coefficient (criterion): 0.014523598071755767 
 Number of iterations: 61000 
 Number of values above criterion: 1409 
-P-value: 1.409 
+P-value: 0.023098360655737706 
 
 Doing unpaid or voluntary work: Component 45 : Age 
 True coefficient (criterion): 0.014502947397636034 
 Number of iterations: 61000 
 Number of values above criterion: 1422 
-P-value: 1.422 
+P-value: 0.023311475409836066 
 
 Doing unpaid or voluntary work: Component 46 : Age 
 True coefficient (criterion): 0.014286757655770702 
 Number of iterations: 61000 
 Number of values above criterion: 1518 
-P-value: 1.518 
+P-value: 0.024885245901639343 
 
 Doing unpaid or voluntary work: Component 47 : Age 
 True coefficient (criterion): 0.014418849508260079 
 Number of iterations: 61000 
 Number of values above criterion: 1449 
-P-value: 1.449 
+P-value: 0.02375409836065574 
 
 Doing unpaid or voluntary work: Component 48 : Age 
 True coefficient (criterion): 0.014762912297956031 
 Number of iterations: 61000 
 Number of values above criterion: 1280 
-P-value: 1.28 
+P-value: 0.02098360655737705 
 
 Doing unpaid or voluntary work: Component 49 : Age 
 True coefficient (criterion): 0.014336736889157308 
 Number of iterations: 61000 
 Number of values above criterion: 1491 
-P-value: 1.491 
+P-value: 0.024442622950819674 
 
 Full or part-time student: Component 0 : Age 
 True coefficient (criterion): -0.051035451933015744 
@@ -17403,301 +17403,301 @@ Time spent using computer: Component 0 : Age
 True coefficient (criterion): -0.0253525961754326 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 1 : Age 
 True coefficient (criterion): -0.025284804182051514 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 2 : Age 
 True coefficient (criterion): -0.025355973494814645 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 3 : Age 
 True coefficient (criterion): -0.025047829375481705 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 4 : Age 
 True coefficient (criterion): -0.02490580981941823 
 Number of iterations: 61000 
 Number of values above criterion: 21 
-P-value: 0.021 
+P-value: 0.00034426229508196723 
 
 Time spent using computer: Component 5 : Age 
 True coefficient (criterion): -0.025090632438804696 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 6 : Age 
 True coefficient (criterion): -0.025389774279274413 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 7 : Age 
 True coefficient (criterion): -0.0256031664770096 
 Number of iterations: 61000 
 Number of values above criterion: 18 
-P-value: 0.018 
+P-value: 0.00029508196721311476 
 
 Time spent using computer: Component 8 : Age 
 True coefficient (criterion): -0.02512144587027314 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 9 : Age 
 True coefficient (criterion): -0.02522227990811168 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 10 : Age 
 True coefficient (criterion): -0.024836189508061397 
 Number of iterations: 61000 
 Number of values above criterion: 23 
-P-value: 0.023 
+P-value: 0.00037704918032786886 
 
 Time spent using computer: Component 11 : Age 
 True coefficient (criterion): -0.025275647140256208 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 12 : Age 
 True coefficient (criterion): -0.025243809024426123 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 13 : Age 
 True coefficient (criterion): -0.025406952706659484 
 Number of iterations: 61000 
 Number of values above criterion: 17 
-P-value: 0.017 
+P-value: 0.0002786885245901639 
 
 Time spent using computer: Component 14 : Age 
 True coefficient (criterion): -0.025264385022268326 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 15 : Age 
 True coefficient (criterion): -0.02518324579984877 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 16 : Age 
 True coefficient (criterion): -0.02521825900604886 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 17 : Age 
 True coefficient (criterion): -0.025352124777495835 
 Number of iterations: 61000 
 Number of values above criterion: 18 
-P-value: 0.018 
+P-value: 0.00029508196721311476 
 
 Time spent using computer: Component 18 : Age 
 True coefficient (criterion): -0.025201737523541098 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 19 : Age 
 True coefficient (criterion): -0.02535312937805853 
 Number of iterations: 61000 
 Number of values above criterion: 18 
-P-value: 0.018 
+P-value: 0.00029508196721311476 
 
 Time spent using computer: Component 20 : Age 
 True coefficient (criterion): -0.02501135712934624 
 Number of iterations: 61000 
 Number of values above criterion: 20 
-P-value: 0.02 
+P-value: 0.0003278688524590164 
 
 Time spent using computer: Component 21 : Age 
 True coefficient (criterion): -0.025243998444973773 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 22 : Age 
 True coefficient (criterion): -0.02509577632607069 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 23 : Age 
 True coefficient (criterion): -0.025286439829984093 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 24 : Age 
 True coefficient (criterion): -0.02521328993691024 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 25 : Age 
 True coefficient (criterion): -0.025275564979095583 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 26 : Age 
 True coefficient (criterion): -0.025278626037362303 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 27 : Age 
 True coefficient (criterion): -0.025323894938147927 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 28 : Age 
 True coefficient (criterion): -0.025121996066698637 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 29 : Age 
 True coefficient (criterion): -0.025300589396505164 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 30 : Age 
 True coefficient (criterion): -0.02513413083312759 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 31 : Age 
 True coefficient (criterion): -0.025125197845056423 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 32 : Age 
 True coefficient (criterion): -0.02526968992487887 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 33 : Age 
 True coefficient (criterion): -0.02524496365966404 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 34 : Age 
 True coefficient (criterion): -0.025258962844653243 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 35 : Age 
 True coefficient (criterion): -0.025242470319122964 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 36 : Age 
 True coefficient (criterion): -0.02541343961329321 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 37 : Age 
 True coefficient (criterion): -0.025333242658419464 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 38 : Age 
 True coefficient (criterion): -0.025204107488860573 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 39 : Age 
 True coefficient (criterion): -0.02515346322009596 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 40 : Age 
 True coefficient (criterion): -0.025268850587877516 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 41 : Age 
 True coefficient (criterion): -0.025283931758255475 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 42 : Age 
 True coefficient (criterion): -0.02527365185498033 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 43 : Age 
 True coefficient (criterion): -0.02538838185542043 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 44 : Age 
 True coefficient (criterion): -0.02520098378743878 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 45 : Age 
 True coefficient (criterion): -0.025219831347275425 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 46 : Age 
 True coefficient (criterion): -0.025210297039024977 
 Number of iterations: 61000 
 Number of values above criterion: 20 
-P-value: 0.02 
+P-value: 0.0003278688524590164 
 
 Time spent using computer: Component 47 : Age 
 True coefficient (criterion): -0.02527621184552098 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Time spent using computer: Component 48 : Age 
 True coefficient (criterion): -0.025490601973563214 
 Number of iterations: 61000 
 Number of values above criterion: 17 
-P-value: 0.017 
+P-value: 0.0002786885245901639 
 
 Time spent using computer: Component 49 : Age 
 True coefficient (criterion): -0.025259040514845326 
 Number of iterations: 61000 
 Number of values above criterion: 19 
-P-value: 0.019 
+P-value: 0.00031147540983606555 
 
 Number in household: Component 0 : Age 
 True coefficient (criterion): -0.3893067968496657 
@@ -18003,299 +18003,299 @@ Physical environment score: Component 0 : Age
 True coefficient (criterion): -0.0005353483768853742 
 Number of iterations: 61000 
 Number of values above criterion: 28663 
-P-value: 28.663 
+P-value: 0.4698852459016393 
 
 Physical environment score: Component 1 : Age 
 True coefficient (criterion): -0.0001625066085600523 
 Number of iterations: 61000 
 Number of values above criterion: 29891 
-P-value: 29.891 
+P-value: 0.49001639344262293 
 
 Physical environment score: Component 2 : Age 
 True coefficient (criterion): 1.7353797806540166e-05 
 Number of iterations: 61000 
 Number of values above criterion: 30520 
-P-value: 30.52 
+P-value: 0.5003278688524591 
 
 Physical environment score: Component 3 : Age 
 True coefficient (criterion): 0.00013312173426990742 
 Number of iterations: 61000 
 Number of values above criterion: 30099 
-P-value: 30.099 
+P-value: 0.4934262295081967 
 
 Physical environment score: Component 4 : Age 
 True coefficient (criterion): -5.105619878458916e-05 
 Number of iterations: 61000 
 Number of values above criterion: 30275 
-P-value: 30.275 
+P-value: 0.49631147540983606 
 
 Physical environment score: Component 5 : Age 
 True coefficient (criterion): -0.0003530629064157345 
 Number of iterations: 61000 
 Number of values above criterion: 29228 
-P-value: 29.228 
+P-value: 0.47914754098360657 
 
 Physical environment score: Component 6 : Age 
 True coefficient (criterion): -0.00021254476476132342 
 Number of iterations: 61000 
 Number of values above criterion: 29726 
-P-value: 29.726 
+P-value: 0.48731147540983605 
 
 Physical environment score: Component 7 : Age 
 True coefficient (criterion): -0.0004921039336440968 
 Number of iterations: 61000 
 Number of values above criterion: 28803 
-P-value: 28.803 
+P-value: 0.47218032786885245 
 
 Physical environment score: Component 8 : Age 
 True coefficient (criterion): -0.00016991748945378813 
 Number of iterations: 61000 
 Number of values above criterion: 29870 
-P-value: 29.87 
+P-value: 0.489672131147541 
 
 Physical environment score: Component 9 : Age 
 True coefficient (criterion): -0.0004055320786483822 
 Number of iterations: 61000 
 Number of values above criterion: 29069 
-P-value: 29.069 
+P-value: 0.4765409836065574 
 
 Physical environment score: Component 10 : Age 
 True coefficient (criterion): -0.00023265315457856865 
 Number of iterations: 61000 
 Number of values above criterion: 29660 
-P-value: 29.66 
+P-value: 0.48622950819672134 
 
 Physical environment score: Component 11 : Age 
 True coefficient (criterion): -0.00012417181669910875 
 Number of iterations: 61000 
 Number of values above criterion: 30012 
-P-value: 30.012 
+P-value: 0.492 
 
 Physical environment score: Component 12 : Age 
 True coefficient (criterion): -0.00022563689240218357 
 Number of iterations: 61000 
 Number of values above criterion: 29643 
-P-value: 29.643 
+P-value: 0.48595081967213116 
 
 Physical environment score: Component 13 : Age 
 True coefficient (criterion): -8.134353015881088e-06 
 Number of iterations: 61000 
 Number of values above criterion: 30413 
-P-value: 30.413 
+P-value: 0.4985737704918033 
 
 Physical environment score: Component 14 : Age 
 True coefficient (criterion): -0.0001709292082107721 
 Number of iterations: 61000 
 Number of values above criterion: 29866 
-P-value: 29.866 
+P-value: 0.48960655737704917 
 
 Physical environment score: Component 15 : Age 
 True coefficient (criterion): -0.0001817939071473072 
 Number of iterations: 61000 
 Number of values above criterion: 29835 
-P-value: 29.835 
+P-value: 0.4890983606557377 
 
 Physical environment score: Component 16 : Age 
 True coefficient (criterion): -0.000193584975235363 
 Number of iterations: 61000 
 Number of values above criterion: 29765 
-P-value: 29.765 
+P-value: 0.48795081967213116 
 
 Physical environment score: Component 17 : Age 
 True coefficient (criterion): -0.00017054415237917543 
 Number of iterations: 61000 
 Number of values above criterion: 29836 
-P-value: 29.836 
+P-value: 0.48911475409836064 
 
 Physical environment score: Component 18 : Age 
 True coefficient (criterion): -0.00031766130769903737 
 Number of iterations: 61000 
 Number of values above criterion: 29350 
-P-value: 29.35 
+P-value: 0.48114754098360657 
 
 Physical environment score: Component 19 : Age 
 True coefficient (criterion): -9.33867334600392e-05 
 Number of iterations: 61000 
 Number of values above criterion: 30141 
-P-value: 30.141 
+P-value: 0.49411475409836064 
 
 Physical environment score: Component 20 : Age 
 True coefficient (criterion): -0.00011870759111491536 
 Number of iterations: 61000 
 Number of values above criterion: 30047 
-P-value: 30.047 
+P-value: 0.4925737704918033 
 
 Physical environment score: Component 21 : Age 
 True coefficient (criterion): -0.00021492691857503474 
 Number of iterations: 61000 
 Number of values above criterion: 29710 
-P-value: 29.71 
+P-value: 0.48704918032786887 
 
 Physical environment score: Component 22 : Age 
 True coefficient (criterion): -7.283148991111394e-05 
 Number of iterations: 61000 
 Number of values above criterion: 30170 
-P-value: 30.17 
+P-value: 0.49459016393442623 
 
 Physical environment score: Component 23 : Age 
 True coefficient (criterion): -0.0003311763500909692 
 Number of iterations: 61000 
 Number of values above criterion: 29320 
-P-value: 29.32 
+P-value: 0.48065573770491804 
 
 Physical environment score: Component 24 : Age 
 True coefficient (criterion): -0.00026100811983133725 
 Number of iterations: 61000 
 Number of values above criterion: 29592 
-P-value: 29.592 
+P-value: 0.48511475409836063 
 
 Physical environment score: Component 25 : Age 
 True coefficient (criterion): -0.00038748491371608896 
 Number of iterations: 61000 
 Number of values above criterion: 29156 
-P-value: 29.156 
+P-value: 0.4779672131147541 
 
 Physical environment score: Component 26 : Age 
 True coefficient (criterion): -0.000146156763059138 
 Number of iterations: 61000 
 Number of values above criterion: 29939 
-P-value: 29.939 
+P-value: 0.4908032786885246 
 
 Physical environment score: Component 27 : Age 
 True coefficient (criterion): -0.00024705391593132043 
 Number of iterations: 61000 
 Number of values above criterion: 29601 
-P-value: 29.601 
+P-value: 0.4852622950819672 
 
 Physical environment score: Component 28 : Age 
 True coefficient (criterion): -0.0002618976066462219 
 Number of iterations: 61000 
 Number of values above criterion: 29529 
-P-value: 29.529 
+P-value: 0.48408196721311475 
 
 Physical environment score: Component 29 : Age 
 True coefficient (criterion): -0.0002013266006993764 
 Number of iterations: 61000 
 Number of values above criterion: 29752 
-P-value: 29.752 
+P-value: 0.4877377049180328 
 
 Physical environment score: Component 30 : Age 
 True coefficient (criterion): -0.0002700269506043998 
 Number of iterations: 61000 
 Number of values above criterion: 29521 
-P-value: 29.521 
+P-value: 0.48395081967213116 
 
 Physical environment score: Component 31 : Age 
 True coefficient (criterion): -0.00025419946122849294 
 Number of iterations: 61000 
 Number of values above criterion: 29595 
-P-value: 29.595 
+P-value: 0.4851639344262295 
 
 Physical environment score: Component 32 : Age 
 True coefficient (criterion): -6.42175816888999e-05 
 Number of iterations: 61000 
 Number of values above criterion: 30219 
-P-value: 30.219 
+P-value: 0.4953934426229508 
 
 Physical environment score: Component 33 : Age 
 True coefficient (criterion): -0.00025347278523847247 
 Number of iterations: 61000 
 Number of values above criterion: 29599 
-P-value: 29.599 
+P-value: 0.48522950819672134 
 
 Physical environment score: Component 34 : Age 
 True coefficient (criterion): -0.00020665644297063648 
 Number of iterations: 61000 
 Number of values above criterion: 29748 
-P-value: 29.748 
+P-value: 0.487672131147541 
 
 Physical environment score: Component 35 : Age 
 True coefficient (criterion): -0.00012035408434519658 
 Number of iterations: 61000 
 Number of values above criterion: 30033 
-P-value: 30.033 
+P-value: 0.492344262295082 
 
 Physical environment score: Component 36 : Age 
 True coefficient (criterion): -0.000332145184506618 
 Number of iterations: 61000 
 Number of values above criterion: 29339 
-P-value: 29.339 
+P-value: 0.4809672131147541 
 
 Physical environment score: Component 37 : Age 
 True coefficient (criterion): -0.00014172226427844995 
 Number of iterations: 61000 
 Number of values above criterion: 29951 
-P-value: 29.951 
+P-value: 0.491 
 
 Physical environment score: Component 38 : Age 
 True coefficient (criterion): -9.700000943786972e-05 
 Number of iterations: 61000 
 Number of values above criterion: 30111 
-P-value: 30.111 
+P-value: 0.4936229508196721 
 
 Physical environment score: Component 39 : Age 
 True coefficient (criterion): -0.00025139238648736535 
 Number of iterations: 61000 
 Number of values above criterion: 29591 
-P-value: 29.591 
+P-value: 0.4850983606557377 
 
 Physical environment score: Component 40 : Age 
 True coefficient (criterion): -0.00013399638881608555 
 Number of iterations: 61000 
 Number of values above criterion: 29991 
-P-value: 29.991 
+P-value: 0.49165573770491805 
 
 Physical environment score: Component 41 : Age 
 True coefficient (criterion): -0.00029724273563365845 
 Number of iterations: 61000 
 Number of values above criterion: 29426 
-P-value: 29.426 
+P-value: 0.4823934426229508 
 
 Physical environment score: Component 42 : Age 
 True coefficient (criterion): -0.0001373081085732778 
 Number of iterations: 61000 
 Number of values above criterion: 29977 
-P-value: 29.977 
+P-value: 0.4914262295081967 
 
 Physical environment score: Component 43 : Age 
 True coefficient (criterion): -0.0002945830778836778 
 Number of iterations: 61000 
 Number of values above criterion: 29446 
-P-value: 29.446 
+P-value: 0.4827213114754098 
 
 Physical environment score: Component 44 : Age 
 True coefficient (criterion): -0.0002533835469782531 
 Number of iterations: 61000 
 Number of values above criterion: 29564 
-P-value: 29.564 
+P-value: 0.48465573770491804 
 
 Physical environment score: Component 45 : Age 
 True coefficient (criterion): -0.00019340402932615356 
 Number of iterations: 61000 
 Number of values above criterion: 29787 
-P-value: 29.787 
+P-value: 0.48831147540983605 
 
 Physical environment score: Component 46 : Age 
 True coefficient (criterion): -0.00024186883227854725 
 Number of iterations: 61000 
 Number of values above criterion: 29644 
-P-value: 29.644 
+P-value: 0.4859672131147541 
 
 Physical environment score: Component 47 : Age 
 True coefficient (criterion): -0.00023554129293566157 
 Number of iterations: 61000 
 Number of values above criterion: 29658 
-P-value: 29.658 
+P-value: 0.4861967213114754 
 
 Physical environment score: Component 48 : Age 
 True coefficient (criterion): -0.00020802696896148133 
 Number of iterations: 61000 
 Number of values above criterion: 29729 
-P-value: 29.729 
+P-value: 0.48736065573770493 
 
 Physical environment score: Component 49 : Age 
 True coefficient (criterion): -0.00019370719456312486 
 Number of iterations: 61000 
 Number of values above criterion: 29776 
-P-value: 29.776 
+P-value: 0.48813114754098363 
 
