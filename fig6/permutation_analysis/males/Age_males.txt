@@ -3,301 +3,301 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): -0.0035710106577003732 
 Number of iterations: 61000 
 Number of values above criterion: 19276 
-P-value: 19.276 
+P-value: 0.316 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003962897607555099 
 Number of iterations: 61000 
 Number of values above criterion: 18132 
-P-value: 18.132 
+P-value: 0.2972459016393443 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003711899094948954 
 Number of iterations: 61000 
 Number of values above criterion: 18872 
-P-value: 18.872 
+P-value: 0.3093770491803279 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003999422005253799 
 Number of iterations: 61000 
 Number of values above criterion: 18050 
-P-value: 18.05 
+P-value: 0.2959016393442623 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.004061898372374648 
 Number of iterations: 61000 
 Number of values above criterion: 17872 
-P-value: 17.872 
+P-value: 0.29298360655737704 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0040286162412512755 
 Number of iterations: 61000 
 Number of values above criterion: 17958 
-P-value: 17.958 
+P-value: 0.2943934426229508 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0038406125763690386 
 Number of iterations: 61000 
 Number of values above criterion: 18475 
-P-value: 18.475 
+P-value: 0.3028688524590164 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003911745956550386 
 Number of iterations: 61000 
 Number of values above criterion: 18298 
-P-value: 18.298 
+P-value: 0.2999672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003992008590003834 
 Number of iterations: 61000 
 Number of values above criterion: 18060 
-P-value: 18.06 
+P-value: 0.2960655737704918 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.004061037682091634 
 Number of iterations: 61000 
 Number of values above criterion: 17840 
-P-value: 17.84 
+P-value: 0.29245901639344263 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003891340374676001 
 Number of iterations: 61000 
 Number of values above criterion: 18347 
-P-value: 18.347 
+P-value: 0.3007704918032787 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.00372885118997924 
 Number of iterations: 61000 
 Number of values above criterion: 18816 
-P-value: 18.816 
+P-value: 0.30845901639344264 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.004093578360323496 
 Number of iterations: 61000 
 Number of values above criterion: 17768 
-P-value: 17.768 
+P-value: 0.29127868852459016 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003724589607900482 
 Number of iterations: 61000 
 Number of values above criterion: 18816 
-P-value: 18.816 
+P-value: 0.30845901639344264 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0038779161622386634 
 Number of iterations: 61000 
 Number of values above criterion: 18383 
-P-value: 18.383 
+P-value: 0.30136065573770493 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0033437564197661583 
 Number of iterations: 61000 
 Number of values above criterion: 19904 
-P-value: 19.904 
+P-value: 0.32629508196721313 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0038912238955896034 
 Number of iterations: 61000 
 Number of values above criterion: 18344 
-P-value: 18.344 
+P-value: 0.3007213114754098 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0039718548456419206 
 Number of iterations: 61000 
 Number of values above criterion: 18097 
-P-value: 18.097 
+P-value: 0.296672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003967176269933639 
 Number of iterations: 61000 
 Number of values above criterion: 18113 
-P-value: 18.113 
+P-value: 0.2969344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003971361557666102 
 Number of iterations: 61000 
 Number of values above criterion: 18109 
-P-value: 18.109 
+P-value: 0.2968688524590164 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003903938976180801 
 Number of iterations: 61000 
 Number of values above criterion: 18301 
-P-value: 18.301 
+P-value: 0.30001639344262293 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0038181757492251837 
 Number of iterations: 61000 
 Number of values above criterion: 18525 
-P-value: 18.525 
+P-value: 0.30368852459016393 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003865973830960375 
 Number of iterations: 61000 
 Number of values above criterion: 18423 
-P-value: 18.423 
+P-value: 0.30201639344262293 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003622698869632507 
 Number of iterations: 61000 
 Number of values above criterion: 19097 
-P-value: 19.097 
+P-value: 0.3130655737704918 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003940763961263373 
 Number of iterations: 61000 
 Number of values above criterion: 18195 
-P-value: 18.195 
+P-value: 0.29827868852459016 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0037256659606603243 
 Number of iterations: 61000 
 Number of values above criterion: 18818 
-P-value: 18.818 
+P-value: 0.3084918032786885 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.004055949232875758 
 Number of iterations: 61000 
 Number of values above criterion: 17886 
-P-value: 17.886 
+P-value: 0.29321311475409834 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.004085533205703047 
 Number of iterations: 61000 
 Number of values above criterion: 17789 
-P-value: 17.789 
+P-value: 0.29162295081967216 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0037562295337521426 
 Number of iterations: 61000 
 Number of values above criterion: 18734 
-P-value: 18.734 
+P-value: 0.30711475409836064 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.004167162388598978 
 Number of iterations: 61000 
 Number of values above criterion: 17558 
-P-value: 17.558 
+P-value: 0.2878360655737705 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0043335705880040865 
 Number of iterations: 61000 
 Number of values above criterion: 17120 
-P-value: 17.12 
+P-value: 0.28065573770491803 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003792178718011925 
 Number of iterations: 61000 
 Number of values above criterion: 18627 
-P-value: 18.627 
+P-value: 0.30536065573770493 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0039857461082537585 
 Number of iterations: 61000 
 Number of values above criterion: 18079 
-P-value: 18.079 
+P-value: 0.29637704918032787 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0040074222363397595 
 Number of iterations: 61000 
 Number of values above criterion: 18030 
-P-value: 18.03 
+P-value: 0.2955737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.00393132181975871 
 Number of iterations: 61000 
 Number of values above criterion: 18239 
-P-value: 18.239 
+P-value: 0.299 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0036943724984889142 
 Number of iterations: 61000 
 Number of values above criterion: 18919 
-P-value: 18.919 
+P-value: 0.3101475409836066 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003917245067514854 
 Number of iterations: 61000 
 Number of values above criterion: 18293 
-P-value: 18.293 
+P-value: 0.29988524590163934 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0036625860549612133 
 Number of iterations: 61000 
 Number of values above criterion: 19000 
-P-value: 19.0 
+P-value: 0.3114754098360656 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.00396532803664386 
 Number of iterations: 61000 
 Number of values above criterion: 18120 
-P-value: 18.12 
+P-value: 0.29704918032786887 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003957930850520156 
 Number of iterations: 61000 
 Number of values above criterion: 18160 
-P-value: 18.16 
+P-value: 0.29770491803278687 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0038896990785391894 
 Number of iterations: 61000 
 Number of values above criterion: 18356 
-P-value: 18.356 
+P-value: 0.3009180327868852 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0038797446948296097 
 Number of iterations: 61000 
 Number of values above criterion: 18349 
-P-value: 18.349 
+P-value: 0.3008032786885246 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0037883393334322522 
 Number of iterations: 61000 
 Number of values above criterion: 18647 
-P-value: 18.647 
+P-value: 0.30568852459016393 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0041243672889122234 
 Number of iterations: 61000 
 Number of values above criterion: 17678 
-P-value: 17.678 
+P-value: 0.28980327868852457 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.004041025631313515 
 Number of iterations: 61000 
 Number of values above criterion: 17928 
-P-value: 17.928 
+P-value: 0.2939016393442623 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0038527637842815203 
 Number of iterations: 61000 
 Number of values above criterion: 18436 
-P-value: 18.436 
+P-value: 0.3022295081967213 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003692520868041963 
 Number of iterations: 61000 
 Number of values above criterion: 18911 
-P-value: 18.911 
+P-value: 0.31001639344262294 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.003962912090747613 
 Number of iterations: 61000 
 Number of values above criterion: 18145 
-P-value: 18.145 
+P-value: 0.29745901639344263 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.004099332007810314 
 Number of iterations: 61000 
 Number of values above criterion: 17763 
-P-value: 17.763 
+P-value: 0.2911967213114754 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0038552638621398697 
 Number of iterations: 61000 
 Number of values above criterion: 18449 
-P-value: 18.449 
+P-value: 0.3024426229508197 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.08937378648429523 
@@ -603,301 +603,301 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): -0.023021433577531922 
 Number of iterations: 61000 
 Number of values above criterion: 63 
-P-value: 0.063 
+P-value: 0.0010327868852459017 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02272855685733887 
 Number of iterations: 61000 
 Number of values above criterion: 73 
-P-value: 0.073 
+P-value: 0.00119672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02273578341005969 
 Number of iterations: 61000 
 Number of values above criterion: 71 
-P-value: 0.071 
+P-value: 0.0011639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022856814401842472 
 Number of iterations: 61000 
 Number of values above criterion: 67 
-P-value: 0.067 
+P-value: 0.0010983606557377049 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02290033620385083 
 Number of iterations: 61000 
 Number of values above criterion: 70 
-P-value: 0.07 
+P-value: 0.0011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022870197575831266 
 Number of iterations: 61000 
 Number of values above criterion: 68 
-P-value: 0.068 
+P-value: 0.0011147540983606557 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022900904033915814 
 Number of iterations: 61000 
 Number of values above criterion: 70 
-P-value: 0.07 
+P-value: 0.0011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0228233658766627 
 Number of iterations: 61000 
 Number of values above criterion: 70 
-P-value: 0.07 
+P-value: 0.0011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022817478681405642 
 Number of iterations: 61000 
 Number of values above criterion: 72 
-P-value: 0.072 
+P-value: 0.001180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022864193418238372 
 Number of iterations: 61000 
 Number of values above criterion: 69 
-P-value: 0.069 
+P-value: 0.0011311475409836065 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.023100075705526683 
 Number of iterations: 61000 
 Number of values above criterion: 65 
-P-value: 0.065 
+P-value: 0.0010655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022707225444507994 
 Number of iterations: 61000 
 Number of values above criterion: 72 
-P-value: 0.072 
+P-value: 0.001180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022764477355993726 
 Number of iterations: 61000 
 Number of values above criterion: 70 
-P-value: 0.07 
+P-value: 0.0011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022816357292615188 
 Number of iterations: 61000 
 Number of values above criterion: 69 
-P-value: 0.069 
+P-value: 0.0011311475409836065 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02284839506235766 
 Number of iterations: 61000 
 Number of values above criterion: 70 
-P-value: 0.07 
+P-value: 0.0011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.023013611145408435 
 Number of iterations: 61000 
 Number of values above criterion: 65 
-P-value: 0.065 
+P-value: 0.0010655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022934799322914687 
 Number of iterations: 61000 
 Number of values above criterion: 66 
-P-value: 0.066 
+P-value: 0.001081967213114754 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02270198554356569 
 Number of iterations: 61000 
 Number of values above criterion: 71 
-P-value: 0.071 
+P-value: 0.0011639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022998931627675127 
 Number of iterations: 61000 
 Number of values above criterion: 64 
-P-value: 0.064 
+P-value: 0.0010491803278688525 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02302528717275595 
 Number of iterations: 61000 
 Number of values above criterion: 66 
-P-value: 0.066 
+P-value: 0.001081967213114754 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022761370495968502 
 Number of iterations: 61000 
 Number of values above criterion: 72 
-P-value: 0.072 
+P-value: 0.001180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022751311442032466 
 Number of iterations: 61000 
 Number of values above criterion: 72 
-P-value: 0.072 
+P-value: 0.001180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022858627685746813 
 Number of iterations: 61000 
 Number of values above criterion: 69 
-P-value: 0.069 
+P-value: 0.0011311475409836065 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02278264543000311 
 Number of iterations: 61000 
 Number of values above criterion: 69 
-P-value: 0.069 
+P-value: 0.0011311475409836065 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.023039911552777213 
 Number of iterations: 61000 
 Number of values above criterion: 63 
-P-value: 0.063 
+P-value: 0.0010327868852459017 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02295386015158887 
 Number of iterations: 61000 
 Number of values above criterion: 64 
-P-value: 0.064 
+P-value: 0.0010491803278688525 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022959927568667937 
 Number of iterations: 61000 
 Number of values above criterion: 65 
-P-value: 0.065 
+P-value: 0.0010655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02291680722291284 
 Number of iterations: 61000 
 Number of values above criterion: 70 
-P-value: 0.07 
+P-value: 0.0011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022884827495761092 
 Number of iterations: 61000 
 Number of values above criterion: 68 
-P-value: 0.068 
+P-value: 0.0011147540983606557 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022693473158789012 
 Number of iterations: 61000 
 Number of values above criterion: 74 
-P-value: 0.074 
+P-value: 0.0012131147540983607 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02260892662905359 
 Number of iterations: 61000 
 Number of values above criterion: 76 
-P-value: 0.076 
+P-value: 0.0012459016393442622 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022856039143016427 
 Number of iterations: 61000 
 Number of values above criterion: 69 
-P-value: 0.069 
+P-value: 0.0011311475409836065 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022775646026149135 
 Number of iterations: 61000 
 Number of values above criterion: 72 
-P-value: 0.072 
+P-value: 0.001180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02289791985043333 
 Number of iterations: 61000 
 Number of values above criterion: 67 
-P-value: 0.067 
+P-value: 0.0010983606557377049 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022795041687255817 
 Number of iterations: 61000 
 Number of values above criterion: 71 
-P-value: 0.071 
+P-value: 0.0011639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.023003723839970267 
 Number of iterations: 61000 
 Number of values above criterion: 65 
-P-value: 0.065 
+P-value: 0.0010655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02287491709192065 
 Number of iterations: 61000 
 Number of values above criterion: 71 
-P-value: 0.071 
+P-value: 0.0011639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022842274942015923 
 Number of iterations: 61000 
 Number of values above criterion: 71 
-P-value: 0.071 
+P-value: 0.0011639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02270961446712835 
 Number of iterations: 61000 
 Number of values above criterion: 75 
-P-value: 0.075 
+P-value: 0.0012295081967213116 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022776912448055096 
 Number of iterations: 61000 
 Number of values above criterion: 73 
-P-value: 0.073 
+P-value: 0.00119672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022620705975368974 
 Number of iterations: 61000 
 Number of values above criterion: 74 
-P-value: 0.074 
+P-value: 0.0012131147540983607 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.023019264183434484 
 Number of iterations: 61000 
 Number of values above criterion: 65 
-P-value: 0.065 
+P-value: 0.0010655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02276505812072269 
 Number of iterations: 61000 
 Number of values above criterion: 72 
-P-value: 0.072 
+P-value: 0.001180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022968960481437248 
 Number of iterations: 61000 
 Number of values above criterion: 65 
-P-value: 0.065 
+P-value: 0.0010655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02300897507408761 
 Number of iterations: 61000 
 Number of values above criterion: 62 
-P-value: 0.062 
+P-value: 0.0010163934426229509 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02287666788450432 
 Number of iterations: 61000 
 Number of values above criterion: 67 
-P-value: 0.067 
+P-value: 0.0010983606557377049 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022782967880927495 
 Number of iterations: 61000 
 Number of values above criterion: 70 
-P-value: 0.07 
+P-value: 0.0011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02303602446685561 
 Number of iterations: 61000 
 Number of values above criterion: 65 
-P-value: 0.065 
+P-value: 0.0010655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022939298718131943 
 Number of iterations: 61000 
 Number of values above criterion: 66 
-P-value: 0.066 
+P-value: 0.001081967213114754 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.022905744956604822 
 Number of iterations: 61000 
 Number of values above criterion: 70 
-P-value: 0.07 
+P-value: 0.0011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.08623527198002244 
@@ -3003,301 +3003,301 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.02422299677649575 
 Number of iterations: 61000 
 Number of values above criterion: 38 
-P-value: 0.038 
+P-value: 0.0006229508196721311 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02417859123267052 
 Number of iterations: 61000 
 Number of values above criterion: 38 
-P-value: 0.038 
+P-value: 0.0006229508196721311 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024308404364027484 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02402273890534906 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02429464101310323 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024174862649664636 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024232270623308527 
 Number of iterations: 61000 
 Number of values above criterion: 39 
-P-value: 0.039 
+P-value: 0.0006393442622950819 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024366612624915036 
 Number of iterations: 61000 
 Number of values above criterion: 34 
-P-value: 0.034 
+P-value: 0.0005573770491803278 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024399941905486708 
 Number of iterations: 61000 
 Number of values above criterion: 33 
-P-value: 0.033 
+P-value: 0.000540983606557377 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024413026279056158 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024372376951319708 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024245808640993335 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024211278293360377 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02435041878986229 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024265314912626592 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024475184539344767 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02439534881547875 
 Number of iterations: 61000 
 Number of values above criterion: 34 
-P-value: 0.034 
+P-value: 0.0005573770491803278 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024077938434328292 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024207918860985157 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024280725827378544 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024215907563286992 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02414423499777333 
 Number of iterations: 61000 
 Number of values above criterion: 38 
-P-value: 0.038 
+P-value: 0.0006229508196721311 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02424709443157553 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024502792095744047 
 Number of iterations: 61000 
 Number of values above criterion: 33 
-P-value: 0.033 
+P-value: 0.000540983606557377 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02418725423483847 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024369516997102027 
 Number of iterations: 61000 
 Number of values above criterion: 34 
-P-value: 0.034 
+P-value: 0.0005573770491803278 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024285736460720415 
 Number of iterations: 61000 
 Number of values above criterion: 38 
-P-value: 0.038 
+P-value: 0.0006229508196721311 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024107050817599823 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02407477173283511 
 Number of iterations: 61000 
 Number of values above criterion: 40 
-P-value: 0.04 
+P-value: 0.0006557377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02426242690336763 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024588898570260916 
 Number of iterations: 61000 
 Number of values above criterion: 34 
-P-value: 0.034 
+P-value: 0.0005573770491803278 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024261509335572758 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024359618686710213 
 Number of iterations: 61000 
 Number of values above criterion: 34 
-P-value: 0.034 
+P-value: 0.0005573770491803278 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0243955111357197 
 Number of iterations: 61000 
 Number of values above criterion: 35 
-P-value: 0.035 
+P-value: 0.0005737704918032787 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02420698234758054 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02446991657068874 
 Number of iterations: 61000 
 Number of values above criterion: 34 
-P-value: 0.034 
+P-value: 0.0005573770491803278 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02425112697540434 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02409896136394211 
 Number of iterations: 61000 
 Number of values above criterion: 42 
-P-value: 0.042 
+P-value: 0.0006885245901639345 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02418120976854658 
 Number of iterations: 61000 
 Number of values above criterion: 39 
-P-value: 0.039 
+P-value: 0.0006393442622950819 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024245090314620025 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02418130908243835 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02409669336033804 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02434948951413189 
 Number of iterations: 61000 
 Number of values above criterion: 35 
-P-value: 0.035 
+P-value: 0.0005737704918032787 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024021263776188614 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024508236599208217 
 Number of iterations: 61000 
 Number of values above criterion: 34 
-P-value: 0.034 
+P-value: 0.0005573770491803278 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024371361581779546 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024112446507304968 
 Number of iterations: 61000 
 Number of values above criterion: 41 
-P-value: 0.041 
+P-value: 0.0006721311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02431773912758908 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.024336778711192362 
 Number of iterations: 61000 
 Number of values above criterion: 37 
-P-value: 0.037 
+P-value: 0.0006065573770491804 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02426590590609374 
 Number of iterations: 61000 
 Number of values above criterion: 36 
-P-value: 0.036 
+P-value: 0.0005901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.056384302030161905 
@@ -8703,301 +8703,301 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.02693794623344929 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026629225010034608 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02690525114805546 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02665517889007786 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026858523438733507 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026863945757682126 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026681545204496705 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026924221237107606 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026796635818052326 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026751304993506232 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026779244361382994 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026665091462057644 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02676083856343941 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026606691263398707 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026816546558010017 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026781076628797813 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02673120729110767 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026779983561746067 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02663158195787704 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.027169331828263563 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02663390811108024 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026767325854646626 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02680191790401432 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0270339891930463 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026657791912834565 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026652465101158276 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026615426622265265 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02663410285424606 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02673072246587321 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02688145416028719 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026696974998691364 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02678708555147264 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026921933987997443 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026592496424083397 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02670185903441737 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02669035862042449 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026804870149542394 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02658033214346654 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026731267793760238 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0267776956682489 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026830256410406133 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026740311607357018 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026985183392616498 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02690980460199628 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02657721217000377 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026774286289097393 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026697442770651777 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026756534433617883 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02681144743173848 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.026925453914600873 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0989048695649194 
@@ -9903,301 +9903,301 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): -0.027979937907867538 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02765150620495122 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027903653209809358 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027791975155677474 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02785365302064164 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027880419964916595 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.028105267616981792 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.028011434904207627 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.028024706461955363 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027884670213894628 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02779509940274552 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027724512033716286 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027820720094308967 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027820204217641496 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027883043770376727 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.028090342645393687 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027832841839463492 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027870085273466762 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027993575902224028 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027968870685718773 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027914991340210086 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02786168846668242 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02791782464225365 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02768407464787976 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02769890896266826 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02791241096841305 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.028061438516679294 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0279849280329159 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027706861990737713 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02796511174136271 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02813062260079505 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02777261163670941 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02784038590417545 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027944891221098098 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027775334875922448 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027606069979037823 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02765204824419507 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02797145155173986 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027825872887021357 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027971729142555628 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027988033400074337 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027710215658798724 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.028038241469662106 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.028118288275592096 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02804168648929945 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02784677926053355 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02803982113010718 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027890460290535758 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027984434346007333 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.027900887866519664 
 Number of iterations: 61000 
 Number of values above criterion: 4 
-P-value: 0.004 
+P-value: 6.557377049180328e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.056240652627436646 
@@ -10503,301 +10503,301 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): -0.020674830910594903 
 Number of iterations: 61000 
 Number of values above criterion: 156 
-P-value: 0.156 
+P-value: 0.0025573770491803278 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020324893211479036 
 Number of iterations: 61000 
 Number of values above criterion: 184 
-P-value: 0.184 
+P-value: 0.003016393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020284906423145295 
 Number of iterations: 61000 
 Number of values above criterion: 187 
-P-value: 0.187 
+P-value: 0.0030655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02045219848967422 
 Number of iterations: 61000 
 Number of values above criterion: 178 
-P-value: 0.178 
+P-value: 0.002918032786885246 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020650648526571714 
 Number of iterations: 61000 
 Number of values above criterion: 160 
-P-value: 0.16 
+P-value: 0.002622950819672131 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02043919609447292 
 Number of iterations: 61000 
 Number of values above criterion: 180 
-P-value: 0.18 
+P-value: 0.0029508196721311475 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020438786189732078 
 Number of iterations: 61000 
 Number of values above criterion: 176 
-P-value: 0.176 
+P-value: 0.002885245901639344 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020541150179319935 
 Number of iterations: 61000 
 Number of values above criterion: 173 
-P-value: 0.173 
+P-value: 0.0028360655737704916 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02046194128965848 
 Number of iterations: 61000 
 Number of values above criterion: 174 
-P-value: 0.174 
+P-value: 0.0028524590163934425 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020279143820317144 
 Number of iterations: 61000 
 Number of values above criterion: 188 
-P-value: 0.188 
+P-value: 0.0030819672131147543 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02044631607672799 
 Number of iterations: 61000 
 Number of values above criterion: 183 
-P-value: 0.183 
+P-value: 0.003 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02045418863849844 
 Number of iterations: 61000 
 Number of values above criterion: 171 
-P-value: 0.171 
+P-value: 0.00280327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020387344284241316 
 Number of iterations: 61000 
 Number of values above criterion: 184 
-P-value: 0.184 
+P-value: 0.003016393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020365143383164117 
 Number of iterations: 61000 
 Number of values above criterion: 182 
-P-value: 0.182 
+P-value: 0.0029836065573770492 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020428803474137818 
 Number of iterations: 61000 
 Number of values above criterion: 181 
-P-value: 0.181 
+P-value: 0.0029672131147540984 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020722956347955967 
 Number of iterations: 61000 
 Number of values above criterion: 157 
-P-value: 0.157 
+P-value: 0.0025737704918032786 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020379189387772393 
 Number of iterations: 61000 
 Number of values above criterion: 182 
-P-value: 0.182 
+P-value: 0.0029836065573770492 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020354920474215575 
 Number of iterations: 61000 
 Number of values above criterion: 184 
-P-value: 0.184 
+P-value: 0.003016393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020392117187231003 
 Number of iterations: 61000 
 Number of values above criterion: 180 
-P-value: 0.18 
+P-value: 0.0029508196721311475 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020499942845738185 
 Number of iterations: 61000 
 Number of values above criterion: 178 
-P-value: 0.178 
+P-value: 0.002918032786885246 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02053557277665347 
 Number of iterations: 61000 
 Number of values above criterion: 170 
-P-value: 0.17 
+P-value: 0.0027868852459016396 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02066687439373589 
 Number of iterations: 61000 
 Number of values above criterion: 161 
-P-value: 0.161 
+P-value: 0.002639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02037986530033219 
 Number of iterations: 61000 
 Number of values above criterion: 181 
-P-value: 0.181 
+P-value: 0.0029672131147540984 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020336903194577937 
 Number of iterations: 61000 
 Number of values above criterion: 181 
-P-value: 0.181 
+P-value: 0.0029672131147540984 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020266036372611297 
 Number of iterations: 61000 
 Number of values above criterion: 192 
-P-value: 0.192 
+P-value: 0.003147540983606557 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020469262999411406 
 Number of iterations: 61000 
 Number of values above criterion: 177 
-P-value: 0.177 
+P-value: 0.002901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020564701352320896 
 Number of iterations: 61000 
 Number of values above criterion: 169 
-P-value: 0.169 
+P-value: 0.0027704918032786887 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020145945087669568 
 Number of iterations: 61000 
 Number of values above criterion: 198 
-P-value: 0.198 
+P-value: 0.0032459016393442622 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020285599273015674 
 Number of iterations: 61000 
 Number of values above criterion: 188 
-P-value: 0.188 
+P-value: 0.0030819672131147543 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020427050069242246 
 Number of iterations: 61000 
 Number of values above criterion: 179 
-P-value: 0.179 
+P-value: 0.0029344262295081967 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020756988579237638 
 Number of iterations: 61000 
 Number of values above criterion: 154 
-P-value: 0.154 
+P-value: 0.002524590163934426 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02025992009636968 
 Number of iterations: 61000 
 Number of values above criterion: 187 
-P-value: 0.187 
+P-value: 0.0030655737704918034 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0203715079971229 
 Number of iterations: 61000 
 Number of values above criterion: 179 
-P-value: 0.179 
+P-value: 0.0029344262295081967 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020370423753876044 
 Number of iterations: 61000 
 Number of values above criterion: 182 
-P-value: 0.182 
+P-value: 0.0029836065573770492 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020440225555035555 
 Number of iterations: 61000 
 Number of values above criterion: 177 
-P-value: 0.177 
+P-value: 0.002901639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020487958505629046 
 Number of iterations: 61000 
 Number of values above criterion: 176 
-P-value: 0.176 
+P-value: 0.002885245901639344 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020312372685267015 
 Number of iterations: 61000 
 Number of values above criterion: 185 
-P-value: 0.185 
+P-value: 0.0030327868852459017 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020549071408693022 
 Number of iterations: 61000 
 Number of values above criterion: 168 
-P-value: 0.168 
+P-value: 0.002754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020283928894281985 
 Number of iterations: 61000 
 Number of values above criterion: 185 
-P-value: 0.185 
+P-value: 0.0030327868852459017 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020352929655927124 
 Number of iterations: 61000 
 Number of values above criterion: 184 
-P-value: 0.184 
+P-value: 0.003016393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02049209122899013 
 Number of iterations: 61000 
 Number of values above criterion: 173 
-P-value: 0.173 
+P-value: 0.0028360655737704916 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02033646736595186 
 Number of iterations: 61000 
 Number of values above criterion: 186 
-P-value: 0.186 
+P-value: 0.0030491803278688526 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02061158668663487 
 Number of iterations: 61000 
 Number of values above criterion: 166 
-P-value: 0.166 
+P-value: 0.002721311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020628148085669196 
 Number of iterations: 61000 
 Number of values above criterion: 165 
-P-value: 0.165 
+P-value: 0.0027049180327868854 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020485003691739532 
 Number of iterations: 61000 
 Number of values above criterion: 174 
-P-value: 0.174 
+P-value: 0.0028524590163934425 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020318263899366897 
 Number of iterations: 61000 
 Number of values above criterion: 190 
-P-value: 0.19 
+P-value: 0.003114754098360656 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020504191451058827 
 Number of iterations: 61000 
 Number of values above criterion: 169 
-P-value: 0.169 
+P-value: 0.0027704918032786887 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02043670352855525 
 Number of iterations: 61000 
 Number of values above criterion: 180 
-P-value: 0.18 
+P-value: 0.0029508196721311475 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020521076629103064 
 Number of iterations: 61000 
 Number of values above criterion: 176 
-P-value: 0.176 
+P-value: 0.002885245901639344 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.020530583363459268 
 Number of iterations: 61000 
 Number of values above criterion: 167 
-P-value: 0.167 
+P-value: 0.002737704918032787 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0617602001313267 
@@ -13203,25 +13203,25 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.034986269854688105 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03508481567544082 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03537141059042991 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03528911325795021 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03549953868078948 
@@ -13233,73 +13233,73 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.03527790492501685 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035037669371106236 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035243245553172056 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03516056644226614 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.034993756150807825 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03531863998727277 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03528463379671269 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035286240058059165 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03514016830305075 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035251332078845905 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035202476473848575 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03527892394925222 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03544789544319126 
@@ -13311,19 +13311,19 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.035295719538653535 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035381033457407014 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035255881774314976 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03563194070929586 
@@ -13335,49 +13335,49 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.03516233889657558 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035172740571845294 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0352173660516658 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03515964116265472 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03532114550261417 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03491038719637813 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03512894906303378 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03521081900660259 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03557031675210503 
@@ -13389,415 +13389,415 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.03490491410227788 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0351680797436684 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03532840645015391 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03533387022157897 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03519671048938607 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03526858317219374 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03498424163887323 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03536307889121363 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03518676780405343 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03510793738592214 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03513693691778041 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03532769872719342 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035296590984422054 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03533787838661169 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035148554772452885 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03530093033581091 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0352274203016754 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.03545728351648972 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.035246331298351925 
 Number of iterations: 61000 
 Number of values above criterion: 1 
-P-value: 0.001 
+P-value: 1.639344262295082e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02889799868240301 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02918624781151794 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029119931295402808 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029148411666124637 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02884197331788279 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028948912105546704 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02904745575458125 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02905775361499819 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02917764211761653 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02892072295105192 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02897388779531777 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029009850082279753 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02890783735875335 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02896044694105139 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029030331706701343 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028932272974024877 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02915336364052168 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02892065631689368 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029154957650009108 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029161848013343025 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02903552732040282 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0291918675662877 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029074858083662804 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028852552649151673 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028899835715352234 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029112467248012266 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028983996517643343 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02901609684097441 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02898709663857675 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029091162038693157 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02898349554682265 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029049206354502845 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029063803151055573 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02904301477446058 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028959752839630506 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028953735658984247 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029072237712476655 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028916694877163397 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02891745376500461 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0290375809287656 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029021629926823805 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029138221977807872 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028905750324539493 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0289768821630918 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029046342685385064 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029132769786712136 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029105974252267106 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.029160594912976276 
 Number of iterations: 61000 
 Number of values above criterion: 5 
-P-value: 0.005 
+P-value: 8.19672131147541e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.028999468539648035 
 Number of iterations: 61000 
 Number of values above criterion: 6 
-P-value: 0.006 
+P-value: 9.836065573770491e-05 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.02905272327782664 
 Number of iterations: 61000 
 Number of values above criterion: 7 
-P-value: 0.007 
+P-value: 0.00011475409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0665503902251131 
@@ -15303,601 +15303,601 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): -0.02586451662178824 
 Number of iterations: 61000 
 Number of values above criterion: 14 
-P-value: 0.014 
+P-value: 0.00022950819672131148 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026628740891749214 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02645650021864126 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026044588227442003 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026253322256674066 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026263180443154746 
 Number of iterations: 61000 
 Number of values above criterion: 11 
-P-value: 0.011 
+P-value: 0.000180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02624171751198726 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026399129799491494 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02644087414612123 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02609686852633982 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0264971962066937 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026508671437353158 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02640349899373222 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02633008539956694 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026362812110409684 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0265740784658239 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026261354719617044 
 Number of iterations: 61000 
 Number of values above criterion: 11 
-P-value: 0.011 
+P-value: 0.000180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026129035461280602 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02626362979681713 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02646058656735701 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026341661005668832 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02650682509306824 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02631341322283207 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026302622788069357 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026368539192119976 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026390595321025685 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02636932406635544 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026419559100375904 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026268802456732132 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026482171555223578 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026147386193471046 
 Number of iterations: 61000 
 Number of values above criterion: 11 
-P-value: 0.011 
+P-value: 0.000180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02629907618463191 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026443813293882217 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02632886386940684 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02621084154270267 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026270698055247683 
 Number of iterations: 61000 
 Number of values above criterion: 11 
-P-value: 0.011 
+P-value: 0.000180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026402736910591945 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026256133321284427 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02642253238119527 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02626368881083 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026530539318058353 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026345932729296646 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026387954487592225 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026310128901510844 
 Number of iterations: 61000 
 Number of values above criterion: 9 
-P-value: 0.009 
+P-value: 0.00014754098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02610710580930506 
 Number of iterations: 61000 
 Number of values above criterion: 11 
-P-value: 0.011 
+P-value: 0.000180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026495081199694185 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02638006178090269 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026237262870454435 
 Number of iterations: 61000 
 Number of values above criterion: 11 
-P-value: 0.011 
+P-value: 0.000180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.026352834035464838 
 Number of iterations: 61000 
 Number of values above criterion: 8 
-P-value: 0.008 
+P-value: 0.00013114754098360657 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.02618463841872401 
 Number of iterations: 61000 
 Number of values above criterion: 10 
-P-value: 0.01 
+P-value: 0.0001639344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008792253408326865 
 Number of iterations: 61000 
 Number of values above criterion: 7287 
-P-value: 7.287 
+P-value: 0.11945901639344263 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008701684024011558 
 Number of iterations: 61000 
 Number of values above criterion: 7430 
-P-value: 7.43 
+P-value: 0.12180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008651869494184299 
 Number of iterations: 61000 
 Number of values above criterion: 7481 
-P-value: 7.481 
+P-value: 0.12263934426229509 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009151439243049357 
 Number of iterations: 61000 
 Number of values above criterion: 6702 
-P-value: 6.702 
+P-value: 0.1098688524590164 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008948758666010654 
 Number of iterations: 61000 
 Number of values above criterion: 7014 
-P-value: 7.014 
+P-value: 0.11498360655737705 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009056594366705641 
 Number of iterations: 61000 
 Number of values above criterion: 6857 
-P-value: 6.857 
+P-value: 0.11240983606557377 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008900369792476496 
 Number of iterations: 61000 
 Number of values above criterion: 7110 
-P-value: 7.11 
+P-value: 0.11655737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008892505234087906 
 Number of iterations: 61000 
 Number of values above criterion: 7119 
-P-value: 7.119 
+P-value: 0.11670491803278689 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008949011326879395 
 Number of iterations: 61000 
 Number of values above criterion: 7030 
-P-value: 7.03 
+P-value: 0.11524590163934426 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009081422137869949 
 Number of iterations: 61000 
 Number of values above criterion: 6828 
-P-value: 6.828 
+P-value: 0.1119344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.00908319771829492 
 Number of iterations: 61000 
 Number of values above criterion: 6819 
-P-value: 6.819 
+P-value: 0.11178688524590163 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008701294411038252 
 Number of iterations: 61000 
 Number of values above criterion: 7414 
-P-value: 7.414 
+P-value: 0.12154098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008945361819646537 
 Number of iterations: 61000 
 Number of values above criterion: 7040 
-P-value: 7.04 
+P-value: 0.11540983606557377 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008986565990657544 
 Number of iterations: 61000 
 Number of values above criterion: 6968 
-P-value: 6.968 
+P-value: 0.11422950819672131 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008872335886897769 
 Number of iterations: 61000 
 Number of values above criterion: 7153 
-P-value: 7.153 
+P-value: 0.11726229508196721 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009084439600375204 
 Number of iterations: 61000 
 Number of values above criterion: 6810 
-P-value: 6.81 
+P-value: 0.11163934426229508 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008834100983777841 
 Number of iterations: 61000 
 Number of values above criterion: 7208 
-P-value: 7.208 
+P-value: 0.11816393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008572375939638475 
 Number of iterations: 61000 
 Number of values above criterion: 7590 
-P-value: 7.59 
+P-value: 0.12442622950819672 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008938472328598339 
 Number of iterations: 61000 
 Number of values above criterion: 7041 
-P-value: 7.041 
+P-value: 0.11542622950819673 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.00887177122250765 
 Number of iterations: 61000 
 Number of values above criterion: 7147 
-P-value: 7.147 
+P-value: 0.11716393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008805971711371928 
 Number of iterations: 61000 
 Number of values above criterion: 7261 
-P-value: 7.261 
+P-value: 0.1190327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008938640792831918 
 Number of iterations: 61000 
 Number of values above criterion: 7049 
-P-value: 7.049 
+P-value: 0.11555737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008884281842272976 
 Number of iterations: 61000 
 Number of values above criterion: 7126 
-P-value: 7.126 
+P-value: 0.11681967213114754 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009141389794251442 
 Number of iterations: 61000 
 Number of values above criterion: 6728 
-P-value: 6.728 
+P-value: 0.11029508196721312 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008742286263939972 
 Number of iterations: 61000 
 Number of values above criterion: 7340 
-P-value: 7.34 
+P-value: 0.12032786885245901 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009100956020100567 
 Number of iterations: 61000 
 Number of values above criterion: 6784 
-P-value: 6.784 
+P-value: 0.11121311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008860653433853902 
 Number of iterations: 61000 
 Number of values above criterion: 7172 
-P-value: 7.172 
+P-value: 0.11757377049180327 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009030666545075344 
 Number of iterations: 61000 
 Number of values above criterion: 6912 
-P-value: 6.912 
+P-value: 0.11331147540983606 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.00897993634710407 
 Number of iterations: 61000 
 Number of values above criterion: 6977 
-P-value: 6.977 
+P-value: 0.11437704918032787 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008898078522712523 
 Number of iterations: 61000 
 Number of values above criterion: 7110 
-P-value: 7.11 
+P-value: 0.11655737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009090514822338996 
 Number of iterations: 61000 
 Number of values above criterion: 6797 
-P-value: 6.797 
+P-value: 0.11142622950819672 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008838689848152047 
 Number of iterations: 61000 
 Number of values above criterion: 7186 
-P-value: 7.186 
+P-value: 0.1178032786885246 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008989681573560681 
 Number of iterations: 61000 
 Number of values above criterion: 6967 
-P-value: 6.967 
+P-value: 0.11421311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008817781405345218 
 Number of iterations: 61000 
 Number of values above criterion: 7222 
-P-value: 7.222 
+P-value: 0.11839344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008929819089428458 
 Number of iterations: 61000 
 Number of values above criterion: 7054 
-P-value: 7.054 
+P-value: 0.11563934426229508 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008897342595807224 
 Number of iterations: 61000 
 Number of values above criterion: 7117 
-P-value: 7.117 
+P-value: 0.11667213114754098 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008842485056137153 
 Number of iterations: 61000 
 Number of values above criterion: 7185 
-P-value: 7.185 
+P-value: 0.11778688524590164 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008885227646887534 
 Number of iterations: 61000 
 Number of values above criterion: 7108 
-P-value: 7.108 
+P-value: 0.11652459016393443 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008963349775674163 
 Number of iterations: 61000 
 Number of values above criterion: 6994 
-P-value: 6.994 
+P-value: 0.11465573770491803 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008978743689194152 
 Number of iterations: 61000 
 Number of values above criterion: 6988 
-P-value: 6.988 
+P-value: 0.11455737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008867242094404542 
 Number of iterations: 61000 
 Number of values above criterion: 7152 
-P-value: 7.152 
+P-value: 0.11724590163934426 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008700824278135913 
 Number of iterations: 61000 
 Number of values above criterion: 7418 
-P-value: 7.418 
+P-value: 0.12160655737704917 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008284291053903032 
 Number of iterations: 61000 
 Number of values above criterion: 8077 
-P-value: 8.077 
+P-value: 0.13240983606557377 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008982256191904696 
 Number of iterations: 61000 
 Number of values above criterion: 6967 
-P-value: 6.967 
+P-value: 0.11421311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008797498669232096 
 Number of iterations: 61000 
 Number of values above criterion: 7261 
-P-value: 7.261 
+P-value: 0.1190327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008679244566253009 
 Number of iterations: 61000 
 Number of values above criterion: 7468 
-P-value: 7.468 
+P-value: 0.12242622950819672 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009054155103082176 
 Number of iterations: 61000 
 Number of values above criterion: 6884 
-P-value: 6.884 
+P-value: 0.11285245901639344 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008766727231698584 
 Number of iterations: 61000 
 Number of values above criterion: 7313 
-P-value: 7.313 
+P-value: 0.11988524590163935 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.009100635850299806 
 Number of iterations: 61000 
 Number of values above criterion: 6773 
-P-value: 6.773 
+P-value: 0.1110327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.008648596973300466 
 Number of iterations: 61000 
 Number of values above criterion: 7477 
-P-value: 7.477 
+P-value: 0.12257377049180328 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.04129776075871275 
@@ -16203,301 +16203,301 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.012153067295444324 
 Number of iterations: 61000 
 Number of values above criterion: 3145 
-P-value: 3.145 
+P-value: 0.05155737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012247458970896958 
 Number of iterations: 61000 
 Number of values above criterion: 3057 
-P-value: 3.057 
+P-value: 0.05011475409836066 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.01203166639674867 
 Number of iterations: 61000 
 Number of values above criterion: 3265 
-P-value: 3.265 
+P-value: 0.053524590163934425 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.01212869079333093 
 Number of iterations: 61000 
 Number of values above criterion: 3187 
-P-value: 3.187 
+P-value: 0.05224590163934426 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012234426463036475 
 Number of iterations: 61000 
 Number of values above criterion: 3071 
-P-value: 3.071 
+P-value: 0.05034426229508197 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012136372211543105 
 Number of iterations: 61000 
 Number of values above criterion: 3160 
-P-value: 3.16 
+P-value: 0.05180327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012061235488684534 
 Number of iterations: 61000 
 Number of values above criterion: 3220 
-P-value: 3.22 
+P-value: 0.05278688524590164 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011990008400663514 
 Number of iterations: 61000 
 Number of values above criterion: 3307 
-P-value: 3.307 
+P-value: 0.05421311475409836 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012321023374681333 
 Number of iterations: 61000 
 Number of values above criterion: 2984 
-P-value: 2.984 
+P-value: 0.048918032786885245 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012151227468968417 
 Number of iterations: 61000 
 Number of values above criterion: 3145 
-P-value: 3.145 
+P-value: 0.05155737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.01251391815716679 
 Number of iterations: 61000 
 Number of values above criterion: 2834 
-P-value: 2.834 
+P-value: 0.046459016393442625 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012208716017670552 
 Number of iterations: 61000 
 Number of values above criterion: 3099 
-P-value: 3.099 
+P-value: 0.05080327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012061848107670496 
 Number of iterations: 61000 
 Number of values above criterion: 3226 
-P-value: 3.226 
+P-value: 0.052885245901639344 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012276666594603919 
 Number of iterations: 61000 
 Number of values above criterion: 3038 
-P-value: 3.038 
+P-value: 0.04980327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012129273081481633 
 Number of iterations: 61000 
 Number of values above criterion: 3170 
-P-value: 3.17 
+P-value: 0.0519672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012270561662595462 
 Number of iterations: 61000 
 Number of values above criterion: 3055 
-P-value: 3.055 
+P-value: 0.05008196721311475 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012027530157462232 
 Number of iterations: 61000 
 Number of values above criterion: 3248 
-P-value: 3.248 
+P-value: 0.05324590163934426 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011993899419252808 
 Number of iterations: 61000 
 Number of values above criterion: 3304 
-P-value: 3.304 
+P-value: 0.05416393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012182066161903737 
 Number of iterations: 61000 
 Number of values above criterion: 3125 
-P-value: 3.125 
+P-value: 0.05122950819672131 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011829960333621388 
 Number of iterations: 61000 
 Number of values above criterion: 3456 
-P-value: 3.456 
+P-value: 0.05665573770491803 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012027859077657268 
 Number of iterations: 61000 
 Number of values above criterion: 3250 
-P-value: 3.25 
+P-value: 0.05327868852459016 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012089930744918351 
 Number of iterations: 61000 
 Number of values above criterion: 3203 
-P-value: 3.203 
+P-value: 0.052508196721311476 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012110568225403578 
 Number of iterations: 61000 
 Number of values above criterion: 3169 
-P-value: 3.169 
+P-value: 0.051950819672131145 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012536833437639896 
 Number of iterations: 61000 
 Number of values above criterion: 2806 
-P-value: 2.806 
+P-value: 0.046 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012135665474926166 
 Number of iterations: 61000 
 Number of values above criterion: 3172 
-P-value: 3.172 
+P-value: 0.052 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011840882100508068 
 Number of iterations: 61000 
 Number of values above criterion: 3437 
-P-value: 3.437 
+P-value: 0.056344262295081965 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012399974006947001 
 Number of iterations: 61000 
 Number of values above criterion: 2936 
-P-value: 2.936 
+P-value: 0.048131147540983604 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011988025290906014 
 Number of iterations: 61000 
 Number of values above criterion: 3301 
-P-value: 3.301 
+P-value: 0.054114754098360654 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012079446038505193 
 Number of iterations: 61000 
 Number of values above criterion: 3211 
-P-value: 3.211 
+P-value: 0.05263934426229508 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012118175403178676 
 Number of iterations: 61000 
 Number of values above criterion: 3188 
-P-value: 3.188 
+P-value: 0.05226229508196721 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011924670767406017 
 Number of iterations: 61000 
 Number of values above criterion: 3361 
-P-value: 3.361 
+P-value: 0.055098360655737706 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.01234824150399013 
 Number of iterations: 61000 
 Number of values above criterion: 2972 
-P-value: 2.972 
+P-value: 0.04872131147540983 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012089561371571536 
 Number of iterations: 61000 
 Number of values above criterion: 3196 
-P-value: 3.196 
+P-value: 0.05239344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011931526031042103 
 Number of iterations: 61000 
 Number of values above criterion: 3340 
-P-value: 3.34 
+P-value: 0.054754098360655735 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012494402060682794 
 Number of iterations: 61000 
 Number of values above criterion: 2839 
-P-value: 2.839 
+P-value: 0.046540983606557375 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011783686586404711 
 Number of iterations: 61000 
 Number of values above criterion: 3487 
-P-value: 3.487 
+P-value: 0.05716393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012309282513495091 
 Number of iterations: 61000 
 Number of values above criterion: 3012 
-P-value: 3.012 
+P-value: 0.04937704918032787 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0122606194755884 
 Number of iterations: 61000 
 Number of values above criterion: 3046 
-P-value: 3.046 
+P-value: 0.049934426229508194 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012150423324602115 
 Number of iterations: 61000 
 Number of values above criterion: 3142 
-P-value: 3.142 
+P-value: 0.051508196721311475 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012021782190792257 
 Number of iterations: 61000 
 Number of values above criterion: 3251 
-P-value: 3.251 
+P-value: 0.053295081967213116 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012125483049551074 
 Number of iterations: 61000 
 Number of values above criterion: 3173 
-P-value: 3.173 
+P-value: 0.05201639344262295 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012335260797988851 
 Number of iterations: 61000 
 Number of values above criterion: 2996 
-P-value: 2.996 
+P-value: 0.049114754098360656 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011833699120531262 
 Number of iterations: 61000 
 Number of values above criterion: 3437 
-P-value: 3.437 
+P-value: 0.056344262295081965 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012252379439839974 
 Number of iterations: 61000 
 Number of values above criterion: 3065 
-P-value: 3.065 
+P-value: 0.05024590163934426 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011779206146982723 
 Number of iterations: 61000 
 Number of values above criterion: 3513 
-P-value: 3.513 
+P-value: 0.05759016393442623 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012035727140398229 
 Number of iterations: 61000 
 Number of values above criterion: 3239 
-P-value: 3.239 
+P-value: 0.053098360655737704 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012201841029070307 
 Number of iterations: 61000 
 Number of values above criterion: 3105 
-P-value: 3.105 
+P-value: 0.0509016393442623 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.012131664309522054 
 Number of iterations: 61000 
 Number of values above criterion: 3157 
-P-value: 3.157 
+P-value: 0.05175409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011769167680420897 
 Number of iterations: 61000 
 Number of values above criterion: 3505 
-P-value: 3.505 
+P-value: 0.05745901639344262 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.011802379665117836 
 Number of iterations: 61000 
 Number of values above criterion: 3473 
-P-value: 3.473 
+P-value: 0.056934426229508193 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.04272652665152454 
@@ -17403,301 +17403,301 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): -0.012382258204772572 
 Number of iterations: 61000 
 Number of values above criterion: 3015 
-P-value: 3.015 
+P-value: 0.04942622950819672 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012513028847255513 
 Number of iterations: 61000 
 Number of values above criterion: 2895 
-P-value: 2.895 
+P-value: 0.047459016393442625 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012447226618362374 
 Number of iterations: 61000 
 Number of values above criterion: 2969 
-P-value: 2.969 
+P-value: 0.04867213114754099 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01244550774677142 
 Number of iterations: 61000 
 Number of values above criterion: 2969 
-P-value: 2.969 
+P-value: 0.04867213114754099 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012588714178276459 
 Number of iterations: 61000 
 Number of values above criterion: 2842 
-P-value: 2.842 
+P-value: 0.04659016393442623 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012557888701466525 
 Number of iterations: 61000 
 Number of values above criterion: 2877 
-P-value: 2.877 
+P-value: 0.04716393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012419512462964143 
 Number of iterations: 61000 
 Number of values above criterion: 2986 
-P-value: 2.986 
+P-value: 0.04895081967213115 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012416062960773971 
 Number of iterations: 61000 
 Number of values above criterion: 2995 
-P-value: 2.995 
+P-value: 0.04909836065573771 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012414664622905946 
 Number of iterations: 61000 
 Number of values above criterion: 2980 
-P-value: 2.98 
+P-value: 0.04885245901639344 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012330019026875106 
 Number of iterations: 61000 
 Number of values above criterion: 3082 
-P-value: 3.082 
+P-value: 0.05052459016393443 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012547538435096373 
 Number of iterations: 61000 
 Number of values above criterion: 2895 
-P-value: 2.895 
+P-value: 0.047459016393442625 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012478083417302966 
 Number of iterations: 61000 
 Number of values above criterion: 2934 
-P-value: 2.934 
+P-value: 0.04809836065573771 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012548726830386438 
 Number of iterations: 61000 
 Number of values above criterion: 2887 
-P-value: 2.887 
+P-value: 0.047327868852459015 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01237305927584986 
 Number of iterations: 61000 
 Number of values above criterion: 3020 
-P-value: 3.02 
+P-value: 0.04950819672131147 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.0123986511002758 
 Number of iterations: 61000 
 Number of values above criterion: 2994 
-P-value: 2.994 
+P-value: 0.04908196721311475 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012620006430860147 
 Number of iterations: 61000 
 Number of values above criterion: 2816 
-P-value: 2.816 
+P-value: 0.04616393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012591177036902842 
 Number of iterations: 61000 
 Number of values above criterion: 2836 
-P-value: 2.836 
+P-value: 0.04649180327868852 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012391061278473937 
 Number of iterations: 61000 
 Number of values above criterion: 3014 
-P-value: 3.014 
+P-value: 0.04940983606557377 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01247672202133105 
 Number of iterations: 61000 
 Number of values above criterion: 2940 
-P-value: 2.94 
+P-value: 0.04819672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012718180144537313 
 Number of iterations: 61000 
 Number of values above criterion: 2743 
-P-value: 2.743 
+P-value: 0.0449672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01244243366604444 
 Number of iterations: 61000 
 Number of values above criterion: 2961 
-P-value: 2.961 
+P-value: 0.04854098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012732300734875315 
 Number of iterations: 61000 
 Number of values above criterion: 2729 
-P-value: 2.729 
+P-value: 0.044737704918032785 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012598263664052518 
 Number of iterations: 61000 
 Number of values above criterion: 2840 
-P-value: 2.84 
+P-value: 0.04655737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01252157589628795 
 Number of iterations: 61000 
 Number of values above criterion: 2905 
-P-value: 2.905 
+P-value: 0.04762295081967213 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012570677757997743 
 Number of iterations: 61000 
 Number of values above criterion: 2862 
-P-value: 2.862 
+P-value: 0.04691803278688524 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012514885944560468 
 Number of iterations: 61000 
 Number of values above criterion: 2899 
-P-value: 2.899 
+P-value: 0.04752459016393443 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01240390524432969 
 Number of iterations: 61000 
 Number of values above criterion: 2988 
-P-value: 2.988 
+P-value: 0.048983606557377046 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012426446196763462 
 Number of iterations: 61000 
 Number of values above criterion: 2999 
-P-value: 2.999 
+P-value: 0.04916393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01266584554446725 
 Number of iterations: 61000 
 Number of values above criterion: 2783 
-P-value: 2.783 
+P-value: 0.04562295081967213 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012309622339845717 
 Number of iterations: 61000 
 Number of values above criterion: 3088 
-P-value: 3.088 
+P-value: 0.05062295081967213 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01276173261993252 
 Number of iterations: 61000 
 Number of values above criterion: 2717 
-P-value: 2.717 
+P-value: 0.04454098360655738 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012612194542982543 
 Number of iterations: 61000 
 Number of values above criterion: 2818 
-P-value: 2.818 
+P-value: 0.04619672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012459673564093957 
 Number of iterations: 61000 
 Number of values above criterion: 2953 
-P-value: 2.953 
+P-value: 0.04840983606557377 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012392445985874348 
 Number of iterations: 61000 
 Number of values above criterion: 3001 
-P-value: 3.001 
+P-value: 0.04919672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012629025379090006 
 Number of iterations: 61000 
 Number of values above criterion: 2815 
-P-value: 2.815 
+P-value: 0.04614754098360656 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012557150873031664 
 Number of iterations: 61000 
 Number of values above criterion: 2850 
-P-value: 2.85 
+P-value: 0.04672131147540984 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01252889668695759 
 Number of iterations: 61000 
 Number of values above criterion: 2894 
-P-value: 2.894 
+P-value: 0.04744262295081967 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012629397002653888 
 Number of iterations: 61000 
 Number of values above criterion: 2823 
-P-value: 2.823 
+P-value: 0.04627868852459016 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012492355266993677 
 Number of iterations: 61000 
 Number of values above criterion: 2939 
-P-value: 2.939 
+P-value: 0.04818032786885246 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012517511741152511 
 Number of iterations: 61000 
 Number of values above criterion: 2913 
-P-value: 2.913 
+P-value: 0.047754098360655736 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01256266479994487 
 Number of iterations: 61000 
 Number of values above criterion: 2870 
-P-value: 2.87 
+P-value: 0.04704918032786885 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012493707339466482 
 Number of iterations: 61000 
 Number of values above criterion: 2919 
-P-value: 2.919 
+P-value: 0.04785245901639344 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012433691010740816 
 Number of iterations: 61000 
 Number of values above criterion: 2987 
-P-value: 2.987 
+P-value: 0.0489672131147541 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012557398619263815 
 Number of iterations: 61000 
 Number of values above criterion: 2877 
-P-value: 2.877 
+P-value: 0.04716393442622951 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012827141642617813 
 Number of iterations: 61000 
 Number of values above criterion: 2667 
-P-value: 2.667 
+P-value: 0.043721311475409835 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012460053149568634 
 Number of iterations: 61000 
 Number of values above criterion: 2960 
-P-value: 2.96 
+P-value: 0.04852459016393443 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012690131023285119 
 Number of iterations: 61000 
 Number of values above criterion: 2753 
-P-value: 2.753 
+P-value: 0.04513114754098361 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.01244342036969083 
 Number of iterations: 61000 
 Number of values above criterion: 2958 
-P-value: 2.958 
+P-value: 0.048491803278688524 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012276677332037286 
 Number of iterations: 61000 
 Number of values above criterion: 3107 
-P-value: 3.107 
+P-value: 0.050934426229508195 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.012528716641949668 
 Number of iterations: 61000 
 Number of values above criterion: 2885 
-P-value: 2.885 
+P-value: 0.04729508196721312 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): -0.3386717292645308 
@@ -18003,299 +18003,299 @@ Fluid intelligence score: Component 7 : Age
 True coefficient (criterion): 0.007670402942422761 
 Number of iterations: 61000 
 Number of values above criterion: 9169 
-P-value: 9.169 
+P-value: 0.15031147540983605 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007659093171872447 
 Number of iterations: 61000 
 Number of values above criterion: 9156 
-P-value: 9.156 
+P-value: 0.1500983606557377 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0075723343152086535 
 Number of iterations: 61000 
 Number of values above criterion: 9334 
-P-value: 9.334 
+P-value: 0.15301639344262294 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007401378225534803 
 Number of iterations: 61000 
 Number of values above criterion: 9669 
-P-value: 9.669 
+P-value: 0.15850819672131147 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007621155801272806 
 Number of iterations: 61000 
 Number of values above criterion: 9220 
-P-value: 9.22 
+P-value: 0.15114754098360655 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007759507355577392 
 Number of iterations: 61000 
 Number of values above criterion: 8970 
-P-value: 8.97 
+P-value: 0.14704918032786884 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007601396698037626 
 Number of iterations: 61000 
 Number of values above criterion: 9264 
-P-value: 9.264 
+P-value: 0.1518688524590164 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007637456999428997 
 Number of iterations: 61000 
 Number of values above criterion: 9199 
-P-value: 9.199 
+P-value: 0.15080327868852458 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007581714539342477 
 Number of iterations: 61000 
 Number of values above criterion: 9309 
-P-value: 9.309 
+P-value: 0.15260655737704917 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007751206020011415 
 Number of iterations: 61000 
 Number of values above criterion: 8970 
-P-value: 8.97 
+P-value: 0.14704918032786884 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007474820143677658 
 Number of iterations: 61000 
 Number of values above criterion: 9513 
-P-value: 9.513 
+P-value: 0.15595081967213115 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007571658865191718 
 Number of iterations: 61000 
 Number of values above criterion: 9310 
-P-value: 9.31 
+P-value: 0.15262295081967214 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007451334986654259 
 Number of iterations: 61000 
 Number of values above criterion: 9529 
-P-value: 9.529 
+P-value: 0.15621311475409835 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.00769780671150615 
 Number of iterations: 61000 
 Number of values above criterion: 9065 
-P-value: 9.065 
+P-value: 0.14860655737704917 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0077064370472515915 
 Number of iterations: 61000 
 Number of values above criterion: 9056 
-P-value: 9.056 
+P-value: 0.1484590163934426 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007747005707675266 
 Number of iterations: 61000 
 Number of values above criterion: 9013 
-P-value: 9.013 
+P-value: 0.14775409836065573 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0076347454192228475 
 Number of iterations: 61000 
 Number of values above criterion: 9204 
-P-value: 9.204 
+P-value: 0.15088524590163935 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007768801493575645 
 Number of iterations: 61000 
 Number of values above criterion: 8933 
-P-value: 8.933 
+P-value: 0.14644262295081967 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007550177323949719 
 Number of iterations: 61000 
 Number of values above criterion: 9349 
-P-value: 9.349 
+P-value: 0.1532622950819672 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007712592490684785 
 Number of iterations: 61000 
 Number of values above criterion: 9076 
-P-value: 9.076 
+P-value: 0.14878688524590164 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007822041839631678 
 Number of iterations: 61000 
 Number of values above criterion: 8873 
-P-value: 8.873 
+P-value: 0.14545901639344264 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007745760084793174 
 Number of iterations: 61000 
 Number of values above criterion: 8985 
-P-value: 8.985 
+P-value: 0.1472950819672131 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007602753931455557 
 Number of iterations: 61000 
 Number of values above criterion: 9273 
-P-value: 9.273 
+P-value: 0.15201639344262294 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007908720667994933 
 Number of iterations: 61000 
 Number of values above criterion: 8705 
-P-value: 8.705 
+P-value: 0.1427049180327869 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007746119085710409 
 Number of iterations: 61000 
 Number of values above criterion: 8995 
-P-value: 8.995 
+P-value: 0.1474590163934426 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007531426983909593 
 Number of iterations: 61000 
 Number of values above criterion: 9389 
-P-value: 9.389 
+P-value: 0.15391803278688523 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007719339789364176 
 Number of iterations: 61000 
 Number of values above criterion: 9028 
-P-value: 9.028 
+P-value: 0.148 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007456826603352187 
 Number of iterations: 61000 
 Number of values above criterion: 9559 
-P-value: 9.559 
+P-value: 0.15670491803278688 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007605243807933596 
 Number of iterations: 61000 
 Number of values above criterion: 9273 
-P-value: 9.273 
+P-value: 0.15201639344262294 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007726891419687087 
 Number of iterations: 61000 
 Number of values above criterion: 9039 
-P-value: 9.039 
+P-value: 0.14818032786885246 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007531639305127879 
 Number of iterations: 61000 
 Number of values above criterion: 9408 
-P-value: 9.408 
+P-value: 0.15422950819672132 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007841525836624315 
 Number of iterations: 61000 
 Number of values above criterion: 8814 
-P-value: 8.814 
+P-value: 0.14449180327868852 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007499467628300398 
 Number of iterations: 61000 
 Number of values above criterion: 9450 
-P-value: 9.45 
+P-value: 0.15491803278688523 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007736191910607551 
 Number of iterations: 61000 
 Number of values above criterion: 9005 
-P-value: 9.005 
+P-value: 0.14762295081967214 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007524528405898938 
 Number of iterations: 61000 
 Number of values above criterion: 9407 
-P-value: 9.407 
+P-value: 0.15421311475409835 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007568873066561342 
 Number of iterations: 61000 
 Number of values above criterion: 9307 
-P-value: 9.307 
+P-value: 0.1525737704918033 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007528349164500977 
 Number of iterations: 61000 
 Number of values above criterion: 9394 
-P-value: 9.394 
+P-value: 0.154 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007570954055032834 
 Number of iterations: 61000 
 Number of values above criterion: 9335 
-P-value: 9.335 
+P-value: 0.1530327868852459 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007640188660452939 
 Number of iterations: 61000 
 Number of values above criterion: 9188 
-P-value: 9.188 
+P-value: 0.15062295081967214 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0076606891217245445 
 Number of iterations: 61000 
 Number of values above criterion: 9154 
-P-value: 9.154 
+P-value: 0.15006557377049182 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007787490870960341 
 Number of iterations: 61000 
 Number of values above criterion: 8910 
-P-value: 8.91 
+P-value: 0.1460655737704918 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007765008360642287 
 Number of iterations: 61000 
 Number of values above criterion: 8963 
-P-value: 8.963 
+P-value: 0.1469344262295082 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007560195199638681 
 Number of iterations: 61000 
 Number of values above criterion: 9350 
-P-value: 9.35 
+P-value: 0.15327868852459017 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007709349044185613 
 Number of iterations: 61000 
 Number of values above criterion: 9060 
-P-value: 9.06 
+P-value: 0.14852459016393443 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0077823406065963665 
 Number of iterations: 61000 
 Number of values above criterion: 8939 
-P-value: 8.939 
+P-value: 0.14654098360655737 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007508057810470108 
 Number of iterations: 61000 
 Number of values above criterion: 9446 
-P-value: 9.446 
+P-value: 0.15485245901639344 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.0073859157857647595 
 Number of iterations: 61000 
 Number of values above criterion: 9684 
-P-value: 9.684 
+P-value: 0.15875409836065574 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007691197628940296 
 Number of iterations: 61000 
 Number of values above criterion: 9099 
-P-value: 9.099 
+P-value: 0.14916393442622952 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.00781026563916634 
 Number of iterations: 61000 
 Number of values above criterion: 8879 
-P-value: 8.879 
+P-value: 0.14555737704918031 
 
 Fluid intelligence score: Component 7 : Age 
 True coefficient (criterion): 0.007655139058833067 
 Number of iterations: 61000 
 Number of values above criterion: 9146 
-P-value: 9.146 
+P-value: 0.1499344262295082 
 
