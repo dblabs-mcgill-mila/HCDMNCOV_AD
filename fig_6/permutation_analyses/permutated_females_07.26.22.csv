@@ -1,0 +1,701 @@
+,coefs,pval
+0,Canonical_variate_1_Main effect e2/2,0.001
+1,Canonical_variate_2_Main effect e2/2,0.001
+2,Canonical_variate_3_Main effect e2/2,0.001
+3,Canonical_variate_4_Main effect e2/2,0.001
+4,Canonical_variate_5_Main effect e2/2,0.001
+5,Canonical_variate_6_Main effect e2/2,0.001
+6,Canonical_variate_7_Main effect e2/2,0.001
+7,Canonical_variate_8_Main effect e2/2,0.001
+8,Canonical_variate_9_Main effect e2/2,0.001
+9,Canonical_variate_10_Main effect e2/2,0.001
+10,Canonical_variate_11_Main effect e2/2,0.001
+11,Canonical_variate_12_Main effect e2/2,0.001
+12,Canonical_variate_13_Main effect e2/2,0.001
+13,Canonical_variate_14_Main effect e2/2,0.001
+14,Canonical_variate_15_Main effect e2/2,0.001
+15,Canonical_variate_16_Main effect e2/2,0.001
+16,Canonical_variate_17_Main effect e2/2,0.0
+17,Canonical_variate_18_Main effect e2/2,0.001
+18,Canonical_variate_19_Main effect e2/2,0.001
+19,Canonical_variate_20_Main effect e2/2,0.001
+20,Canonical_variate_21_Main effect e2/2,0.001
+21,Canonical_variate_22_Main effect e2/2,0.0
+22,Canonical_variate_23_Main effect e2/2,0.001
+23,Canonical_variate_24_Main effect e2/2,0.001
+24,Canonical_variate_25_Main effect e2/2,0.001
+25,Canonical_variate_26_Main effect e2/2,0.001
+26,Canonical_variate_27_Main effect e2/2,0.001
+27,Canonical_variate_28_Main effect e2/2,0.001
+28,Canonical_variate_29_Main effect e2/2,0.001
+29,Canonical_variate_30_Main effect e2/2,0.0
+30,Canonical_variate_31_Main effect e2/2,0.0
+31,Canonical_variate_32_Main effect e2/2,0.001
+32,Canonical_variate_33_Main effect e2/2,0.001
+33,Canonical_variate_34_Main effect e2/2,0.001
+34,Canonical_variate_35_Main effect e2/2,0.0
+35,Canonical_variate_36_Main effect e2/2,0.001
+36,Canonical_variate_37_Main effect e2/2,0.0
+37,Canonical_variate_38_Main effect e2/2,0.001
+38,Canonical_variate_39_Main effect e2/2,0.0
+39,Canonical_variate_40_Main effect e2/2,0.001
+40,Canonical_variate_41_Main effect e2/2,0.0
+41,Canonical_variate_42_Main effect e2/2,0.0
+42,Canonical_variate_43_Main effect e2/2,0.001
+43,Canonical_variate_44_Main effect e2/2,0.001
+44,Canonical_variate_45_Main effect e2/2,0.0
+45,Canonical_variate_46_Main effect e2/2,0.0
+46,Canonical_variate_47_Main effect e2/2,0.0
+47,Canonical_variate_48_Main effect e2/2,0.0
+48,Canonical_variate_49_Main effect e2/2,0.0
+49,Canonical_variate_50_Main effect e2/2,0.0
+50,Canonical_variate_1_Main effect e2/3,0.0
+51,Canonical_variate_2_Main effect e2/3,0.0
+52,Canonical_variate_3_Main effect e2/3,0.0
+53,Canonical_variate_4_Main effect e2/3,0.0
+54,Canonical_variate_5_Main effect e2/3,0.0
+55,Canonical_variate_6_Main effect e2/3,0.0
+56,Canonical_variate_7_Main effect e2/3,0.0
+57,Canonical_variate_8_Main effect e2/3,0.0
+58,Canonical_variate_9_Main effect e2/3,0.0
+59,Canonical_variate_10_Main effect e2/3,0.0
+60,Canonical_variate_11_Main effect e2/3,0.0
+61,Canonical_variate_12_Main effect e2/3,0.0
+62,Canonical_variate_13_Main effect e2/3,0.0
+63,Canonical_variate_14_Main effect e2/3,0.0
+64,Canonical_variate_15_Main effect e2/3,0.0
+65,Canonical_variate_16_Main effect e2/3,0.0
+66,Canonical_variate_17_Main effect e2/3,0.0
+67,Canonical_variate_18_Main effect e2/3,0.0
+68,Canonical_variate_19_Main effect e2/3,0.0
+69,Canonical_variate_20_Main effect e2/3,0.0
+70,Canonical_variate_21_Main effect e2/3,0.0
+71,Canonical_variate_22_Main effect e2/3,0.0
+72,Canonical_variate_23_Main effect e2/3,0.0
+73,Canonical_variate_24_Main effect e2/3,0.0
+74,Canonical_variate_25_Main effect e2/3,0.0
+75,Canonical_variate_26_Main effect e2/3,0.0
+76,Canonical_variate_27_Main effect e2/3,0.0
+77,Canonical_variate_28_Main effect e2/3,0.0
+78,Canonical_variate_29_Main effect e2/3,0.0
+79,Canonical_variate_30_Main effect e2/3,0.0
+80,Canonical_variate_31_Main effect e2/3,0.0
+81,Canonical_variate_32_Main effect e2/3,0.0
+82,Canonical_variate_33_Main effect e2/3,0.0
+83,Canonical_variate_34_Main effect e2/3,0.0
+84,Canonical_variate_35_Main effect e2/3,0.0
+85,Canonical_variate_36_Main effect e2/3,0.0
+86,Canonical_variate_37_Main effect e2/3,0.0
+87,Canonical_variate_38_Main effect e2/3,0.0
+88,Canonical_variate_39_Main effect e2/3,0.0
+89,Canonical_variate_40_Main effect e2/3,0.0
+90,Canonical_variate_41_Main effect e2/3,0.0
+91,Canonical_variate_42_Main effect e2/3,0.0
+92,Canonical_variate_43_Main effect e2/3,0.0
+93,Canonical_variate_44_Main effect e2/3,0.0
+94,Canonical_variate_45_Main effect e2/3,0.0
+95,Canonical_variate_46_Main effect e2/3,0.0
+96,Canonical_variate_47_Main effect e2/3,0.0
+97,Canonical_variate_48_Main effect e2/3,0.0
+98,Canonical_variate_49_Main effect e2/3,0.0
+99,Canonical_variate_50_Main effect e2/3,0.0
+100,Canonical_variate_1_Main effect e3/3,0.0
+101,Canonical_variate_2_Main effect e3/3,0.0
+102,Canonical_variate_3_Main effect e3/3,0.0
+103,Canonical_variate_4_Main effect e3/3,0.0
+104,Canonical_variate_5_Main effect e3/3,0.0
+105,Canonical_variate_6_Main effect e3/3,0.0
+106,Canonical_variate_7_Main effect e3/3,0.0
+107,Canonical_variate_8_Main effect e3/3,0.0
+108,Canonical_variate_9_Main effect e3/3,0.0
+109,Canonical_variate_10_Main effect e3/3,0.0
+110,Canonical_variate_11_Main effect e3/3,0.0
+111,Canonical_variate_12_Main effect e3/3,0.0
+112,Canonical_variate_13_Main effect e3/3,0.0
+113,Canonical_variate_14_Main effect e3/3,0.0
+114,Canonical_variate_15_Main effect e3/3,0.0
+115,Canonical_variate_16_Main effect e3/3,0.0
+116,Canonical_variate_17_Main effect e3/3,0.0
+117,Canonical_variate_18_Main effect e3/3,0.0
+118,Canonical_variate_19_Main effect e3/3,0.0
+119,Canonical_variate_20_Main effect e3/3,0.0
+120,Canonical_variate_21_Main effect e3/3,0.0
+121,Canonical_variate_22_Main effect e3/3,0.0
+122,Canonical_variate_23_Main effect e3/3,0.0
+123,Canonical_variate_24_Main effect e3/3,0.0
+124,Canonical_variate_25_Main effect e3/3,0.0
+125,Canonical_variate_26_Main effect e3/3,0.0
+126,Canonical_variate_27_Main effect e3/3,0.0
+127,Canonical_variate_28_Main effect e3/3,0.0
+128,Canonical_variate_29_Main effect e3/3,0.0
+129,Canonical_variate_30_Main effect e3/3,0.0
+130,Canonical_variate_31_Main effect e3/3,0.0
+131,Canonical_variate_32_Main effect e3/3,0.0
+132,Canonical_variate_33_Main effect e3/3,0.0
+133,Canonical_variate_34_Main effect e3/3,0.0
+134,Canonical_variate_35_Main effect e3/3,0.0
+135,Canonical_variate_36_Main effect e3/3,0.0
+136,Canonical_variate_37_Main effect e3/3,0.0
+137,Canonical_variate_38_Main effect e3/3,0.0
+138,Canonical_variate_39_Main effect e3/3,0.0
+139,Canonical_variate_40_Main effect e3/3,0.0
+140,Canonical_variate_41_Main effect e3/3,0.0
+141,Canonical_variate_42_Main effect e3/3,0.0
+142,Canonical_variate_43_Main effect e3/3,0.0
+143,Canonical_variate_44_Main effect e3/3,0.0
+144,Canonical_variate_45_Main effect e3/3,0.0
+145,Canonical_variate_46_Main effect e3/3,0.0
+146,Canonical_variate_47_Main effect e3/3,0.0
+147,Canonical_variate_48_Main effect e3/3,0.0
+148,Canonical_variate_49_Main effect e3/3,0.0
+149,Canonical_variate_50_Main effect e3/3,0.0
+150,Canonical_variate_1_Main effect e2/4,0.007
+151,Canonical_variate_2_Main effect e2/4,0.013
+152,Canonical_variate_3_Main effect e2/4,0.011
+153,Canonical_variate_4_Main effect e2/4,0.006
+154,Canonical_variate_5_Main effect e2/4,0.007
+155,Canonical_variate_6_Main effect e2/4,0.008
+156,Canonical_variate_7_Main effect e2/4,0.007
+157,Canonical_variate_8_Main effect e2/4,0.006
+158,Canonical_variate_9_Main effect e2/4,0.007
+159,Canonical_variate_10_Main effect e2/4,0.004
+160,Canonical_variate_11_Main effect e2/4,0.007
+161,Canonical_variate_12_Main effect e2/4,0.005
+162,Canonical_variate_13_Main effect e2/4,0.007
+163,Canonical_variate_14_Main effect e2/4,0.006
+164,Canonical_variate_15_Main effect e2/4,0.008
+165,Canonical_variate_16_Main effect e2/4,0.004
+166,Canonical_variate_17_Main effect e2/4,0.007
+167,Canonical_variate_18_Main effect e2/4,0.005
+168,Canonical_variate_19_Main effect e2/4,0.002
+169,Canonical_variate_20_Main effect e2/4,0.006
+170,Canonical_variate_21_Main effect e2/4,0.007
+171,Canonical_variate_22_Main effect e2/4,0.004
+172,Canonical_variate_23_Main effect e2/4,0.008
+173,Canonical_variate_24_Main effect e2/4,0.003
+174,Canonical_variate_25_Main effect e2/4,0.006
+175,Canonical_variate_26_Main effect e2/4,0.006
+176,Canonical_variate_27_Main effect e2/4,0.013
+177,Canonical_variate_28_Main effect e2/4,0.007
+178,Canonical_variate_29_Main effect e2/4,0.004
+179,Canonical_variate_30_Main effect e2/4,0.005
+180,Canonical_variate_31_Main effect e2/4,0.006
+181,Canonical_variate_32_Main effect e2/4,0.005
+182,Canonical_variate_33_Main effect e2/4,0.006
+183,Canonical_variate_34_Main effect e2/4,0.003
+184,Canonical_variate_35_Main effect e2/4,0.005
+185,Canonical_variate_36_Main effect e2/4,0.006
+186,Canonical_variate_37_Main effect e2/4,0.004
+187,Canonical_variate_38_Main effect e2/4,0.005
+188,Canonical_variate_39_Main effect e2/4,0.01
+189,Canonical_variate_40_Main effect e2/4,0.008
+190,Canonical_variate_41_Main effect e2/4,0.004
+191,Canonical_variate_42_Main effect e2/4,0.009
+192,Canonical_variate_43_Main effect e2/4,0.004
+193,Canonical_variate_44_Main effect e2/4,0.001
+194,Canonical_variate_45_Main effect e2/4,0.004
+195,Canonical_variate_46_Main effect e2/4,0.004
+196,Canonical_variate_47_Main effect e2/4,0.004
+197,Canonical_variate_48_Main effect e2/4,0.004
+198,Canonical_variate_49_Main effect e2/4,0.004
+199,Canonical_variate_50_Main effect e2/4,0.003
+200,Canonical_variate_1_Main effect e3/4,0.0
+201,Canonical_variate_2_Main effect e3/4,0.0
+202,Canonical_variate_3_Main effect e3/4,0.0
+203,Canonical_variate_4_Main effect e3/4,0.0
+204,Canonical_variate_5_Main effect e3/4,0.0
+205,Canonical_variate_6_Main effect e3/4,0.0
+206,Canonical_variate_7_Main effect e3/4,0.0
+207,Canonical_variate_8_Main effect e3/4,0.0
+208,Canonical_variate_9_Main effect e3/4,0.0
+209,Canonical_variate_10_Main effect e3/4,0.0
+210,Canonical_variate_11_Main effect e3/4,0.0
+211,Canonical_variate_12_Main effect e3/4,0.0
+212,Canonical_variate_13_Main effect e3/4,0.0
+213,Canonical_variate_14_Main effect e3/4,0.0
+214,Canonical_variate_15_Main effect e3/4,0.0
+215,Canonical_variate_16_Main effect e3/4,0.0
+216,Canonical_variate_17_Main effect e3/4,0.0
+217,Canonical_variate_18_Main effect e3/4,0.0
+218,Canonical_variate_19_Main effect e3/4,0.0
+219,Canonical_variate_20_Main effect e3/4,0.0
+220,Canonical_variate_21_Main effect e3/4,0.0
+221,Canonical_variate_22_Main effect e3/4,0.0
+222,Canonical_variate_23_Main effect e3/4,0.0
+223,Canonical_variate_24_Main effect e3/4,0.0
+224,Canonical_variate_25_Main effect e3/4,0.0
+225,Canonical_variate_26_Main effect e3/4,0.0
+226,Canonical_variate_27_Main effect e3/4,0.0
+227,Canonical_variate_28_Main effect e3/4,0.0
+228,Canonical_variate_29_Main effect e3/4,0.0
+229,Canonical_variate_30_Main effect e3/4,0.0
+230,Canonical_variate_31_Main effect e3/4,0.0
+231,Canonical_variate_32_Main effect e3/4,0.0
+232,Canonical_variate_33_Main effect e3/4,0.0
+233,Canonical_variate_34_Main effect e3/4,0.0
+234,Canonical_variate_35_Main effect e3/4,0.0
+235,Canonical_variate_36_Main effect e3/4,0.0
+236,Canonical_variate_37_Main effect e3/4,0.0
+237,Canonical_variate_38_Main effect e3/4,0.0
+238,Canonical_variate_39_Main effect e3/4,0.0
+239,Canonical_variate_40_Main effect e3/4,0.0
+240,Canonical_variate_41_Main effect e3/4,0.0
+241,Canonical_variate_42_Main effect e3/4,0.0
+242,Canonical_variate_43_Main effect e3/4,0.0
+243,Canonical_variate_44_Main effect e3/4,0.0
+244,Canonical_variate_45_Main effect e3/4,0.0
+245,Canonical_variate_46_Main effect e3/4,0.0
+246,Canonical_variate_47_Main effect e3/4,0.0
+247,Canonical_variate_48_Main effect e3/4,0.0
+248,Canonical_variate_49_Main effect e3/4,0.0
+249,Canonical_variate_50_Main effect e3/4,0.0
+250,Canonical_variate_1_Main effect e4/4,0.0
+251,Canonical_variate_2_Main effect e4/4,0.0
+252,Canonical_variate_3_Main effect e4/4,0.0
+253,Canonical_variate_4_Main effect e4/4,0.0
+254,Canonical_variate_5_Main effect e4/4,0.0
+255,Canonical_variate_6_Main effect e4/4,0.0
+256,Canonical_variate_7_Main effect e4/4,0.0
+257,Canonical_variate_8_Main effect e4/4,0.0
+258,Canonical_variate_9_Main effect e4/4,0.0
+259,Canonical_variate_10_Main effect e4/4,0.0
+260,Canonical_variate_11_Main effect e4/4,0.0
+261,Canonical_variate_12_Main effect e4/4,0.0
+262,Canonical_variate_13_Main effect e4/4,0.0
+263,Canonical_variate_14_Main effect e4/4,0.0
+264,Canonical_variate_15_Main effect e4/4,0.0
+265,Canonical_variate_16_Main effect e4/4,0.0
+266,Canonical_variate_17_Main effect e4/4,0.0
+267,Canonical_variate_18_Main effect e4/4,0.0
+268,Canonical_variate_19_Main effect e4/4,0.0
+269,Canonical_variate_20_Main effect e4/4,0.0
+270,Canonical_variate_21_Main effect e4/4,0.0
+271,Canonical_variate_22_Main effect e4/4,0.0
+272,Canonical_variate_23_Main effect e4/4,0.0
+273,Canonical_variate_24_Main effect e4/4,0.0
+274,Canonical_variate_25_Main effect e4/4,0.0
+275,Canonical_variate_26_Main effect e4/4,0.0
+276,Canonical_variate_27_Main effect e4/4,0.0
+277,Canonical_variate_28_Main effect e4/4,0.0
+278,Canonical_variate_29_Main effect e4/4,0.0
+279,Canonical_variate_30_Main effect e4/4,0.0
+280,Canonical_variate_31_Main effect e4/4,0.0
+281,Canonical_variate_32_Main effect e4/4,0.0
+282,Canonical_variate_33_Main effect e4/4,0.0
+283,Canonical_variate_34_Main effect e4/4,0.0
+284,Canonical_variate_35_Main effect e4/4,0.0
+285,Canonical_variate_36_Main effect e4/4,0.0
+286,Canonical_variate_37_Main effect e4/4,0.0
+287,Canonical_variate_38_Main effect e4/4,0.0
+288,Canonical_variate_39_Main effect e4/4,0.0
+289,Canonical_variate_40_Main effect e4/4,0.0
+290,Canonical_variate_41_Main effect e4/4,0.0
+291,Canonical_variate_42_Main effect e4/4,0.0
+292,Canonical_variate_43_Main effect e4/4,0.0
+293,Canonical_variate_44_Main effect e4/4,0.0
+294,Canonical_variate_45_Main effect e4/4,0.0
+295,Canonical_variate_46_Main effect e4/4,0.0
+296,Canonical_variate_47_Main effect e4/4,0.0
+297,Canonical_variate_48_Main effect e4/4,0.0
+298,Canonical_variate_49_Main effect e4/4,0.0
+299,Canonical_variate_50_Main effect e4/4,0.0
+300,Canonical_variate_1_Main effect canonical variate,0.083
+301,Canonical_variate_2_Main effect canonical variate,0.001
+302,Canonical_variate_3_Main effect canonical variate,0.217
+303,Canonical_variate_4_Main effect canonical variate,0.044
+304,Canonical_variate_5_Main effect canonical variate,0.038
+305,Canonical_variate_6_Main effect canonical variate,0.456
+306,Canonical_variate_7_Main effect canonical variate,0.365
+307,Canonical_variate_8_Main effect canonical variate,0.029
+308,Canonical_variate_9_Main effect canonical variate,0.084
+309,Canonical_variate_10_Main effect canonical variate,0.036
+310,Canonical_variate_11_Main effect canonical variate,0.131
+311,Canonical_variate_12_Main effect canonical variate,0.014
+312,Canonical_variate_13_Main effect canonical variate,0.104
+313,Canonical_variate_14_Main effect canonical variate,0.315
+314,Canonical_variate_15_Main effect canonical variate,0.224
+315,Canonical_variate_16_Main effect canonical variate,0.25
+316,Canonical_variate_17_Main effect canonical variate,0.148
+317,Canonical_variate_18_Main effect canonical variate,0.239
+318,Canonical_variate_19_Main effect canonical variate,0.065
+319,Canonical_variate_20_Main effect canonical variate,0.22
+320,Canonical_variate_21_Main effect canonical variate,0.155
+321,Canonical_variate_22_Main effect canonical variate,0.223
+322,Canonical_variate_23_Main effect canonical variate,0.168
+323,Canonical_variate_24_Main effect canonical variate,0.005
+324,Canonical_variate_25_Main effect canonical variate,0.083
+325,Canonical_variate_26_Main effect canonical variate,0.091
+326,Canonical_variate_27_Main effect canonical variate,0.02
+327,Canonical_variate_28_Main effect canonical variate,0.016
+328,Canonical_variate_29_Main effect canonical variate,0.285
+329,Canonical_variate_30_Main effect canonical variate,0.207
+330,Canonical_variate_31_Main effect canonical variate,0.008
+331,Canonical_variate_32_Main effect canonical variate,0.064
+332,Canonical_variate_33_Main effect canonical variate,0.15
+333,Canonical_variate_34_Main effect canonical variate,0.0
+334,Canonical_variate_35_Main effect canonical variate,0.124
+335,Canonical_variate_36_Main effect canonical variate,0.186
+336,Canonical_variate_37_Main effect canonical variate,0.188
+337,Canonical_variate_38_Main effect canonical variate,0.065
+338,Canonical_variate_39_Main effect canonical variate,0.066
+339,Canonical_variate_40_Main effect canonical variate,0.105
+340,Canonical_variate_41_Main effect canonical variate,0.007
+341,Canonical_variate_42_Main effect canonical variate,0.191
+342,Canonical_variate_43_Main effect canonical variate,0.015
+343,Canonical_variate_44_Main effect canonical variate,0.052
+344,Canonical_variate_45_Main effect canonical variate,0.003
+345,Canonical_variate_46_Main effect canonical variate,0.236
+346,Canonical_variate_47_Main effect canonical variate,0.113
+347,Canonical_variate_48_Main effect canonical variate,0.264
+348,Canonical_variate_49_Main effect canonical variate,0.119
+349,Canonical_variate_50_Main effect canonical variate,0.211
+350,Canonical_variate_1_Canonical variate x e2/2,0.283
+351,Canonical_variate_2_Canonical variate x e2/2,0.075
+352,Canonical_variate_3_Canonical variate x e2/2,0.14
+353,Canonical_variate_4_Canonical variate x e2/2,0.126
+354,Canonical_variate_5_Canonical variate x e2/2,0.022
+355,Canonical_variate_6_Canonical variate x e2/2,0.181
+356,Canonical_variate_7_Canonical variate x e2/2,0.077
+357,Canonical_variate_8_Canonical variate x e2/2,0.039
+358,Canonical_variate_9_Canonical variate x e2/2,0.063
+359,Canonical_variate_10_Canonical variate x e2/2,0.02
+360,Canonical_variate_11_Canonical variate x e2/2,0.296
+361,Canonical_variate_12_Canonical variate x e2/2,0.002
+362,Canonical_variate_13_Canonical variate x e2/2,0.281
+363,Canonical_variate_14_Canonical variate x e2/2,0.075
+364,Canonical_variate_15_Canonical variate x e2/2,0.236
+365,Canonical_variate_16_Canonical variate x e2/2,0.091
+366,Canonical_variate_17_Canonical variate x e2/2,0.181
+367,Canonical_variate_18_Canonical variate x e2/2,0.282
+368,Canonical_variate_19_Canonical variate x e2/2,0.21
+369,Canonical_variate_20_Canonical variate x e2/2,0.136
+370,Canonical_variate_21_Canonical variate x e2/2,0.271
+371,Canonical_variate_22_Canonical variate x e2/2,0.038
+372,Canonical_variate_23_Canonical variate x e2/2,0.235
+373,Canonical_variate_24_Canonical variate x e2/2,0.045
+374,Canonical_variate_25_Canonical variate x e2/2,0.075
+375,Canonical_variate_26_Canonical variate x e2/2,0.127
+376,Canonical_variate_27_Canonical variate x e2/2,0.139
+377,Canonical_variate_28_Canonical variate x e2/2,0.121
+378,Canonical_variate_29_Canonical variate x e2/2,0.301
+379,Canonical_variate_30_Canonical variate x e2/2,0.224
+380,Canonical_variate_31_Canonical variate x e2/2,0.044
+381,Canonical_variate_32_Canonical variate x e2/2,0.288
+382,Canonical_variate_33_Canonical variate x e2/2,0.215
+383,Canonical_variate_34_Canonical variate x e2/2,0.0
+384,Canonical_variate_35_Canonical variate x e2/2,0.243
+385,Canonical_variate_36_Canonical variate x e2/2,0.039
+386,Canonical_variate_37_Canonical variate x e2/2,0.172
+387,Canonical_variate_38_Canonical variate x e2/2,0.127
+388,Canonical_variate_39_Canonical variate x e2/2,0.222
+389,Canonical_variate_40_Canonical variate x e2/2,0.185
+390,Canonical_variate_41_Canonical variate x e2/2,0.072
+391,Canonical_variate_42_Canonical variate x e2/2,0.177
+392,Canonical_variate_43_Canonical variate x e2/2,0.022
+393,Canonical_variate_44_Canonical variate x e2/2,0.055
+394,Canonical_variate_45_Canonical variate x e2/2,0.006
+395,Canonical_variate_46_Canonical variate x e2/2,0.222
+396,Canonical_variate_47_Canonical variate x e2/2,0.109
+397,Canonical_variate_48_Canonical variate x e2/2,0.055
+398,Canonical_variate_49_Canonical variate x e2/2,0.029
+399,Canonical_variate_50_Canonical variate x e2/2,0.188
+400,Canonical_variate_1_Canonical variate x e2/3,0.109
+401,Canonical_variate_2_Canonical variate x e2/3,0.036
+402,Canonical_variate_3_Canonical variate x e2/3,0.205
+403,Canonical_variate_4_Canonical variate x e2/3,0.367
+404,Canonical_variate_5_Canonical variate x e2/3,0.054
+405,Canonical_variate_6_Canonical variate x e2/3,0.299
+406,Canonical_variate_7_Canonical variate x e2/3,0.19
+407,Canonical_variate_8_Canonical variate x e2/3,0.012
+408,Canonical_variate_9_Canonical variate x e2/3,0.007
+409,Canonical_variate_10_Canonical variate x e2/3,0.115
+410,Canonical_variate_11_Canonical variate x e2/3,0.132
+411,Canonical_variate_12_Canonical variate x e2/3,0.398
+412,Canonical_variate_13_Canonical variate x e2/3,0.004
+413,Canonical_variate_14_Canonical variate x e2/3,0.012
+414,Canonical_variate_15_Canonical variate x e2/3,0.084
+415,Canonical_variate_16_Canonical variate x e2/3,0.0
+416,Canonical_variate_17_Canonical variate x e2/3,0.319
+417,Canonical_variate_18_Canonical variate x e2/3,0.228
+418,Canonical_variate_19_Canonical variate x e2/3,0.177
+419,Canonical_variate_20_Canonical variate x e2/3,0.098
+420,Canonical_variate_21_Canonical variate x e2/3,0.219
+421,Canonical_variate_22_Canonical variate x e2/3,0.282
+422,Canonical_variate_23_Canonical variate x e2/3,0.173
+423,Canonical_variate_24_Canonical variate x e2/3,0.169
+424,Canonical_variate_25_Canonical variate x e2/3,0.305
+425,Canonical_variate_26_Canonical variate x e2/3,0.263
+426,Canonical_variate_27_Canonical variate x e2/3,0.046
+427,Canonical_variate_28_Canonical variate x e2/3,0.052
+428,Canonical_variate_29_Canonical variate x e2/3,0.3
+429,Canonical_variate_30_Canonical variate x e2/3,0.242
+430,Canonical_variate_31_Canonical variate x e2/3,0.186
+431,Canonical_variate_32_Canonical variate x e2/3,0.214
+432,Canonical_variate_33_Canonical variate x e2/3,0.265
+433,Canonical_variate_34_Canonical variate x e2/3,0.068
+434,Canonical_variate_35_Canonical variate x e2/3,0.258
+435,Canonical_variate_36_Canonical variate x e2/3,0.122
+436,Canonical_variate_37_Canonical variate x e2/3,0.071
+437,Canonical_variate_38_Canonical variate x e2/3,0.092
+438,Canonical_variate_39_Canonical variate x e2/3,0.065
+439,Canonical_variate_40_Canonical variate x e2/3,0.058
+440,Canonical_variate_41_Canonical variate x e2/3,0.245
+441,Canonical_variate_42_Canonical variate x e2/3,0.015
+442,Canonical_variate_43_Canonical variate x e2/3,0.044
+443,Canonical_variate_44_Canonical variate x e2/3,0.02
+444,Canonical_variate_45_Canonical variate x e2/3,0.055
+445,Canonical_variate_46_Canonical variate x e2/3,0.157
+446,Canonical_variate_47_Canonical variate x e2/3,0.126
+447,Canonical_variate_48_Canonical variate x e2/3,0.168
+448,Canonical_variate_49_Canonical variate x e2/3,0.011
+449,Canonical_variate_50_Canonical variate x e2/3,0.037
+450,Canonical_variate_1_Canonical variate x e3/3,0.461
+451,Canonical_variate_2_Canonical variate x e3/3,0.013
+452,Canonical_variate_3_Canonical variate x e3/3,0.424
+453,Canonical_variate_4_Canonical variate x e3/3,0.045
+454,Canonical_variate_5_Canonical variate x e3/3,0.095
+455,Canonical_variate_6_Canonical variate x e3/3,0.358
+456,Canonical_variate_7_Canonical variate x e3/3,0.314
+457,Canonical_variate_8_Canonical variate x e3/3,0.01
+458,Canonical_variate_9_Canonical variate x e3/3,0.13
+459,Canonical_variate_10_Canonical variate x e3/3,0.038
+460,Canonical_variate_11_Canonical variate x e3/3,0.272
+461,Canonical_variate_12_Canonical variate x e3/3,0.001
+462,Canonical_variate_13_Canonical variate x e3/3,0.186
+463,Canonical_variate_14_Canonical variate x e3/3,0.288
+464,Canonical_variate_15_Canonical variate x e3/3,0.365
+465,Canonical_variate_16_Canonical variate x e3/3,0.114
+466,Canonical_variate_17_Canonical variate x e3/3,0.288
+467,Canonical_variate_18_Canonical variate x e3/3,0.326
+468,Canonical_variate_19_Canonical variate x e3/3,0.176
+469,Canonical_variate_20_Canonical variate x e3/3,0.314
+470,Canonical_variate_21_Canonical variate x e3/3,0.329
+471,Canonical_variate_22_Canonical variate x e3/3,0.186
+472,Canonical_variate_23_Canonical variate x e3/3,0.053
+473,Canonical_variate_24_Canonical variate x e3/3,0.035
+474,Canonical_variate_25_Canonical variate x e3/3,0.218
+475,Canonical_variate_26_Canonical variate x e3/3,0.225
+476,Canonical_variate_27_Canonical variate x e3/3,0.061
+477,Canonical_variate_28_Canonical variate x e3/3,0.26
+478,Canonical_variate_29_Canonical variate x e3/3,0.319
+479,Canonical_variate_30_Canonical variate x e3/3,0.265
+480,Canonical_variate_31_Canonical variate x e3/3,0.005
+481,Canonical_variate_32_Canonical variate x e3/3,0.043
+482,Canonical_variate_33_Canonical variate x e3/3,0.162
+483,Canonical_variate_34_Canonical variate x e3/3,0.003
+484,Canonical_variate_35_Canonical variate x e3/3,0.179
+485,Canonical_variate_36_Canonical variate x e3/3,0.267
+486,Canonical_variate_37_Canonical variate x e3/3,0.186
+487,Canonical_variate_38_Canonical variate x e3/3,0.072
+488,Canonical_variate_39_Canonical variate x e3/3,0.048
+489,Canonical_variate_40_Canonical variate x e3/3,0.238
+490,Canonical_variate_41_Canonical variate x e3/3,0.009
+491,Canonical_variate_42_Canonical variate x e3/3,0.089
+492,Canonical_variate_43_Canonical variate x e3/3,0.055
+493,Canonical_variate_44_Canonical variate x e3/3,0.085
+494,Canonical_variate_45_Canonical variate x e3/3,0.006
+495,Canonical_variate_46_Canonical variate x e3/3,0.146
+496,Canonical_variate_47_Canonical variate x e3/3,0.13
+497,Canonical_variate_48_Canonical variate x e3/3,0.199
+498,Canonical_variate_49_Canonical variate x e3/3,0.194
+499,Canonical_variate_50_Canonical variate x e3/3,0.241
+500,Canonical_variate_1_Canonical variate x e2/4,0.305
+501,Canonical_variate_2_Canonical variate x e2/4,0.038
+502,Canonical_variate_3_Canonical variate x e2/4,0.211
+503,Canonical_variate_4_Canonical variate x e2/4,0.436
+504,Canonical_variate_5_Canonical variate x e2/4,0.244
+505,Canonical_variate_6_Canonical variate x e2/4,0.124
+506,Canonical_variate_7_Canonical variate x e2/4,0.392
+507,Canonical_variate_8_Canonical variate x e2/4,0.069
+508,Canonical_variate_9_Canonical variate x e2/4,0.106
+509,Canonical_variate_10_Canonical variate x e2/4,0.083
+510,Canonical_variate_11_Canonical variate x e2/4,0.433
+511,Canonical_variate_12_Canonical variate x e2/4,0.246
+512,Canonical_variate_13_Canonical variate x e2/4,0.154
+513,Canonical_variate_14_Canonical variate x e2/4,0.315
+514,Canonical_variate_15_Canonical variate x e2/4,0.101
+515,Canonical_variate_16_Canonical variate x e2/4,0.282
+516,Canonical_variate_17_Canonical variate x e2/4,0.255
+517,Canonical_variate_18_Canonical variate x e2/4,0.177
+518,Canonical_variate_19_Canonical variate x e2/4,0.218
+519,Canonical_variate_20_Canonical variate x e2/4,0.32
+520,Canonical_variate_21_Canonical variate x e2/4,0.096
+521,Canonical_variate_22_Canonical variate x e2/4,0.036
+522,Canonical_variate_23_Canonical variate x e2/4,0.211
+523,Canonical_variate_24_Canonical variate x e2/4,0.275
+524,Canonical_variate_25_Canonical variate x e2/4,0.271
+525,Canonical_variate_26_Canonical variate x e2/4,0.124
+526,Canonical_variate_27_Canonical variate x e2/4,0.005
+527,Canonical_variate_28_Canonical variate x e2/4,0.168
+528,Canonical_variate_29_Canonical variate x e2/4,0.261
+529,Canonical_variate_30_Canonical variate x e2/4,0.136
+530,Canonical_variate_31_Canonical variate x e2/4,0.286
+531,Canonical_variate_32_Canonical variate x e2/4,0.247
+532,Canonical_variate_33_Canonical variate x e2/4,0.198
+533,Canonical_variate_34_Canonical variate x e2/4,0.005
+534,Canonical_variate_35_Canonical variate x e2/4,0.239
+535,Canonical_variate_36_Canonical variate x e2/4,0.022
+536,Canonical_variate_37_Canonical variate x e2/4,0.264
+537,Canonical_variate_38_Canonical variate x e2/4,0.141
+538,Canonical_variate_39_Canonical variate x e2/4,0.012
+539,Canonical_variate_40_Canonical variate x e2/4,0.03
+540,Canonical_variate_41_Canonical variate x e2/4,0.13
+541,Canonical_variate_42_Canonical variate x e2/4,0.004
+542,Canonical_variate_43_Canonical variate x e2/4,0.154
+543,Canonical_variate_44_Canonical variate x e2/4,0.249
+544,Canonical_variate_45_Canonical variate x e2/4,0.171
+545,Canonical_variate_46_Canonical variate x e2/4,0.253
+546,Canonical_variate_47_Canonical variate x e2/4,0.145
+547,Canonical_variate_48_Canonical variate x e2/4,0.052
+548,Canonical_variate_49_Canonical variate x e2/4,0.084
+549,Canonical_variate_50_Canonical variate x e2/4,0.199
+550,Canonical_variate_1_Canonical variate x e3/4,0.401
+551,Canonical_variate_2_Canonical variate x e3/4,0.002
+552,Canonical_variate_3_Canonical variate x e3/4,0.455
+553,Canonical_variate_4_Canonical variate x e3/4,0.009
+554,Canonical_variate_5_Canonical variate x e3/4,0.237
+555,Canonical_variate_6_Canonical variate x e3/4,0.167
+556,Canonical_variate_7_Canonical variate x e3/4,0.289
+557,Canonical_variate_8_Canonical variate x e3/4,0.12
+558,Canonical_variate_9_Canonical variate x e3/4,0.108
+559,Canonical_variate_10_Canonical variate x e3/4,0.099
+560,Canonical_variate_11_Canonical variate x e3/4,0.144
+561,Canonical_variate_12_Canonical variate x e3/4,0.053
+562,Canonical_variate_13_Canonical variate x e3/4,0.256
+563,Canonical_variate_14_Canonical variate x e3/4,0.282
+564,Canonical_variate_15_Canonical variate x e3/4,0.285
+565,Canonical_variate_16_Canonical variate x e3/4,0.365
+566,Canonical_variate_17_Canonical variate x e3/4,0.159
+567,Canonical_variate_18_Canonical variate x e3/4,0.199
+568,Canonical_variate_19_Canonical variate x e3/4,0.19
+569,Canonical_variate_20_Canonical variate x e3/4,0.143
+570,Canonical_variate_21_Canonical variate x e3/4,0.169
+571,Canonical_variate_22_Canonical variate x e3/4,0.126
+572,Canonical_variate_23_Canonical variate x e3/4,0.332
+573,Canonical_variate_24_Canonical variate x e3/4,0.009
+574,Canonical_variate_25_Canonical variate x e3/4,0.134
+575,Canonical_variate_26_Canonical variate x e3/4,0.256
+576,Canonical_variate_27_Canonical variate x e3/4,0.051
+577,Canonical_variate_28_Canonical variate x e3/4,0.036
+578,Canonical_variate_29_Canonical variate x e3/4,0.155
+579,Canonical_variate_30_Canonical variate x e3/4,0.311
+580,Canonical_variate_31_Canonical variate x e3/4,0.026
+581,Canonical_variate_32_Canonical variate x e3/4,0.217
+582,Canonical_variate_33_Canonical variate x e3/4,0.106
+583,Canonical_variate_34_Canonical variate x e3/4,0.012
+584,Canonical_variate_35_Canonical variate x e3/4,0.199
+585,Canonical_variate_36_Canonical variate x e3/4,0.193
+586,Canonical_variate_37_Canonical variate x e3/4,0.246
+587,Canonical_variate_38_Canonical variate x e3/4,0.052
+588,Canonical_variate_39_Canonical variate x e3/4,0.044
+589,Canonical_variate_40_Canonical variate x e3/4,0.215
+590,Canonical_variate_41_Canonical variate x e3/4,0.133
+591,Canonical_variate_42_Canonical variate x e3/4,0.053
+592,Canonical_variate_43_Canonical variate x e3/4,0.26
+593,Canonical_variate_44_Canonical variate x e3/4,0.071
+594,Canonical_variate_45_Canonical variate x e3/4,0.036
+595,Canonical_variate_46_Canonical variate x e3/4,0.191
+596,Canonical_variate_47_Canonical variate x e3/4,0.08
+597,Canonical_variate_48_Canonical variate x e3/4,0.151
+598,Canonical_variate_49_Canonical variate x e3/4,0.175
+599,Canonical_variate_50_Canonical variate x e3/4,0.028
+600,Canonical_variate_1_Canonical variate x e4/4,0.309
+601,Canonical_variate_2_Canonical variate x e4/4,0.485
+602,Canonical_variate_3_Canonical variate x e4/4,0.024
+603,Canonical_variate_4_Canonical variate x e4/4,0.317
+604,Canonical_variate_5_Canonical variate x e4/4,0.019
+605,Canonical_variate_6_Canonical variate x e4/4,0.314
+606,Canonical_variate_7_Canonical variate x e4/4,0.014
+607,Canonical_variate_8_Canonical variate x e4/4,0.124
+608,Canonical_variate_9_Canonical variate x e4/4,0.093
+609,Canonical_variate_10_Canonical variate x e4/4,0.361
+610,Canonical_variate_11_Canonical variate x e4/4,0.178
+611,Canonical_variate_12_Canonical variate x e4/4,0.044
+612,Canonical_variate_13_Canonical variate x e4/4,0.181
+613,Canonical_variate_14_Canonical variate x e4/4,0.134
+614,Canonical_variate_15_Canonical variate x e4/4,0.247
+615,Canonical_variate_16_Canonical variate x e4/4,0.249
+616,Canonical_variate_17_Canonical variate x e4/4,0.145
+617,Canonical_variate_18_Canonical variate x e4/4,0.192
+618,Canonical_variate_19_Canonical variate x e4/4,0.132
+619,Canonical_variate_20_Canonical variate x e4/4,0.309
+620,Canonical_variate_21_Canonical variate x e4/4,0.224
+621,Canonical_variate_22_Canonical variate x e4/4,0.122
+622,Canonical_variate_23_Canonical variate x e4/4,0.087
+623,Canonical_variate_24_Canonical variate x e4/4,0.292
+624,Canonical_variate_25_Canonical variate x e4/4,0.078
+625,Canonical_variate_26_Canonical variate x e4/4,0.182
+626,Canonical_variate_27_Canonical variate x e4/4,0.107
+627,Canonical_variate_28_Canonical variate x e4/4,0.043
+628,Canonical_variate_29_Canonical variate x e4/4,0.226
+629,Canonical_variate_30_Canonical variate x e4/4,0.279
+630,Canonical_variate_31_Canonical variate x e4/4,0.232
+631,Canonical_variate_32_Canonical variate x e4/4,0.151
+632,Canonical_variate_33_Canonical variate x e4/4,0.143
+633,Canonical_variate_34_Canonical variate x e4/4,0.257
+634,Canonical_variate_35_Canonical variate x e4/4,0.125
+635,Canonical_variate_36_Canonical variate x e4/4,0.273
+636,Canonical_variate_37_Canonical variate x e4/4,0.161
+637,Canonical_variate_38_Canonical variate x e4/4,0.053
+638,Canonical_variate_39_Canonical variate x e4/4,0.279
+639,Canonical_variate_40_Canonical variate x e4/4,0.207
+640,Canonical_variate_41_Canonical variate x e4/4,0.105
+641,Canonical_variate_42_Canonical variate x e4/4,0.091
+642,Canonical_variate_43_Canonical variate x e4/4,0.143
+643,Canonical_variate_44_Canonical variate x e4/4,0.22
+644,Canonical_variate_45_Canonical variate x e4/4,0.22
+645,Canonical_variate_46_Canonical variate x e4/4,0.154
+646,Canonical_variate_47_Canonical variate x e4/4,0.044
+647,Canonical_variate_48_Canonical variate x e4/4,0.035
+648,Canonical_variate_49_Canonical variate x e4/4,0.169
+649,Canonical_variate_50_Canonical variate x e4/4,0.182
+650,Canonical_variate_1_Age,0.0
+651,Canonical_variate_2_Age,0.0
+652,Canonical_variate_3_Age,0.0
+653,Canonical_variate_4_Age,0.0
+654,Canonical_variate_5_Age,0.0
+655,Canonical_variate_6_Age,0.0
+656,Canonical_variate_7_Age,0.0
+657,Canonical_variate_8_Age,0.0
+658,Canonical_variate_9_Age,0.0
+659,Canonical_variate_10_Age,0.0
+660,Canonical_variate_11_Age,0.0
+661,Canonical_variate_12_Age,0.0
+662,Canonical_variate_13_Age,0.0
+663,Canonical_variate_14_Age,0.0
+664,Canonical_variate_15_Age,0.0
+665,Canonical_variate_16_Age,0.0
+666,Canonical_variate_17_Age,0.0
+667,Canonical_variate_18_Age,0.0
+668,Canonical_variate_19_Age,0.0
+669,Canonical_variate_20_Age,0.0
+670,Canonical_variate_21_Age,0.0
+671,Canonical_variate_22_Age,0.0
+672,Canonical_variate_23_Age,0.0
+673,Canonical_variate_24_Age,0.0
+674,Canonical_variate_25_Age,0.0
+675,Canonical_variate_26_Age,0.0
+676,Canonical_variate_27_Age,0.0
+677,Canonical_variate_28_Age,0.0
+678,Canonical_variate_29_Age,0.0
+679,Canonical_variate_30_Age,0.0
+680,Canonical_variate_31_Age,0.0
+681,Canonical_variate_32_Age,0.0
+682,Canonical_variate_33_Age,0.0
+683,Canonical_variate_34_Age,0.0
+684,Canonical_variate_35_Age,0.0
+685,Canonical_variate_36_Age,0.0
+686,Canonical_variate_37_Age,0.0
+687,Canonical_variate_38_Age,0.0
+688,Canonical_variate_39_Age,0.0
+689,Canonical_variate_40_Age,0.0
+690,Canonical_variate_41_Age,0.0
+691,Canonical_variate_42_Age,0.0
+692,Canonical_variate_43_Age,0.0
+693,Canonical_variate_44_Age,0.0
+694,Canonical_variate_45_Age,0.0
+695,Canonical_variate_46_Age,0.0
+696,Canonical_variate_47_Age,0.0
+697,Canonical_variate_48_Age,0.0
+698,Canonical_variate_49_Age,0.0
+699,Canonical_variate_50_Age,0.0
