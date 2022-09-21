@@ -7,4 +7,4 @@ Scripts associated with the HCDMNCOV_AD manuscript (see [preprint version](https
 
 * The code generating the permutations analyses for [Figure 5](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/tree/master/fig_5) and [Figure 6](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/tree/master/fig_6) can be found in this [ipython notebook](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/blob/master/Permutation_Analyses_Figures_5_6_09.04.22.ipynb)
 
-* The explorartory PCA analyses and their corresponding bootstrap distirbutions can be found under [PCA](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/tree/master/PCA)
+* The explorartory PCA analyses and their corresponding bootstrap distributions can be found under [PCA](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/tree/master/PCA)
