@@ -1,6 +1,6 @@
 # Miami Plots of brain-phenotypic associations
 
-We are here provinding the individual numerical values that underlie the summary data displayed in all the main (Fig 1-6) and supplemental (Fig 1-18)figure panels.  
+We are here provinding the individual numerical values that underlie the summary data displayed in all the main (Figs. 1-3) and supplemental (Sup. Figs. 1-10) figure panels.  
 
 * The p-values (in negative decimal logarithms) for each brain-phenotypic link that passed the FDR threshold in either males or females in the phenome-wide profiling of a given mode of HC-DN co-variation can be found in [hits](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/tree/master/Miami_Plots/hits)
 * The absolute difference in association strength between males and females at a formal 5-95% population confidence interval for a given mode is shown in [bootstrap_analysis/plots](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/tree/master/Miami_Plots/bootstrap_analysis/plots)
