@@ -1,4 +1,4 @@
-# External validation the the Prevent-AD cohort
+# External validation the Prevent-AD cohort
 
 We are here provinding the individual numerical values that underlie the summary data displayed in Sup. Fig. 18.
 
