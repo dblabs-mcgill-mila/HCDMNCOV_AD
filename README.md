@@ -1,6 +1,8 @@
 # HCDMNCOV_AD
 Scripts associated with the HCDMNCOV_AD manuscript (see [preprint version](https://www.biorxiv.org/content/10.1101/2022.03.15.484482v1.abstract))
 
+* The latest data release can be found at [![DOI](https://zenodo.org/badge/540494877.svg)](https://zenodo.org/badge/latestdoi/540494877)
+
 * The original phenome-wide and bootstrap analyses for Figures 1 to 3 can be found under [Miami_Plots](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/tree/master/Miami_Plots)
 
 * The clustering models used for Figure 4 can be found under [clustering_analysis](https://github.com/dblabs-mcgill-mila/HCDMNCOV_AD/tree/master/clustering_analysis)
